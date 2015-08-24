@@ -1,0 +1,16 @@
+DrugBank
+========
+ 
+http://www.drugbank.ca/downloads
+  
+Some of those data elements are in these tabbed text files:
+ 
+drugs - list of the individual drugbank drugs
+drugs and interactions - lists interactions with other drugs
+mesh.txt - breaks out mesh categories for the drugs
+pathways.txt - pathways for drugs
+SNP-AES - SNP related Adverse events
+SNP - mediated effects... pretty clear
+target_2_drug - targets for a given drug with swissprot and gene referecnes
+
+

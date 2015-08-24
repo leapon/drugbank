@@ -1,0 +1,83 @@
+drugbank_id	protein-name	gene-symbol	uniprot-id	rs-id	allele	adverse_reactioon	description	pubmed-id
+DB00054	Integrin beta-3	ITGB3	P05106		GPIIIa PlA2	A2 Allele	Associated with greater restenosis and risk for subacute coronary thrombosis in patients administered antiplatelet therapy.	10732888	
+DB00072	Receptor tyrosine-protein kinase erbB-2	ERBB2	P04626	rs1801200		G Allele, heterozygote	Cardiotoxicity	17693647	
+DB00091	Cytotoxic T-lymphocyte protein 4	CTLA4	P16410	rs231775		A Allele	Gingival overgrowth, periodontal disease	18021981	
+DB00201	Cytochrome P450 1A2	CYP1A2	P05177	rs762551		C allele	Myocardial infarction	16522833	
+DB00215	Glutamate receptor ionotropic, kainate 2	GRIK2	Q13002	rs2518224		C Allele, homozygote	Increased suicidal thoughts	17898344	
+DB00215	Glutamate receptor 3	GRIA3	P42263	rs4825476		G Allele, homozygote	Increased suicidal thoughts	17898344	
+DB00215	Cyclic AMP-responsive element-binding protein 1	CREB1	P16220	rs4675690		T Allele	Elevated suicide risk	17548750	
+DB00215	Cyclic AMP-responsive element-binding protein 1	CREB1	P16220	rs7569963		A Allele	Elevated suicide risk	17548750	
+DB00264	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	A allele	Increased risk of slow heart rate (bradycardia)	18784654	
+DB00285	Cytochrome P450 2D6	CYP2D6	P10635	rs5030655	CYP2D6*4	del T allele	Nausea, vomiting diarrhea	16958828	
+DB00285	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*6	A allele	Nausea, vomiting diarrhea	16958828	
+DB00317	ATP-binding cassette sub-family G member 2	ABCG2	Q9UNQ0	rs2231142		A Allele	Diarrhea	17148776	
+DB00317	ATP-binding cassette sub-family G member 2	ABCG2	Q9UNQ0	rs2231142		A allele	In non-small lung cancer patients, those that are heterozygous (ABCG2 421C>A) have a higher risk of diarrhea.	17148776	
+DB00321	Multidrug resistance protein 1	ABCB1	P08183	rs1045642		T Allele, homozygous	Postural hypotension	12082591	
+DB00321	Cytochrome P450 2C19	CYP2C19	P33261	rs4244285	CYP2C19*2	G > A	Those with the AA or AG genotype are poor metabolizers of amitriptyline	20531370	
+DB00321	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	C > T	Increase risk of side effects and decrease drug metabolism	18070221	
+DB00321	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	C > T	Increase risk of side effects and decrease drug metabolism	9918137	
+DB00349	Cytochrome P450 2C19	CYP2C19	P33261	rs4244285	CYP2C19*2	G > A/C	Clobazem is metabolized into N-desmethylclobazem (NCLB) mostly by CYP3A4. NCLB is primarily metabolized by 2C19. Those with one 2C19*2 allele mutation (1*/2*) are intermediate metabolizers of NCLB. Those with two (2*/2*) mutations will metabolize NCLB poorly in comparisone to extensive metabolizers (1*/1*). Levels of NCLB can be five times higher in poor metabolizers, and two times higher in intermediate metabolizers as compared to individuals who are extensive metabolizers. The safety and efficacy of clobazem may be affected by polymorphic expression of CYP2C19*2.	15483195	
+DB00363	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3	GNB3	P16520	rs5443		TT allele	Schizophrenia patients taking this drug more more weight than patients with at least one rs5443(c) allele	16141801	
+DB00441	Ribonucleoside-diphosphate reductase large subunit	RRM1	P23921	rs3177016		A Allele	Neutropenia	17602053	
+DB00441	Ribonucleoside-diphosphate reductase large subunit	RRM1	P23921	rs1042858		G Allele	Neutropenia	17602053	
+DB00458	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	C > T	Those that are homozygous for the poorly metabolizing CYP2D6 alleles are at an increased risk of side effects and decrease drug metabolism	18070221	
+DB00458	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	C > T	Those that are homozygous for the poorly metabolizing CYP2D6 alleles are at an increased risk of side effects and decrease drug metabolism	9918137	
+DB00459	Apolipoprotein E	APOE	P02649	rs429358		C allele	Psoriasis	16433808	
+DB00459	Apolipoprotein E	APOE	P02649	rs7412		C allele	Psoriasis	16433808	
+DB00515	Glutathione S-transferase Mu 1	GSTM1	P09488		GSTM1	presence	Tinnitus, hearing impairment, Raynaud syndrome	18162130	
+DB00515	Low-density lipoprotein receptor-related protein 2	LRP2	P98164	rs2075252		A allele	Ototoxicity (hearing loss)	17457342	
+DB00515	Low-density lipoprotein receptor-related protein 2	LRP2	P98164	rs4668123		T allele	Ototoxicity (hearing loss)	17457342	
+DB00515	Glutathione S-transferase P	GSTP1	P09211	rs1695		A allele	Tinnitus, hearing impairment, Raynaud syndrome	18162130	
+DB00515	DNA repair protein complementing XP-C cells	XPC	Q01831	rs2228001		G > T	Those with the GG or GT genotpe have an increase risk of adverse effects	21047201	
+DB00540	Multidrug resistance protein 1	ABCB1	P08183	rs1045642		T Allele, homozygous	Postural hypotension	12082591	
+DB00544	Thymidylate synthase	TYMS	P04818	rs34743033	TSER*2		Neutropenia, diarrhea	16818689	
+DB00544	Uridine 5'-monophosphate synthase	UMPS	P11172	rs1801019		C Allele	Neutropenia, diarrhea	16818689	
+DB00544	Dihydropyrimidine dehydrogenase [NADP(+)]	DPYD	Q12882	rs1801265		C allele	Nausea, vomiting, reduced white cell count	17848752	
+DB00544	Dihydropyrimidine dehydrogenase [NADP(+)]	DPYD	Q12882	rs1801159		G allele	Nausea, vomiting, reduced white cell count	17848752	
+DB00544	Glutathione S-transferase P	GSTP1	P09211	rs1695		A allele	Hematological toxicity, gastrointestinal toxicity	18540691	
+DB00544	Dihydropyrimidine dehydrogenase [NADP(+)]	DPYD	Q12882	rs3918290		A allele	Leukopenia, diarrhea, mucositis	18299612	
+DB00544	Dihydropyrimidine dehydrogenase [NADP(+)]	DPYD	Q12882	rs67376798		T > A	Patients are at a higher risk of toxicity	23603345	
+DB00563	Canalicular multispecific organic anion transporter 1	ABCC2	Q92887		ABCC2 IVS 23+56	T allele	General toxicity (gastrointestinal and hepatotoxicity)	18381794	
+DB00563	Methylenetetrahydrofolate reductase	MTHFR	P42898	rs1801133		T allele	Mucositis, hepatic toxicity, thrombocytopenia, alopecia	17488658	
+DB00564	Heat shock 70 kDa protein 1-like	HSPA1L	P34931	rs2227956		T allele	Hypersensitivity reaction, mild erythematous skin rashes, macropapular eruption, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis	16538175	
+DB00564	Heat shock 70 kDa protein 1A/1B	HSPA1A	P08107	rs506770		C allele	Hypersensitivity reaction, mild erythematous skin rashes, macropapular eruption, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis	16538175	
+DB00564	Heat shock 70 kDa protein 1A/1B	HSPA1A	P08107	rs1043620		C allele	Hypersensitivity reaction, mild erythematous skin rashes, macropapular eruption, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis	16538175	
+DB00564	HLA class I histocompatibility antigen, B-15 alpha chain	HLA-B	P30464	rs3130690		T allele	Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis	16538176	
+DB00564	HLA class I histocompatibility antigen, A-31 alpha chain	HLA-A	P16189	rs1264511		G allele	Macropapular eruption	16538176	
+DB00564	Promotilin	MLN	P12872	rs2894342		A allele	Hypersensitivity syndrome	16538176	
+DB00564	Flotillin-1	FLOT1	O75955	rs3909184	HLA-B*1502	G > C	Patients with the CG or GG genotype (in Asian patients) were at a higher risk of Steven-Johnson Syndrome compared to those with the CC genotype (non-carriers of HLA-b*1502)	18637831	
+DB00564	Mucin-21	MUC21	Q5SSG8	rs2844682	HLA-B*1502	G>A	Patients with the AG or GG genotype (in Asian patients) were at a higher risk of Steven-Johnson Syndrome compared to those with the AA genotype	18637831	
+DB00564	Flotillin-1	FLOT1	O75955	rs3909184	HLA-B*1502	G > C	Patients with the CG or GG genotype (in Asian patients) were at a higher risk of Steven-Johnson Syndrome compared to those with the CC genotype (non-carriers of HLA-b*1502)	15057820	
+DB00564	Mucin-21	MUC21	Q5SSG8	rs2844682	HLA-B*1502	G>A	Patients with the AG or GG genotype (in Asian patients) were at a higher risk of Steven-Johnson Syndrome compared to those with the AA genotype	15057820	
+DB00675	Coagulation factor V	F5	P12259	rs6025		A allele	Breast cancer patients taking tamoxifen as part of treatment regimine are more likely to experience a thromboembolic event.	20554945	
+DB00694	Cytochrome P450 1B1	CYP1B1	Q16678	rs10932125		G allele	Myelosuppression, cardiac toxicity, cytotoxicty	18451141	
+DB00694	Heterogeneous nuclear ribonucleoprotein D0	HNRNPD	Q14103	rs3750518		A allele	Myelosuppression, cardiac toxicity, cytotoxicty	18451141	
+DB00694	SEC14-like protein 3	SEC14L3	Q9UDX4	rs6603859		T allele	Myelosuppression, cardiac toxicity, cytotoxicty	18451141	
+DB00694	Inhibitor of nuclear factor kappa-B kinase subunit epsilon	IKBKE	Q14164	rs7929521		A allele	Myelosuppression, cardiac toxicity, cytotoxicty	18451141	
+DB00762	Solute carrier organic anion transporter family member 1B1	SLCO1B1	Q9Y6L6	rs4149056	SLCO1B1*15	C Allele	Diarrhea, leucopenia, neutropenia	17898662	
+DB00762	Solute carrier organic anion transporter family member 1B1	SLCO1B1	Q9Y6L6	rs2306283	SLCO1B1*15	G Allele	Diarrhea, leucopenia, neutropenia	17898662	
+DB00762	UDP-glucuronosyltransferase 1-1	UGT1A1	P22309	rs8175347	UGT1A1*28 or UGT1A 7/7	extra TA in promoter	Leukopenia, thrombpocytopenia	17681105	
+DB00762	UDP-glucuronosyltransferase 1-7	UGT1A7	Q9HAW7	rs17868323		G allele	Leukopenia, thrombpocytopenia	18349289	
+DB00762	UDP-glucuronosyltransferase 1-7	UGT1A7	Q9HAW7	rs17863778		A allele	Leukopenia, thrombpocytopenia	18349289	
+DB00762	UDP-glucuronosyltransferase 1-7	UGT1A7	Q9HAW7	rs17868324		A allele	Leukopenia, thrombpocytopenia	18349289	
+DB00762	UDP-glucuronosyltransferase 1-1	UGT1A1	P22309	rs10929302		A Allele	Hematological toxicity, neutropenia	17510208	
+DB00864	Multidrug resistance protein 1	ABCB1	P08183	rs2032582		T Allele (G2677T)	Increased risk of neurotoxicity	12352921	
+DB00945	Leukotriene C4 synthase	LTC4S	Q16873	rs730012		C allele	Aspirin-induced urticaria	16433794	
+DB00951	Cytochrome P450 2E1	CYP2E1	P05181	rs6413419	CYP2E1 *1A	G Allele, homozygote	Hepatotoxicity	16770646	
+DB00993	Thiopurine S-methyltransferase	TPMT	P51580	rs1800462	TMPT*2	G Allele	Hepatotoxicity	16509759	
+DB00993	Thiopurine S-methyltransferase	TPMT	P51580	rs1800460	TMPT*3A	A Allele	Hepatotoxicity	16509759	
+DB00993	Thiopurine S-methyltransferase	TPMT	P51580	rs1142345	TMPT*3C	G Allele	Hepatotoxicity	16509759	
+DB00993	Thiopurine S-methyltransferase	TPMT	P51580	rs1142345	TPMT*3C	T > C	Patients with CC or CT genotype have decreased inactivation of thiopurines and increased risk of toxicity	22846425	
+DB00993	Thiopurine S-methyltransferase	TPMT	P51580	rs1142345	TPMT*3C	T > C	Patients with CC or CT genotype have decreased inactivation of thiopurines and increased risk of toxicity	9103127	
+DB01033	Thiopurine S-methyltransferase	TPMT	P51580	rs1800462	TMPT*2	G Allele	Hepatotoxicity	16509759	
+DB01033	Thiopurine S-methyltransferase	TPMT	P51580	rs1800460	TMPT*3A	A Allele	Hepatotoxicity	16509759	
+DB01033	Thiopurine S-methyltransferase	TPMT	P51580	rs1142345	TMPT*3C	G Allele	Hepatotoxicity	16509759	
+DB01048	HLA class I histocompatibility antigen protein P5	HCP5	Q6MZN7	rs2395029	HLA-B*5701	G allele	Presence of this SNP is predicative of hypersenitivity reaction when abacavir is given to HIV+ patients.	18684101	
+DB01097	Cytochrome P450 1A2	CYP1A2	P05177	rs762551		C allele	Diarrhea, vomiting, liver toxicity, headache, insomnia, rash, alopecia, hypertension, leucopenia, asthma	18496682	
+DB01118	Potassium voltage-gated channel subfamily H member 2	KCNH2	Q12809		MiRP1	KCNE2	Channels formed with mutant MiRP1 subunits and HERG showed slower activation, faster deactivation, and increased drug sensitivity and is associated with cardiac arrhythmia.	10219239	
+DB01175	Sodium-dependent serotonin transporter	SLC6A4	P31645	rs25531		A allele	Increase risk of side effects (ie. headaches)	19272758	
+DB01242	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	C > T	Those that are homozygous for the poorly metabolizing CYP2D6 alleles are at an increased risk of side effects and decrease drug metabolism	18070221	
+DB01242	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	C > T	Those that are homozygous for the poorly metabolizing CYP2D6 alleles are at an increased risk of side effects and decrease drug metabolism	9918137	
+DB01248	Canalicular multispecific organic anion transporter 1	ABCC2	Q92887	rs12762549		G Allele	Leukopenia, neutropenia	18294295	
+DB01577	PRKCA-binding protein	PICK1	Q9NRD5	rs713729		T allele	Methamphetamine psychosis and addiction	17606663	
+DB01577	PRKCA-binding protein	PICK1	Q9NRD5	rs2076369		G allele	Methamphetamine psychosis and addiction	17606663	

@@ -1,0 +1,109 @@
+drugbank_id	protein-name	gene-symbol	uniprot-id	rs-id	allele	defining-change	description	pubmed-id
+DB00002	Low affinity immunoglobulin gamma Fc region receptor II-a	FCGR2A	P12318	rs1801274		H allelle	Increased progression free survival	17704420	
+DB00002	Low affinity immunoglobulin gamma Fc region receptor III-A	FCGR3A	P08637	rs396991		A > C	Better response to drug therapy (longer progression free survival) with the F allele	17704420	
+DB00065	Low affinity immunoglobulin gamma Fc region receptor III-A	FCGR3A	P08637	rs1801274		CC Allele (homozygous)	Better ACR20 response	18930989	
+DB00072	Fibroblast growth factor receptor 4	FGFR4	P22455	rs351855		C Allele	Reduced response to herceptin	16822847	
+DB00073	Low affinity immunoglobulin gamma Fc region receptor III-A	FCGR3A	P08637	rs396991		A > C	Better response to drug therapy (compared to allele A)	16609067	
+DB00175	Kinesin-like protein KIF6	KIF6	Q6ZMV9	rs20455		C Allele	Improved response to statin drugs	18222353	
+DB00175	3-hydroxy-3-methylglutaryl-coenzyme A reductase	HMGCR	P04035	rs17244841		T Allele	Reduced response to statin drugs	15199031	
+DB00178	Angiotensin-converting enzyme	ACE	P12821	rs4344		A Allele, homozygote	More rapid response to drug treatment	17885551	
+DB00178	Angiotensin-converting enzyme	ACE	P12821	rs4344		G Allele, homozygote	More rapid response to drug treatment	17885551	
+DB00178	Angiotensin-converting enzyme 2	ACE2	Q9BYF1	rs4344		G > A	Those with the AA or GG gentypes respond better to treatment	17885551	
+DB00203	Angiotensin-converting enzyme	ACE	P12821	rs1799752		Alu insertions	Better response to drug treatment	12837457	
+DB00203	Angiotensin-converting enzyme	ACE	P12821	rs4340		Alu insertions	Better response to drug treatment	12837457	
+DB00203	Angiotensin-converting enzyme	ACE	P12821	rs13447447		Alu insertions	Better response to drug treatment	12837457	
+DB00203	Angiotensin-converting enzyme	ACE	P12821	rs4646994		Alu insertions	Better response to drug treatment	12837457	
+DB00203	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3	GNB3	P16520	rs5443		T Allele	Better response to drug treatment	12576843	
+DB00203	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3	GNB3	P16520	rs5443		TT allele	Better response to drug treatment. More patients experience a 'postive erectile response'	12576843	
+DB00215	Multidrug resistance protein 1	ABCB1	P08183	rs2032583		C Allele	Improved response to antidepressant medication	17913323	
+DB00215	5-hydroxytryptamine receptor 2A	HTR2A	P28223	rs7997012		A Allele	Improved response to antidepressant medication	16642436	
+DB00215	Glutamate receptor ionotropic, kainate 4	GRIK4	Q16099	rs1954787		C Allele	Improved response to antidepressant medication	17671280	
+DB00215	5-hydroxytryptamine receptor 1A	HTR1A	P08908	rs6295		G Allele	Homozygosity for the rs6295 G allele is associated with lower response rate in patients treated for major depression	19829169	
+DB00216	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3	GNB3	P16520	rs5443		T Allele	Better response to drug treatment	17361120	
+DB00252	Cytochrome P450 2C9	CYP2C9	P11712	rs1057910	CYP2C9*1	C Allele	Poor drug metabolizer, lower dose requirements	15805193	
+DB00252	Multidrug resistance protein 1	ABCB1	P08183	rs1045642	MDR1*T	T Allele (C3435T)	Increased phenytoin effects due to higher plasma phenytoin levels	11908757	
+DB00264	Beta-1 adrenergic receptor	ADRB1	P08588	rs1801253		C Allele	Improved response to blood pressure medication	12844134	
+DB00264	Beta-1 adrenergic receptor	ADRB1	P08588	rs1801252		A Allele	Improved response to blood pressure medication	12844134	
+DB00264	Beta-1 adrenergic receptor	ADRB1	P08588	rs1801253		G > C	Better response to drug therapy	12844134	
+DB00277	Cytochrome P450 1A2	CYP1A2	P05177		-2964(G/A)	A Allele	Poor metabolizer, lower dose requirement	12732846	
+DB00285	Cytochrome P450 2D6	CYP2D6	P10635		CYP2D6*4	A Allele	Poor drug metabolizer, lower dose requirements, nausea, vomiting and diarrhea	16958828	
+DB00285	Cytochrome P450 2D6	CYP2D6	P10635	rs5030655	CYP2D6*6	T deletion	Poor drug metabolizer, lower dose requirements, nausea, vomiting and diarrhea	16958828	
+DB00285	Cytochrome P450 2D6	CYP2D6	P10635	rs5030655	CYP2D6*6	T deletion, homozygote	Poor drug metabolizer, lower dose requirements, nausea, vomiting and diarrhea	16958828	
+DB00285	Cytochrome P450 2D6	CYP2D6	P10635		CYP2D6*5	Deletion	Poor drug metabolizer, lower dose requirements, nausea, vomiting and diarrhea	16958828	
+DB00285	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	A Allele	Poor drug metabolizer, lower dose requirements, nausea, vomiting and diarrhea	16958828	
+DB00285	Multidrug resistance protein 1	ABCB1	P08183	rs2032583		C Allele	Improved response to antidepressant medication	17913323	
+DB00285	Multidrug resistance protein 1	ABCB1	P08183	rs2032583		A > G	Increase risk of adverse effects	22641028	
+DB00290	Bleomycin hydrolase	BLMH	Q13867	rs10500565		A Allele	Improved response to bleomycin	18398146	
+DB00290	Bleomycin hydrolase	BLMH	Q13867	rs10500565		G Allele	Reduced response to bleomycin, higher prevalence of relapse	18398146	
+DB00295	Multidrug resistance protein 1	ABCB1	P08183	rs1045642		T Allele	Better response to pain relief drugs	17898703	
+DB00295	Mu-type opioid receptor	OPRM1	P35372	rs1799971		A Allele	Better response to pain relief drugs	17898703	
+DB00315	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3	GNB3	P16520	rs5443		T Allele	Better response to drug treatment	17361120	
+DB00317	Epidermal growth factor receptor	EGFR	P00533		G719A/C OR (L858R and L861Q)		Associated with enhanced activation of the EGFR tyrosine kinase in patients with non-small cell lung cancer (NSCLC) recieving  tyrosine kinase inhibitor therapy.	15118073	
+DB00318	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	A Allele, homozygote	Poor drug metabolizer, lower dose requirements	1782973	
+DB00318	Cytochrome P450 2D6	CYP2D6	P10635	rs5030655	CYP2D6*6	T deletion, homozygote	Poor drug metabolizer, lower dose requirements	1782973	
+DB00318	Cytochrome P450 2D6	CYP2D6	P10635		CYP2D6*5	Deletion, homozygote	Poor drug metabolizer, lower dose requirements	1782973	
+DB00321	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	A Allele	Poor drug metabolizer, lower dose requirements, higher risk for adverse side effects	18070221	
+DB00321	Multidrug resistance protein 1	ABCB1	P08183	rs2032583		C Allele	Improved response to antidepressant medication	17913323	
+DB00321	Multidrug resistance protein 1	ABCB1	P08183	rs2032583		A > G	Increase risk of adverse effects	22641028	
+DB00334	5-hydroxytryptamine receptor 1A	HTR1A	P08908	rs6295		CC Allele (homozygous)	Associated with the ability to ameliorate impaired attention in patients with schizophrenia.	20533011	
+DB00335	Beta-1 adrenergic receptor	ADRB1	P08588	rs1801253		G > C	Better response to drug therapy	22192668	
+DB00338	Cytochrome P450 2C19	CYP2C19	P33261	rs4244285	CYP2C19*2	A Allele, homozygote	Poor metabolizer, lower dose requirement, improved drug efficacy	9867757	
+DB00338	Cytochrome P450 2C19	CYP2C19	P33261	rs4986893	CYP2C19*3	A Allele, homozygote	Poor metabolizer, lower dose requirement, improved drug efficacy	9867757	
+DB00343	Beta-1 adrenergic receptor	ADRB1	P08588	rs1801253		G > C	Better response to drug therapy	22192668	
+DB00381	Natriuretic peptides A	NPPA	P01160	rs5065		AA allele	Those with the rs5065(AA) allele had more favorable cardiovascular disease outcomes if given amlodipine than if treated with chlorthalidone (diuretic)	18212314	
+DB00448	Cytochrome P450 2C19	CYP2C19	P33261	rs4244285	CYP2C19*2	A Allele, homozygote	Poor metabolizer, lower dose requirement, improved drug efficacy	9867757	
+DB00448	Cytochrome P450 2C19	CYP2C19	P33261	rs4986893	CYP2C19*3	A Allele, homozygote	Poor metabolizer, lower dose requirement, improved drug efficacy	9867757	
+DB00458	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	A Allele	Poor drug metabolizer, lower dose requirements, higher risk for adverse side effects	18070221	
+DB00482	Cytochrome P450 2C9	CYP2C9	P11712	rs1057910	CYP2C9*1	C Allele	Poor drug metabolizer, lower dose requirements	12893985	
+DB00514	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	A Allele, homozygote	Poor drug metabolizer, lower dose requirements	10513455	
+DB00514	Cytochrome P450 2D6	CYP2D6	P10635	rs5030655	CYP2D6*6	T deletion, homozygote	Poor drug metabolizer, lower dose requirements	10513455	
+DB00530	Epidermal growth factor receptor	EGFR	P00533		G719A/C OR (L858R and L861Q)		Associated with enhanced activation of the EGFR tyrosine kinase in patients with non-small cell lung cancer (NSCLC) recieving  tyrosine kinase inhibitor therapy.	15118073	
+DB00531	Cytochrome P450 3A4	CYP3A4	P08684	rs2740574	CYP3A4 *1B	G Allelle	Decreased activation of cyclophosphamide most likely contributing to worse disease free survival in adjuvant chemotherapy for node-positive breast cancer	20459744	
+DB00531	Cytochrome P450 2B6	CYP2B6	P20813		CYP2B6*1G	C Allelle	Decreased activation of cyclophosphamide contributing to less adverse reactions (leukocytopenia)	17502835	
+DB00532	Cytochrome P450 2C19	CYP2C19	P33261	rs4986893	CYP2C19*3	A Allele, homozygote	Poor metabolizer, lower dose requirement	7969038	
+DB00540	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	A Allele	Poor drug metabolizer, lower dose requirements, higher risk for adverse side effects	18070221	
+DB00564	Sodium channel protein type 1 subunit alpha	SCN1A	P35498	rs3812718		IVS5N + 5 G>A	Carbamazepine resistant therapy, higher maintenance dose	24052718	
+DB00641	Kinesin-like protein KIF6	KIF6	Q6ZMV9	rs20455		C Allele	Improved response to statin drugs	18222353	
+DB00641	3-hydroxy-3-methylglutaryl-coenzyme A reductase	HMGCR	P04035	rs17244841		T Allele	Reduced response to statin drugs	15199031	
+DB00661	Beta-1 adrenergic receptor	ADRB1	P08588	rs1801253		G > C	Better response to drug therapy	22192668	
+DB00669	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3	GNB3	P16520	rs5443		T Allele	Better response to drug treatment	17361120	
+DB00675	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	A Allele, homozygote	Poor response to drug treatment, shorter time to relapse	17115111	
+DB00682	Cytochrome P450 2C9	CYP2C9	P11712	rs1799853	CYP2C9*2	T Allele	Poor drug metabolizer, lower dose requirements	15608560	
+DB00704	Mu-type opioid receptor	OPRM1	P35372	rs1799971		A > G	Those with the AG genotype respond better to therapy (increase number of abstinent days)	18250251	
+DB00715	Multidrug resistance protein 1	ABCB1	P08183	rs2032583		C Allele	Improved response to antidepressant medication	17913323	
+DB00715	5-hydroxytryptamine receptor 1A	HTR1A	P08908	rs6295		C Allele	C Allele potentially associated with discontinuation syndrome in patients treated for anxiety or depression.	20075642	
+DB00736	Cytochrome P450 2C19	CYP2C19	P33261	rs4244285	CYP2C19*2	A Allele, homozygote	Poor metabolizer, lower dose requirement, improved drug efficacy	9867757	
+DB00736	Cytochrome P450 2C19	CYP2C19	P33261	rs4986893	CYP2C19*3	A Allele, homozygote	Poor metabolizer, lower dose requirement, improved drug efficacy	9867757	
+DB00745	Catechol O-methyltransferase	COMT	P21964	rs4680		AA allele	Poor response to modafinil	19037200	
+DB00745	Catechol O-methyltransferase	COMT	P21964	rs4680		GG allele	Those with the GG genotype respond better to drug therapy (improved vigor and well being). Those with the AA genotype do not respond well to drug therapy	19037200	
+DB00758	Cytochrome P450 2C9	CYP2C9	P11712	rs1057910	CYP2C9*1	C Allele	Poor drug metabolizer, lower dose requirements, higher risk for drug-drug interactions	17900275	
+DB00758	Cytochrome P450 2C19	CYP2C19	P33261	rs4244285	CYP2C19*2	A Allele, homozygote	Poor drug metabolizer, lower dose requirements, higher risk for drug-drug interactions	17900275	
+DB00758	Cytochrome P450 2C19	CYP2C19	P33261	rs4244285	CYP2C19*2	G > A	Patients are poor metabolizers of clopidogrel. More likely to experience poor cardiovascular outcomes.	8195181	
+DB00758	Cytochrome P450 2C19	CYP2C19	P33261	rs4244285	CYP2C19*2	G > A	Patients are poor metabolizers of clopidogrel. More likely to experience poor cardiovascular outcomes.	19706858	
+DB00918	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3	GNB3	P16520	rs5443		T Allele	Better response to drug treatment	17361120	
+DB00945	Cytochrome P450 2C9	CYP2C9	P11712	rs1057910	CYP2C9*1	C Allele	Poor drug metabolizer, lower dose requirements	12893985	
+DB00945	Integrin beta-3	ITGB3	P05106	rs5918		T > C	Patients are more resistant to the anti-thrombotic effects of aspirin	11723016	
+DB00952	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3	GNB3	P16520	rs5443		T Allele	Better response to drug treatment	17361120	
+DB00953	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3	GNB3	P16520	rs5443		T Allele	Better response to drug treatment	17361120	
+DB00998	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3	GNB3	P16520	rs5443		T Allele	Better response to drug treatment	17361120	
+DB01067	Cytochrome P450 2C9	CYP2C9	P11712	rs1057910	CYP2C9*1	C Allele	Poor drug metabolizer, lower dose requirements	10208645	
+DB01076	Kinesin-like protein KIF6	KIF6	Q6ZMV9	rs20455		C Allele	Improved response to statin drugs	18222353	
+DB01076	3-hydroxy-3-methylglutaryl-coenzyme A reductase	HMGCR	P04035	rs17244841		T Allele	Reduced response to statin drugs	15199031	
+DB01076	Multidrug resistance protein 1	ABCB1	P08183	rs1045642	MDR1*T	T Allele (C3435T)	Larger reduction in LDL and smaller increase in HDL cholesterol in females	15081455	
+DB01098	Kinesin-like protein KIF6	KIF6	Q6ZMV9	rs20455		C Allele	Improved response to statin drugs	18222353	
+DB01098	3-hydroxy-3-methylglutaryl-coenzyme A reductase	HMGCR	P04035	rs17244841		T Allele	Reduced response to statin drugs	15199031	
+DB01098	ATP-binding cassette sub-family G member 2	ABCG2	Q9UNQ0	rs2231142		G > T	Greater response to drug therapy	20130569	
+DB01124	Cytochrome P450 2C9	CYP2C9	P11712	rs1057910	CYP2C9*1	C Allele	Poor drug metabolizer, lower dose requirements	8873220	
+DB01131	Cytochrome P450 2C19	CYP2C19	P33261	rs4244285	CYP2C19*2	A Allele, homozygote	Poor metabolizer, lower dose requirement	13680037	
+DB01131	Cytochrome P450 2C19	CYP2C19	P33261	rs4986893	CYP2C19*3	A Allele, homozygote	Poor metabolizer, lower dose requirement	13680037	
+DB01136	Beta-1 adrenergic receptor	ADRB1	P08588	rs1801253		C Allele	Improved response to blood pressure medication	12844134	
+DB01136	Beta-1 adrenergic receptor	ADRB1	P08588	rs1801252		A Allele	Improved response to blood pressure medication	12844134	
+DB01136	Beta-1 adrenergic receptor	ADRB1	P08588	rs1801253		G > C	Better response to drug therapy	22192668	
+DB01151	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	A Allele	Poor drug metabolizer, lower dose requirements, higher risk for adverse side effects	18070221	
+DB01156	D(2) dopamine receptor	DRD2	P14416	rs1800491		C Allele	Improved response in smoking cessation	18058343	
+DB01222	T-box transcription factor TBX21	TBX21	Q9UL17	rs2240017		C Allele	Improved response for long-term asthma treatment	15604153	
+DB01222	T-box transcription factor TBX21	TBX21	Q9UL17	rs2240017		CG allele (heterozygotes)	Better response to drug treatment (for asthma) than  rs2240017(G;G) homozygotes.	15604153	
+DB01242	Cytochrome P450 2D6	CYP2D6	P10635	rs3892097	CYP2D6*4	A Allele	Poor drug metabolizer, lower dose requirements, higher risk for adverse side effects	18070221	
+DB08820	Cystic fibrosis transmembrane conductance regulator	CFTR	P13569	rs75527207		A allele (G > A)	Cystic Fibrosis patients with the A allele will response to ivacaftor	23757359	
+DB08820	Cystic fibrosis transmembrane conductance regulator	CFTR	P13569	rs75527207		A allele (G > A)	Cystic Fibrosis patients with the A allele will response to ivacaftor	23891399	
+DB08916	Epidermal growth factor receptor	EGFR	P00533		G719A/C OR (L858R and L861Q)		Associated with enhanced activation of the EGFR tyrosine kinase in patients with non-small cell lung cancer (NSCLC) recieving  tyrosine kinase inhibitor therapy.	15118073	

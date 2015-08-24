@@ -1,0 +1,3515 @@
+{
+    "\"Augmentin,Iv Cetriaxone,Keflex\"": [
+        "DB00766", 
+        "DB01060"
+    ], 
+    "\"BUTALBITAL W/ASPIRIN,CAFFEINE\"": [
+        "DB00241", 
+        "DB00945", 
+        "DB00201"
+    ], 
+    "\"Bactrim, Clindamycin\"": [
+        "DB00440", 
+        "DB01015"
+    ], 
+    "\"Bactrim, Rifampin\"": [
+        "DB00440", 
+        "DB01015"
+    ], 
+    "\"Bactroban, Regranex\"": [
+        "DB00410"
+    ], 
+    "\"Betamethason in Unguentum leniens 0,1%\"": [
+        "DB00443"
+    ], 
+    "\"Cigarettes, Cigars, Pipes or Chewed tobacco\"": [
+        "DB00184"
+    ], 
+    "\"Excedrin(Acetaminophen, Asprin & Caffeine)\"": [
+        "DB00201", 
+        "DB00316"
+    ], 
+    "\"Felodipin 2,5 mg\"": [
+        "DB01023"
+    ], 
+    "\"Keflex, Iv Ancef, Clindamycin\"": [
+        "DB00567"
+    ], 
+    "\"Keflex, Then Bactrim\"": [
+        "DB00567"
+    ], 
+    "\"Lachydrin, 12%\"": [
+        "DB06768"
+    ], 
+    "\"Otc Combo Cold Med (Apap 325mg, Dm 15mg, Guaifenesin 200mg, Phenylephrine 5mg)\"": [
+        "DB00874", 
+        "DB00388", 
+        "DB00316"
+    ], 
+    "\"Rifampin, Bactrim\"": [
+        "DB01045"
+    ], 
+    "\"Vancomycin, Cetraxine\"": [
+        "DB00512"
+    ], 
+    "\"Zantac, Ranitidine\"": [
+        "DB00863"
+    ], 
+    "2.5% Hydrocortisone": [
+        "DB00741"
+    ], 
+    "ACETAMINOPHEN": [
+        "DB00316"
+    ], 
+    "ACETYLSALICYLIC ACID": [
+        "DB00945"
+    ], 
+    "ACTONEL": [
+        "DB00884"
+    ], 
+    "ADAPALENE": [
+        "DB00210"
+    ], 
+    "ADVAIR (FLUTICASONE/SALMETEROL INHALED)": [
+        "DB00938", 
+        "DB00588"
+    ], 
+    "ADVAIR 250/50": [
+        "DB00938", 
+        "DB00588"
+    ], 
+    "ADVAIR 500/50": [
+        "DB00938", 
+        "DB00588"
+    ], 
+    "ADVIL": [
+        "DB01050"
+    ], 
+    "ALESSE": [
+        "DB00367", 
+        "DB00977"
+    ], 
+    "ALESSE 28": [
+        "DB00367", 
+        "DB00977"
+    ], 
+    "ALLEGRA": [
+        "DB00950"
+    ], 
+    "ALLEGRA-D": [
+        "DB00950"
+    ], 
+    "ALPRAZOLAM": [
+        "DB00404"
+    ], 
+    "AMANTADINE": [
+        "DB00915"
+    ], 
+    "AMINOACETIC ACID": [
+        "DB00145"
+    ], 
+    "AMLODIPINE BESILATE": [
+        "DB00381"
+    ], 
+    "AMOXICILLIN": [
+        "DB01060"
+    ], 
+    "AMOXICILLIN TRIHYDRATE": [
+        "DB01060"
+    ], 
+    "AMOXICILLIN W/CLAVULANATE POTASSIUM": [
+        "DB01060"
+    ], 
+    "APRI (GENERIC DESOGEN)": [
+        "DB00304", 
+        "DB00977"
+    ], 
+    "ASA": [
+        "DB00945"
+    ], 
+    "ASCORBIC ACID": [
+        "DB00126"
+    ], 
+    "ASMANEX": [
+        "DB00764"
+    ], 
+    "ATORVASTATIN": [
+        "DB01076"
+    ], 
+    "AZITHROMYCIN": [
+        "DB00207"
+    ], 
+    "Aarane": [
+        "DB01003"
+    ], 
+    "Abilify": [
+        "DB01238"
+    ], 
+    "Abreva": [
+        "DB00632"
+    ], 
+    "Accolate": [
+        "DB00549"
+    ], 
+    "Accupril": [
+        "DB00881"
+    ], 
+    "Accuretic 20/25": [
+        "DB00999", 
+        "DB00881"
+    ], 
+    "Accutane": [
+        "DB00982"
+    ], 
+    "Acetaminophen (Extra Strength)": [
+        "DB00316"
+    ], 
+    "Acetaminophen W/ Codiene": [
+        "DB00316"
+    ], 
+    "Aciclovir": [
+        "DB00787"
+    ], 
+    "Aciclovir Cream": [
+        "DB00787"
+    ], 
+    "Aciclovir Creme": [
+        "DB00787"
+    ], 
+    "Aciclovir Eye Creme": [
+        "DB00787"
+    ], 
+    "Aciclovir Eyeointment": [
+        "DB00787"
+    ], 
+    "Aciclovir eye ointment": [
+        "DB00787"
+    ], 
+    "Aciclovir pills": [
+        "DB00787"
+    ], 
+    "Aclovate": [
+        "DB00240"
+    ], 
+    "Activella": [
+        "DB00783", 
+        "DB00717"
+    ], 
+    "Actos": [
+        "DB01132"
+    ], 
+    "Acular": [
+        "DB00465"
+    ], 
+    "Adderall": [
+        "DB00182", 
+        "DB01576"
+    ], 
+    "Advair": [
+        "DB00938", 
+        "DB00588"
+    ], 
+    "Advair 100/50": [
+        "DB00938", 
+        "DB00588"
+    ], 
+    "Advair 110/50": [
+        "DB00938", 
+        "DB00588"
+    ], 
+    "Advair 150/50": [
+        "DB00938", 
+        "DB00588"
+    ], 
+    "Advair 25/50": [
+        "DB00938", 
+        "DB00588"
+    ], 
+    "Advair Hfa (Flucicasone/Salmeterol)": [
+        "DB00938", 
+        "DB00588"
+    ], 
+    "Advair Inhaler": [
+        "DB00938", 
+        "DB00588"
+    ], 
+    "Advicor": [
+        "DB00227", 
+        "DB00627"
+    ], 
+    "Advil (Ibuprofen)": [
+        "DB01050"
+    ], 
+    "Alarest": [
+        "DB01114", 
+        "DB00852"
+    ], 
+    "Alavert": [
+        "DB00455"
+    ], 
+    "Albuterol": [
+        "DB01001"
+    ], 
+    "Albuterol Aers": [
+        "DB01001"
+    ], 
+    "Albuterol Inhaler": [
+        "DB01001"
+    ], 
+    "Albuterol Mdi": [
+        "DB01001"
+    ], 
+    "Albuterol Mdi Or Nebulizer": [
+        "DB01001"
+    ], 
+    "Albuterol Metered Dose Inhaler": [
+        "DB01001"
+    ], 
+    "Albuterol Sulfate": [
+        "DB01001"
+    ], 
+    "Alclometasone": [
+        "DB00240"
+    ], 
+    "Alclometasone Oint": [
+        "DB00240"
+    ], 
+    "Aldactone": [
+        "DB00421"
+    ], 
+    "Alendronate": [
+        "DB00630"
+    ], 
+    "Aleve": [
+        "DB00788"
+    ], 
+    "Allegra D": [
+        "DB00950"
+    ], 
+    "Allopurinol": [
+        "DB00437"
+    ], 
+    "Alocril": [
+        "DB00716"
+    ], 
+    "Alphagan": [
+        "DB00484"
+    ], 
+    "Altabax": [
+        "DB01256"
+    ], 
+    "Ambien": [
+        "DB00425"
+    ], 
+    "Ambien Cr": [
+        "DB00425"
+    ], 
+    "Amitiza": [
+        "DB01046"
+    ], 
+    "Amitriptyline": [
+        "DB00321"
+    ], 
+    "Amlodipine": [
+        "DB00381"
+    ], 
+    "Amox-Clav": [
+        "DB01060"
+    ], 
+    "Amoxacillin": [
+        "DB01060"
+    ], 
+    "Amoxicillin": [
+        "DB01060"
+    ], 
+    "Amoxicillin And Clavulanate Potasioum": [
+        "DB01060"
+    ], 
+    "Ancef": [
+        "DB01327"
+    ], 
+    "Apri": [
+        "DB00977", 
+        "DB00304"
+    ], 
+    "Aprovel": [
+        "DB01029"
+    ], 
+    "Apsomol": [
+        "DB01001"
+    ], 
+    "Aristocort": [
+        "DB00620"
+    ], 
+    "Aspirin": [
+        "DB00945"
+    ], 
+    "Atarax": [
+        "DB00557"
+    ], 
+    "Atarax (Hydroxyzine)": [
+        "DB00557"
+    ], 
+    "Atarax (hydroxazine)": [
+        "DB00557"
+    ], 
+    "Atenolol": [
+        "DB00335"
+    ], 
+    "Atmadisc": [
+        "DB00588", 
+        "DB00938"
+    ], 
+    "Atorvastatin": [
+        "DB01076"
+    ], 
+    "Augmentin": [
+        "DB00766", 
+        "DB01060"
+    ], 
+    "Avalide": [
+        "DB01029", 
+        "DB00999"
+    ], 
+    "Avelox": [
+        "DB00218"
+    ], 
+    "Avita": [
+        "DB00755"
+    ], 
+    "Azithromycin": [
+        "DB00207"
+    ], 
+    "Azmacort": [
+        "DB00620"
+    ], 
+    "BACTRIM": [
+        "DB00440", 
+        "DB01015"
+    ], 
+    "BENYLIN 4 FLU": [
+        "DB00514"
+    ], 
+    "BETAMETHASONE": [
+        "DB00443"
+    ], 
+    "BETAMETHASONE DIPROPIONATE 0.05%": [
+        "DB00443"
+    ], 
+    "BETAMETHASONE DIPROPRIONATE 0.05% OINTMENT": [
+        "DB00443"
+    ], 
+    "BIAXIN": [
+        "DB01211"
+    ], 
+    "BISMUTH SUBSALICYLATE": [
+        "DB01294"
+    ], 
+    "BREATH EASY": [
+        "DB01363"
+    ], 
+    "BUDESONIDE": [
+        "DB01222"
+    ], 
+    "BUPIVACAINE": [
+        "DB00297"
+    ], 
+    "BUPROPION HYDROCHLORIDE": [
+        "DB01156"
+    ], 
+    "BUSPIRONE HYDROCHLORIDE": [
+        "DB00490"
+    ], 
+    "Baby Aspirin": [
+        "DB00945"
+    ], 
+    "Bacitracin": [
+        "DB00626"
+    ], 
+    "Bactrim": [
+        "DB00440", 
+        "DB01015"
+    ], 
+    "Bactrim Ds": [
+        "DB00440", 
+        "DB01015"
+    ], 
+    "Bactrim/Keflex/Clinda": [
+        "DB00440", 
+        "DB01015"
+    ], 
+    "Bactrim/Kelfex/Clinda": [
+        "DB00440", 
+        "DB01015"
+    ], 
+    "Bactrim/Septra": [
+        "DB00440", 
+        "DB01015"
+    ], 
+    "Bactroban": [
+        "DB00410"
+    ], 
+    "Bactroban Ointment": [
+        "DB00410"
+    ], 
+    "Bayer": [
+        "DB00945"
+    ], 
+    "Beloc Zok": [
+        "DB00264"
+    ], 
+    "Benadryl": [
+        "DB01075"
+    ], 
+    "Benadryl Allergy": [
+        "DB01075"
+    ], 
+    "Benadryl D": [
+        "DB01075"
+    ], 
+    "Benadryl lotion": [
+        "DB01075"
+    ], 
+    "Benazepril": [
+        "DB00542"
+    ], 
+    "Benicar": [
+        "DB00275"
+    ], 
+    "Benicar Hct": [
+        "DB00275"
+    ], 
+    "Benztropine": [
+        "DB00245"
+    ], 
+    "Berodual": [
+        "DB01288"
+    ], 
+    "Berodual N 200": [
+        "DB01288"
+    ], 
+    "Berodual Spray": [
+        "DB01288"
+    ], 
+    "Berotec": [
+        "DB01288"
+    ], 
+    "Berotec Spray": [
+        "DB01288"
+    ], 
+    "Beta Methasone": [
+        "DB00443"
+    ], 
+    "Betamethasone Dipropionate": [
+        "DB00443"
+    ], 
+    "Betamethasone Ointment": [
+        "DB00443"
+    ], 
+    "Betamethisone": [
+        "DB00443"
+    ], 
+    "Biaxin": [
+        "DB01211"
+    ], 
+    "Biotin": [
+        "DB00121"
+    ], 
+    "Bisohexal": [
+        "DB00612", 
+        "DB00999"
+    ], 
+    "Breathaire": [
+        "DB00871"
+    ], 
+    "Breathe Easy (Natural Asthma Medication: Antioxidant)": [
+        "DB01363"
+    ], 
+    "Broncho-Euphyllin": [
+        "DB06742", 
+        "DB00277"
+    ], 
+    "Bronchoretard 350 mg": [
+        "DB00277"
+    ], 
+    "Budeprion Sr": [
+        "DB01156"
+    ], 
+    "Bupropion Xl": [
+        "DB01156"
+    ], 
+    "Buspar": [
+        "DB00490"
+    ], 
+    "Butalbital with acetaminophen": [
+        "DB00241", 
+        "DB00316"
+    ], 
+    "CAFFEINE": [
+        "DB00201"
+    ], 
+    "CALADRYL": [
+        "DB01075"
+    ], 
+    "CALADRYL LOTION": [
+        "DB01075"
+    ], 
+    "CALCIPOTRIENE 0.05%": [
+        "DB02300"
+    ], 
+    "CALCIUM": [
+        "DB01373"
+    ], 
+    "CALCIUM CARBONATE": [
+        "DB01373"
+    ], 
+    "CEFACLOR": [
+        "DB00833"
+    ], 
+    "CEFALEXIN": [
+        "DB00567"
+    ], 
+    "CEFAZOLIN": [
+        "DB01327"
+    ], 
+    "CEFAZOLIN SODIUM": [
+        "DB01327"
+    ], 
+    "CEFOTETAN": [
+        "DB01330"
+    ], 
+    "CEFOTETAN DISODIUM": [
+        "DB01330"
+    ], 
+    "CEFTIBUTEN": [
+        "DB01415"
+    ], 
+    "CEFTRIAXONE SODIUM": [
+        "DB01212"
+    ], 
+    "CEFUROXIME": [
+        "DB01112"
+    ], 
+    "CELEBREX": [
+        "DB00482"
+    ], 
+    "CELECOXIB": [
+        "DB00482"
+    ], 
+    "CHLORPHENAMINE MALEATE": [
+        "DB01114"
+    ], 
+    "CHLORPHENIRAMINE": [
+        "DB01114"
+    ], 
+    "CIPROFLOXACIN": [
+        "DB00537"
+    ], 
+    "CITALOPRAM HYDROBROMIDE": [
+        "DB00215"
+    ], 
+    "CLARITHROMYCIN": [
+        "DB01211"
+    ], 
+    "CLAVULIN": [
+        "DB01060"
+    ], 
+    "CLENIA (SODIUM SULFACETAMIDE 10% & SULFUR 5%)": [
+        "DB00634"
+    ], 
+    "CLIMARA PATCH": [
+        "DB00783"
+    ], 
+    "CLINDAMYCIN": [
+        "DB01190"
+    ], 
+    "CLOBETASOL": [
+        "DB01013"
+    ], 
+    "CLOBETASOL .05%": [
+        "DB01013"
+    ], 
+    "CLOBETASOL PROPIONATE FOAM 0.05%": [
+        "DB01013"
+    ], 
+    "CLOBETASOL PROPIONATE SOL. 0.05%": [
+        "DB01013"
+    ], 
+    "CLOBETASOL PROPRIONATE CREAM": [
+        "DB01013"
+    ], 
+    "CLOBEX": [
+        "DB01013"
+    ], 
+    "CLOBEX SPRAY CLOBETASOL SPRAY": [
+        "DB01013"
+    ], 
+    "CLONIDINE": [
+        "DB00575"
+    ], 
+    "CO-ADVIL": [
+        "DB01050"
+    ], 
+    "CODEINE PHOSPHATE": [
+        "DB00318"
+    ], 
+    "COLCHICINE": [
+        "DB01394"
+    ], 
+    "COMTREX": [
+        "DB00316", 
+        "DB00514", 
+        "DB00388"
+    ], 
+    "COTYLENOL": [
+        "DB00316"
+    ], 
+    "CRESTOR": [
+        "DB01098"
+    ], 
+    "CYANOCOBALAMIN": [
+        "DB00115"
+    ], 
+    "CYCLOBENZAPRINE": [
+        "DB00924"
+    ], 
+    "CYCLOBENZAPRINE HYDROCHLORIDE": [
+        "DB00924"
+    ], 
+    "CYCLOPHOSPHAMIDE": [
+        "DB00531"
+    ], 
+    "CYMBALTA": [
+        "DB00476"
+    ], 
+    "Calcium + Vitamin D": [
+        "DB01373"
+    ], 
+    "Calcium And Vitamin D": [
+        "DB01373"
+    ], 
+    "Calcium Caltrate": [
+        "DB01373"
+    ], 
+    "Calcium Carbonate [40%]": [
+        "DB01373"
+    ], 
+    "Calcium Suppl": [
+        "DB01373"
+    ], 
+    "Calcium Suppliment": [
+        "DB01373"
+    ], 
+    "Calcium Tablets": [
+        "DB01373"
+    ], 
+    "Calcium W/ Vitamin D": [
+        "DB01373"
+    ], 
+    "Calcium supplement w/ vitamin D": [
+        "DB01373"
+    ], 
+    "Calm (Magnesium And Zinc)": [
+        "DB01378", 
+        "DB01593"
+    ], 
+    "Caltrate": [
+        "DB06724"
+    ], 
+    "Caltrate With Vitamin D": [
+        "DB06724"
+    ], 
+    "Capitrol": [
+        "DB01243"
+    ], 
+    "Carbidopa": [
+        "DB00190"
+    ], 
+    "Carbidopa Levodopa": [
+        "DB00190"
+    ], 
+    "Carbidopa-Levodopa": [
+        "DB00190"
+    ], 
+    "Cardizem": [
+        "DB00343"
+    ], 
+    "Cefazolin": [
+        "DB01327"
+    ], 
+    "Ceftriaxone": [
+        "DB01212"
+    ], 
+    "Cefzil": [
+        "DB01150"
+    ], 
+    "Celexa": [
+        "DB00215"
+    ], 
+    "Cell Cept": [
+        "DB00688"
+    ], 
+    "Cellcept": [
+        "DB00688"
+    ], 
+    "Cephalexin": [
+        "DB00567"
+    ], 
+    "Cephazolin": [
+        "DB01327"
+    ], 
+    "Certrizine": [
+        "DB00341"
+    ], 
+    "Chantix": [
+        "DB01273"
+    ], 
+    "Chewed tobacco": [
+        "DB00184"
+    ], 
+    "Children'S Benadryl": [
+        "DB01075"
+    ], 
+    "Children'S Ibuprofen": [
+        "DB01050"
+    ], 
+    "Children'S Motrin": [
+        "DB01050"
+    ], 
+    "Children'S Tylenol Chewable": [
+        "DB00316"
+    ], 
+    "Children'S Zyrtec": [
+        "DB00341"
+    ], 
+    "Children's Tylenol": [
+        "DB00316"
+    ], 
+    "Chlorpheniramine Maleate": [
+        "DB01114"
+    ], 
+    "Cialis": [
+        "DB00820"
+    ], 
+    "Cibadrex": [
+        "DB00542", 
+        "DB00999"
+    ], 
+    "Cigarettes": [
+        "DB00184"
+    ], 
+    "Cigars": [
+        "DB00184"
+    ], 
+    "Cilest": [
+        "DB00957", 
+        "DB00977"
+    ], 
+    "Cilostazol": [
+        "DB01166"
+    ], 
+    "Cipralex": [
+        "DB01175"
+    ], 
+    "Cipro": [
+        "DB00537"
+    ], 
+    "Cipro Dex Drops": [
+        "DB00537"
+    ], 
+    "Citalopram": [
+        "DB00215"
+    ], 
+    "Citrical": [
+        "DB01373"
+    ], 
+    "Claritin": [
+        "DB00455"
+    ], 
+    "Clenia (Sodium Sulfacetamide 10% And Sulfur 5%)": [
+        "DB00634"
+    ], 
+    "Cleocin": [
+        "DB01190"
+    ], 
+    "Cleocin (=Clindamycin)": [
+        "DB01190"
+    ], 
+    "Clexane": [
+        "DB01225"
+    ], 
+    "Clidnamycin": [
+        "DB01190"
+    ], 
+    "Clinda": [
+        "DB01190"
+    ], 
+    "Clindamycin": [
+        "DB01190"
+    ], 
+    "Clindamycin Iv": [
+        "DB01190"
+    ], 
+    "Clindamycin Phosphate": [
+        "DB01190"
+    ], 
+    "Clindamycin Solution": [
+        "DB01190"
+    ], 
+    "Clindamyicn": [
+        "DB01190"
+    ], 
+    "Clobetasol 0.05%": [
+        "DB01013"
+    ], 
+    "Clobetasol 0.5%": [
+        "DB01013"
+    ], 
+    "Clobetasol Cream": [
+        "DB01013"
+    ], 
+    "Clobetasol Propionate": [
+        "DB01013"
+    ], 
+    "Clobetasol Soln.": [
+        "DB01013"
+    ], 
+    "Clobetasol Topical": [
+        "DB01013"
+    ], 
+    "Clobetasole Ointment": [
+        "DB01013"
+    ], 
+    "Clobex (Clobetasol)": [
+        "DB01013"
+    ], 
+    "Clonazepam": [
+        "DB01068"
+    ], 
+    "Clotrimazole": [
+        "DB00257"
+    ], 
+    "Clozapine": [
+        "DB00363"
+    ], 
+    "Cogentin (Benztropine)": [
+        "DB00245"
+    ], 
+    "Copaxone": [
+        "DB05259"
+    ], 
+    "Coumadin": [
+        "DB00682"
+    ], 
+    "Cozaar": [
+        "DB00678"
+    ], 
+    "Cromolyn Ophthalmic": [
+        "DB01003"
+    ], 
+    "Cryselle Ocp": [
+        "DB00367", 
+        "DB00977"
+    ], 
+    "Cutivate": [
+        "DB00588"
+    ], 
+    "Cutivate Cream": [
+        "DB00588"
+    ], 
+    "Cutivate Ointment": [
+        "DB00588"
+    ], 
+    "Cyclosporin": [
+        "DB00091"
+    ], 
+    "Cyproheptadine Hydrocholoride": [
+        "DB00434"
+    ], 
+    "DEMULEN 135": [
+        "DB00823", 
+        "DB00977"
+    ], 
+    "DEMULEN 136": [
+        "DB00823", 
+        "DB00977"
+    ], 
+    "DEPAKOTE": [
+        "DB00313"
+    ], 
+    "DERMAREST": [
+        "DB00825"
+    ], 
+    "DESLORATADINE": [
+        "DB00967"
+    ], 
+    "DESOGESTREL W/ESTRADIOL": [
+        "DB00304", 
+        "DB00783"
+    ], 
+    "DESONIDE 0.05%": [
+        "DB01260"
+    ], 
+    "DEXTROMETHORPHAN": [
+        "DB00514"
+    ], 
+    "DEXTROMETHORPHAN HYDROBROMIDE": [
+        "DB00514"
+    ], 
+    "DIAZEPAM": [
+        "DB00829"
+    ], 
+    "DICYCLOVERINE HYDROCHLORIDE": [
+        "DB00804"
+    ], 
+    "DIFFERIN GEL": [
+        "DB00210"
+    ], 
+    "DILANTIN": [
+        "DB00252"
+    ], 
+    "DIMENHYDRINATE": [
+        "DB00985"
+    ], 
+    "DIOVAN HCT": [
+        "DB00177"
+    ], 
+    "DIPHENHYDRAMINE": [
+        "DB01075"
+    ], 
+    "DIPHENHYDRAMINE HYDROCHLORIDE": [
+        "DB01075"
+    ], 
+    "DIPROLENE CREAM": [
+        "DB00443"
+    ], 
+    "DISULFIRAM": [
+        "DB00822"
+    ], 
+    "DOCOSANOL": [
+        "DB00632"
+    ], 
+    "DOLASETRON MESILATE": [
+        "DB00757"
+    ], 
+    "DOVONEX": [
+        "DB02300"
+    ], 
+    "DOVONEX OINTMENT": [
+        "DB02300"
+    ], 
+    "DOVONEX SCALP SOLUTION": [
+        "DB02300"
+    ], 
+    "DOXORUBICIN": [
+        "DB00997"
+    ], 
+    "DOXYLAMINE SUCCINATE": [
+        "DB00366"
+    ], 
+    "DROPERIDOL": [
+        "DB00450"
+    ], 
+    "DROSPIRENONE": [
+        "DB01395"
+    ], 
+    "DYAZIDE": [
+        "DB00384"
+    ], 
+    "Decadron": [
+        "DB01234"
+    ], 
+    "Delix": [
+        "DB00178"
+    ], 
+    "Delix Protect": [
+        "DB00178"
+    ], 
+    "Demadex": [
+        "DB00214"
+    ], 
+    "Demerol": [
+        "DB00454"
+    ], 
+    "Denavir": [
+        "DB00299"
+    ], 
+    "Denavir Cream": [
+        "DB00299"
+    ], 
+    "Depo-Medrol": [
+        "DB00959"
+    ], 
+    "Dermatop": [
+        "DB01130"
+    ], 
+    "Dermatop ointment": [
+        "DB01130"
+    ], 
+    "Desmin 20": [
+        "DB00977", 
+        "DB00304", 
+        "DB00035"
+    ], 
+    "Desmin 21": [
+        "DB00977", 
+        "DB00304", 
+        "DB00035"
+    ], 
+    "Desogen": [
+        "DB00977", 
+        "DB00304"
+    ], 
+    "Desonate Gel": [
+        "DB01260"
+    ], 
+    "Desonide": [
+        "DB01260"
+    ], 
+    "Desonide 0.5%": [
+        "DB01260"
+    ], 
+    "Desonide Cream": [
+        "DB01260"
+    ], 
+    "Desonide Ointment .05%": [
+        "DB01260"
+    ], 
+    "Desonide Ointment 0.05%": [
+        "DB01260"
+    ], 
+    "Desonide lotion": [
+        "DB01260"
+    ], 
+    "Desonide ointment": [
+        "DB01260"
+    ], 
+    "Desowen": [
+        "DB01260"
+    ], 
+    "Desoximetasone": [
+        "DB00547"
+    ], 
+    "Desoximetasone 0.25% Cream": [
+        "DB00547"
+    ], 
+    "Desoximetasone Ointment": [
+        "DB00547"
+    ], 
+    "Desoximethasone": [
+        "DB00547"
+    ], 
+    "Dexamethasone": [
+        "DB00547"
+    ], 
+    "Dexedrine": [
+        "DB01576"
+    ], 
+    "Diazide": [
+        "DB01275"
+    ], 
+    "Diclofenac": [
+        "DB00586"
+    ], 
+    "Dicloxacilin": [
+        "DB00485"
+    ], 
+    "Dicloxacillin": [
+        "DB00485"
+    ], 
+    "Dicloxicilin": [
+        "DB00485"
+    ], 
+    "Dicloxicillin": [
+        "DB00485"
+    ], 
+    "Differin Gel 1%": [
+        "DB00210"
+    ], 
+    "Diflorasone Diacetate": [
+        "DB00223"
+    ], 
+    "Dilaudid": [
+        "DB00327"
+    ], 
+    "Diltiazem": [
+        "DB00343"
+    ], 
+    "Diltiazem Er": [
+        "DB00343"
+    ], 
+    "Diovan": [
+        "DB00177"
+    ], 
+    "Diprolene": [
+        "DB00443"
+    ], 
+    "Divalproex": [
+        "DB00313"
+    ], 
+    "Doxazosin Mesylate": [
+        "DB00590"
+    ], 
+    "Doxepin": [
+        "DB01142"
+    ], 
+    "Doxepin Hcl": [
+        "DB01142"
+    ], 
+    "Doxycyclin": [
+        "DB00254"
+    ], 
+    "Doxycycline": [
+        "DB00254"
+    ], 
+    "Drospirenone/Ethinyl Estradiol": [
+        "DB01395"
+    ], 
+    "Duricef": [
+        "DB01140"
+    ], 
+    "Duricef Capsules": [
+        "DB01140"
+    ], 
+    "ECONAZOLE NITRATE": [
+        "DB01127"
+    ], 
+    "EFFEXOR": [
+        "DB00285"
+    ], 
+    "EFFEXOR XR": [
+        "DB00285"
+    ], 
+    "ELOCON MOMETASONE TOPICAL": [
+        "DB00764"
+    ], 
+    "ENABLEX": [
+        "DB00496"
+    ], 
+    "ENDAL": [
+        "DB01114"
+    ], 
+    "EPINEPHRINE": [
+        "DB00668"
+    ], 
+    "ERYTHROMYCIN": [
+        "DB00199"
+    ], 
+    "ESCITALOPRAM": [
+        "DB01175"
+    ], 
+    "ESOMEPRAZOLE": [
+        "DB00736"
+    ], 
+    "ESTRADIOL": [
+        "DB00783"
+    ], 
+    "ESTRATEST HS": [
+        "DB06710", 
+        ""
+    ], 
+    "ETHINYLESTRADIOL": [
+        "DB00977"
+    ], 
+    "EUGYNON": [
+        "", 
+        "DB00977"
+    ], 
+    "EXCEDRIN": [
+        "DB00201", 
+        "DB00316"
+    ], 
+    "EXCEDRIN /USA/": [
+        "DB00201", 
+        "DB00316"
+    ], 
+    "EXCEDRIN EXTRA STRENGTH": [
+        "DB00201", 
+        "DB00316"
+    ], 
+    "Ecolicin eye ointment": [
+        "DB00199", 
+        "DB01111"
+    ], 
+    "Eemt Hs (Methyltestosterone W/ Estrogen)": [
+        "DB06710"
+    ], 
+    "Efexor Xr": [
+        "DB00285"
+    ], 
+    "Effexor (Venlafaxine)": [
+        "DB00285"
+    ], 
+    "Elmiron (Pentosan Polysulfate Sodium)": [
+        "DB00686"
+    ], 
+    "Elocon": [
+        "DB00764"
+    ], 
+    "Emitrex": [
+        "DB00669"
+    ], 
+    "Endocet": [
+        "DB00497", 
+        "DB00316"
+    ], 
+    "Epi-Pen": [
+        "DB00668"
+    ], 
+    "Errin": [
+        "DB00717"
+    ], 
+    "Estrostep": [
+        "DB00977", 
+        "DB00717"
+    ], 
+    "Ethinyl Estradiol / Levonorgestrel": [
+        "DB00977"
+    ], 
+    "Ethinyl Estradiol/Levonorgestrel": [
+        "DB00977"
+    ], 
+    "Ethinyl Estradiol; Levonorgestrel (Brand Name Alesse)": [
+        "DB00977"
+    ], 
+    "Etodolac": [
+        "DB00749"
+    ], 
+    "Euthyrox": [
+        "DB00451"
+    ], 
+    "Evista": [
+        "DB00481"
+    ], 
+    "Excedrin": [
+        "DB00201", 
+        "DB00316"
+    ], 
+    "Extra Strenght Acetaminophen": [
+        "DB00316"
+    ], 
+    "Extra Strength Excedrin": [
+        "DB00201", 
+        "DB00316"
+    ], 
+    "Extra Strength Tylenol": [
+        "DB00316"
+    ], 
+    "Ezetimibe-Simvastatin": [
+        "DB00973", 
+        "DB00641"
+    ], 
+    "FAMOTIDINE": [
+        "DB00927"
+    ], 
+    "FENTANYL": [
+        "DB00813"
+    ], 
+    "FEXOFENADINE HYDROCHLORIDE": [
+        "DB00950"
+    ], 
+    "FILGRASTIM": [
+        "DB00099"
+    ], 
+    "FLONASE": [
+        "DB00588"
+    ], 
+    "FLOXIN OTIC": [
+        "DB01165"
+    ], 
+    "FLUCONAZOLE": [
+        "DB00196"
+    ], 
+    "FLUOCINONIDE": [
+        "DB01047"
+    ], 
+    "FLUOCINONIDE 0.05% LIQU": [
+        "DB01047"
+    ], 
+    "FLUOXETINE": [
+        "DB00472"
+    ], 
+    "FLUOXETINE (PROZAC)": [
+        "DB00472"
+    ], 
+    "FOLIC ACID": [
+        "DB00158"
+    ], 
+    "FOSINIL": [
+        "DB00492"
+    ], 
+    "FUROSEMIDE": [
+        "DB00695"
+    ], 
+    "Famcciclovir": [
+        "DB00426"
+    ], 
+    "Famvir": [
+        "DB00426"
+    ], 
+    "Feldene": [
+        "DB00554"
+    ], 
+    "Felodipine": [
+        "DB01023"
+    ], 
+    "Fexofenadine": [
+        "DB00950"
+    ], 
+    "Flecainide": [
+        "DB01195"
+    ], 
+    "Flexeril": [
+        "DB00924"
+    ], 
+    "Flomax": [
+        "DB00706"
+    ], 
+    "Flomax (Tamsulosin)": [
+        "DB00706"
+    ], 
+    "Flonase Nasal Spray": [
+        "DB00588"
+    ], 
+    "Flouocinonide Ointment": [
+        "DB01047"
+    ], 
+    "Flovent": [
+        "DB00588"
+    ], 
+    "Flovent (44mcg/Puff)": [
+        "DB00588"
+    ], 
+    "Flovent 100 Mcg": [
+        "DB00588"
+    ], 
+    "Flovent 110": [
+        "DB00588"
+    ], 
+    "Flovent 110 Mcg": [
+        "DB00588"
+    ], 
+    "Flovent 110 Mg": [
+        "DB00588"
+    ], 
+    "Flovent 110mcg": [
+        "DB00588"
+    ], 
+    "Flovent 220 Mcg": [
+        "DB00588"
+    ], 
+    "Flovent 44": [
+        "DB00588"
+    ], 
+    "Flovent 44 Mcg": [
+        "DB00588"
+    ], 
+    "Flovent 44mcg/Puff": [
+        "DB00588"
+    ], 
+    "Flovent 88 Mcg": [
+        "DB00588"
+    ], 
+    "Flovent Hfa": [
+        "DB00588"
+    ], 
+    "Flovent Hfa 110 Mcg": [
+        "DB00588"
+    ], 
+    "Flovent Steriods Inhaler": [
+        "DB00588"
+    ], 
+    "Fluocinolone": [
+        "DB00591"
+    ], 
+    "Fluocinolone Acetonide": [
+        "DB00591"
+    ], 
+    "Fluocinolone Acetonide 0.01%": [
+        "DB00591"
+    ], 
+    "Fluocinolone Acetonide [Fluta]": [
+        "DB00591"
+    ], 
+    "Fluocinolone Cream": [
+        "DB00591"
+    ], 
+    "Fluocinonide 0.05% Cream": [
+        "DB01047"
+    ], 
+    "Fluocinonide 0.50": [
+        "DB01047"
+    ], 
+    "Fluocinonide Cream": [
+        "DB01047"
+    ], 
+    "Fluocinonide Crm": [
+        "DB01047"
+    ], 
+    "Fluocinonide Ointment": [
+        "DB01047"
+    ], 
+    "Fluocinonide Topical Cream": [
+        "DB01047"
+    ], 
+    "Fluorometholone": [
+        "DB00324"
+    ], 
+    "Fml": [
+        "DB00324"
+    ], 
+    "Fml (Fluorometholone) Steroid Eye Drops": [
+        "DB00324"
+    ], 
+    "Fml Ointment": [
+        "DB00324"
+    ], 
+    "Foradil": [
+        "DB00983"
+    ], 
+    "Fosamax": [
+        "DB00630"
+    ], 
+    "Fosamax With Vitamin D": [
+        "DB00630"
+    ], 
+    "Fucidine": [
+        "DB02703"
+    ], 
+    "GABAPENTIN": [
+        "DB00996"
+    ], 
+    "GALENIC /CODEINE/PROMETHAZINE/": [
+        "DB00318", 
+        "DB01069"
+    ], 
+    "GATIFLOXACIN": [
+        "DB01044"
+    ], 
+    "GLUCAGON": [
+        "DB00040"
+    ], 
+    "GLUCOSAMINE": [
+        "DB01296"
+    ], 
+    "GLYCOPYRRONIUM BROMIDE": [
+        "DB00986"
+    ], 
+    "GUAFENESIN": [
+        "DB00874"
+    ], 
+    "GUAIFENESIN": [
+        "DB00874"
+    ], 
+    "Gabapentin (Neurontin)": [
+        "DB00996"
+    ], 
+    "Gamma Interferon (Actimmune)": [
+        "DB00033"
+    ], 
+    "Gen Robinul": [
+        "DB00986"
+    ], 
+    "Ginseng": [
+        "DB01404"
+    ], 
+    "Glipizide": [
+        "DB01067"
+    ], 
+    "Glucophage": [
+        "DB00331"
+    ], 
+    "Glucophage Xr": [
+        "DB00331"
+    ], 
+    "Glucosamine And Chondroitin": [
+        "DB01296"
+    ], 
+    "Glucosamine And Chondroitin And Msm": [
+        "DB01296"
+    ], 
+    "Glucosamine Complex": [
+        "DB01296"
+    ], 
+    "Glucosamine-Chondroitin": [
+        "DB01296"
+    ], 
+    "Glyburide": [
+        "DB01016"
+    ], 
+    "Glyburide/Metformin": [
+        "DB01016"
+    ], 
+    "HCTZ": [
+        "DB00999"
+    ], 
+    "HELIDAC": [
+        "DB00759", 
+        "DB01294", 
+        "DB00916"
+    ], 
+    "HYDROCODONE": [
+        "DB00956"
+    ], 
+    "HYDROCODONE & ACETAMINOPHEN VICODIN": [
+        "DB00956"
+    ], 
+    "HYDROCORTISONE 2.5%": [
+        "DB00741"
+    ], 
+    "HYDROCORTISONE-IDOQUINOL (VYTONE)": [
+        "DB00741"
+    ], 
+    "HYDROCORTISONE-NEOMYCIN-POLYMYXIN B": [
+        "DB00741"
+    ], 
+    "HYDROMORPHONE HYDROCHLORIDE": [
+        "DB00327"
+    ], 
+    "Halobetasol": [
+        "DB00596"
+    ], 
+    "Halobetasol Propionate Ointment": [
+        "DB00596"
+    ], 
+    "Haloperidol": [
+        "DB00502"
+    ], 
+    "Histamine": [
+        "DB00667"
+    ], 
+    "Humalog Insulin": [
+        "DB00046"
+    ], 
+    "Humulin Nph": [
+        "DB08914"
+    ], 
+    "Hydricortizone": [
+        "DB00741"
+    ], 
+    "Hydrochlorothiazide": [
+        "DB00999"
+    ], 
+    "Hydrochlorothiazide (Hctz)": [
+        "DB00999"
+    ], 
+    "Hydrochlorothiazide 12.5 mg": [
+        "DB00999"
+    ], 
+    "Hydrocort 2.5%": [
+        "DB00741"
+    ], 
+    "Hydrocortisone": [
+        "DB00741"
+    ], 
+    "Hydrocortisone 0.1%": [
+        "DB00741"
+    ], 
+    "Hydrocortisone 1%": [
+        "DB00741"
+    ], 
+    "Hydrocortisone 10": [
+        "DB00741"
+    ], 
+    "Hydrocortisone 2.5% Crm": [
+        "DB00741"
+    ], 
+    "Hydrocortisone 2.5% Ointment": [
+        "DB00741"
+    ], 
+    "Hydrocortisone Cream": [
+        "DB00741"
+    ], 
+    "Hydrocortisone Cream 2.5%": [
+        "DB00741"
+    ], 
+    "Hydrocortisone Cream Usp": [
+        "DB00741"
+    ], 
+    "Hydrocortisone Cream/Lotion/Ointment": [
+        "DB00741"
+    ], 
+    "Hydrocortisone Ointment": [
+        "DB00741"
+    ], 
+    "Hydrocortisone Valerate": [
+        "DB00741"
+    ], 
+    "Hydrocortisone With Aloe": [
+        "DB00741"
+    ], 
+    "Hydrocortisone cream 1%": [
+        "DB00741"
+    ], 
+    "Hydrocortizone": [
+        "DB00741"
+    ], 
+    "Hydroxazine": [
+        "DB00557"
+    ], 
+    "Hydroxosine": [
+        "DB00557"
+    ], 
+    "Hydroxychloroquine": [
+        "DB01611"
+    ], 
+    "Hydroxyzine": [
+        "DB00557"
+    ], 
+    "Hydroxyzine (10mg/5ml)": [
+        "DB00557"
+    ], 
+    "Hydroxyzine (Atarax)": [
+        "DB00557"
+    ], 
+    "Hydroxyzine Hci": [
+        "DB00557"
+    ], 
+    "Hydroxyzine Hcl": [
+        "DB00557"
+    ], 
+    "Hydroxyzine Syrup": [
+        "DB00557"
+    ], 
+    "Hyzaar": [
+        "DB00678"
+    ], 
+    "IBUPROFEN": [
+        "DB01050"
+    ], 
+    "IMIPRAMINE": [
+        "DB00458"
+    ], 
+    "IMITREX": [
+        "DB00669"
+    ], 
+    "INDAPAMIDE": [
+        "DB00808"
+    ], 
+    "IPRATROPIUM BROMIDE": [
+        "DB00332"
+    ], 
+    "IRON SUPPLEMENT": [
+        "DB01592"
+    ], 
+    "ISONIAZID": [
+        "DB00951"
+    ], 
+    "Ibuprofen": [
+        "DB01050"
+    ], 
+    "Ibuprofen 600mg": [
+        "DB01050"
+    ], 
+    "Ic Microgestin": [
+        "DB00977", 
+        "DB00717"
+    ], 
+    "Ilotycin Ointment": [
+        "DB00199"
+    ], 
+    "Imdur": [
+        "DB01020"
+    ], 
+    "Infant Motrin": [
+        "DB01050"
+    ], 
+    "Interferon Gamma": [
+        "DB00033"
+    ], 
+    "Irbesartan": [
+        "DB01029"
+    ], 
+    "Iron": [
+        "DB01592"
+    ], 
+    "Iron Sulfate": [
+        "DB01592"
+    ], 
+    "Iron Supplements": [
+        "DB01592"
+    ], 
+    "Iron w/ Vit C": [
+        "DB01592"
+    ], 
+    "Isoptin": [
+        "DB00661"
+    ], 
+    "Istalol": [
+        "DB00373"
+    ], 
+    "Iv Ancef": [
+        "DB01327"
+    ], 
+    "Iv Cefazolin": [
+        "DB01327"
+    ], 
+    "Iv Clindamycin": [
+        "DB01190"
+    ], 
+    "Iv Clindamycin And Po Clindamy": [
+        "DB01190"
+    ], 
+    "Januvia (Sitabliptin)": [
+        "DB01261"
+    ], 
+    "Jod-Thyrox": [
+        "DB00451", 
+        "DB06715"
+    ], 
+    "Junior Strength Motrin": [
+        "DB01050"
+    ], 
+    "KAOPECTATE": [
+        "DB00836"
+    ], 
+    "KARIVA": [
+        "DB00304", 
+        "DB00977"
+    ], 
+    "KETOROLAC": [
+        "DB00465"
+    ], 
+    "KETOROLAC TROMETHAMINE": [
+        "DB00465"
+    ], 
+    "Kariva(Desogestrel; Ethinyl Estradiol) 0.15mg;0.02mg": [
+        "DB00304", 
+        "DB00977"
+    ], 
+    "Kef;Ex": [
+        "DB00567"
+    ], 
+    "Keflex": [
+        "DB00567"
+    ], 
+    "Keflex 500mg Tid": [
+        "DB00567"
+    ], 
+    "Keflex And Bactrim": [
+        "DB00567"
+    ], 
+    "Keflex And Bactroban": [
+        "DB00567"
+    ], 
+    "Kelfex": [
+        "DB00567"
+    ], 
+    "Kenalog": [
+        "DB00620"
+    ], 
+    "Keppra": [
+        "DB01202"
+    ], 
+    "Ketoconazole": [
+        "DB01026"
+    ], 
+    "Ketoconazole Cream": [
+        "DB01026"
+    ], 
+    "Keyhole Limpet Hemocyanin (KLH)": [
+        "DB05299"
+    ], 
+    "Klonopin": [
+        "DB01068"
+    ], 
+    "Klor-Con (Potassium Chloride)": [
+        "DB00761"
+    ], 
+    "L-Lysine 500mg": [
+        "DB00123"
+    ], 
+    "L-Thyrox": [
+        "DB00451"
+    ], 
+    "L-Thyrox-Jod Hexal": [
+        "DB00451"
+    ], 
+    "L-Thyroxin": [
+        "DB00451"
+    ], 
+    "L-Thyroxin 75mg": [
+        "DB00451"
+    ], 
+    "L-Thyroxin Jod beta": [
+        "DB00451"
+    ], 
+    "LAMICTAL": [
+        "DB00555"
+    ], 
+    "LANSOPRAZOLE": [
+        "DB00448"
+    ], 
+    "LEIOS": [
+        "DB00977", 
+        "DB00367"
+    ], 
+    "LEVLITE (ETHINYL ESTRADIOL/LEVONORGESTREL)": [
+        "DB00367", 
+        "DB00977"
+    ], 
+    "LEVOFLOXACIN": [
+        "DB01137"
+    ], 
+    "LEVOTHROID": [
+        "DB00451"
+    ], 
+    "LEVOTHYROXINE": [
+        "DB00451"
+    ], 
+    "LEVOTHYROXINE SODIUM": [
+        "DB00451"
+    ], 
+    "LEXAPRO": [
+        "DB01175"
+    ], 
+    "LIDOCAINE": [
+        "DB00281"
+    ], 
+    "LIDOCAINE HYDROCHLORIDE": [
+        "DB00281"
+    ], 
+    "LIPITOR": [
+        "DB01076"
+    ], 
+    "LIPITOR (ATORVASTATIN)": [
+        "DB01076"
+    ], 
+    "LISINOPRIL": [
+        "DB00722"
+    ], 
+    "LOESTRIN": [
+        "DB00717"
+    ], 
+    "LORATADINE": [
+        "DB00455"
+    ], 
+    "LOTENSIN": [
+        "DB00542"
+    ], 
+    "LUNESTA": [
+        "DB00402"
+    ], 
+    "LYBREL": [
+        "DB00367", 
+        "DB00977"
+    ], 
+    "LYSINE": [
+        "DB00123"
+    ], 
+    "Labetalol": [
+        "DB00598"
+    ], 
+    "Lachydrin": [
+        "DB06768"
+    ], 
+    "Lamisil": [
+        "DB00857"
+    ], 
+    "Lamuna": [
+        "DB00977", 
+        "DB00304"
+    ], 
+    "Lantus": [
+        "DB00047"
+    ], 
+    "Lasix": [
+        "DB00695"
+    ], 
+    "Levaquin": [
+        "DB01137"
+    ], 
+    "Levora": [
+        "DB00367", 
+        "DB00977"
+    ], 
+    "Levoxyl": [
+        "DB00451"
+    ], 
+    "Lexapro (Escitalopram)": [
+        "DB01175"
+    ], 
+    "Librax": [
+        "DB00771"
+    ], 
+    "Lidex": [
+        "DB01047"
+    ], 
+    "Lidex.05%": [
+        "DB01047"
+    ], 
+    "Lidocain": [
+        "DB00281"
+    ], 
+    "Linezolid": [
+        "DB00601"
+    ], 
+    "Lisinipril": [
+        "DB00722"
+    ], 
+    "Lisinopril / HCTZ": [
+        "DB00722"
+    ], 
+    "Lisinopril 20 mg": [
+        "DB00722"
+    ], 
+    "Lisinopril Hctz": [
+        "DB00722"
+    ], 
+    "Lisinopril-Hctz": [
+        "DB00722"
+    ], 
+    "Lisinopril/Hctz 20/25": [
+        "DB00722"
+    ], 
+    "Lithium": [
+        "DB01356"
+    ], 
+    "Lo-Ogestrel": [
+        "DB00367"
+    ], 
+    "Locoid": [
+        "DB00741"
+    ], 
+    "Loestrin Fe": [
+        "DB00717"
+    ], 
+    "Loperamide Hydrochloride": [
+        "DB00836"
+    ], 
+    "Lorazepam": [
+        "DB00186"
+    ], 
+    "Losartan": [
+        "DB00678"
+    ], 
+    "Lotemax Ophthalmic": [
+        "DB00873"
+    ], 
+    "Lovastatin": [
+        "DB00227"
+    ], 
+    "Lovenox": [
+        "DB01225"
+    ], 
+    "MAALOX": [
+        "DB00836"
+    ], 
+    "MAGNESIUM": [
+        "DB01378"
+    ], 
+    "MAGNESIUM HYDROXIDE": [
+        "DB01378"
+    ], 
+    "MAGNESIUM SULFATE": [
+        "DB00653"
+    ], 
+    "MARACAINE": [
+        "DB00297"
+    ], 
+    "MARVELON": [
+        "DB00304"
+    ], 
+    "MECLOZINE": [
+        "DB00737"
+    ], 
+    "MEDINITE": [
+        "DB00852"
+    ], 
+    "MEDROXYPROGESTERONE ACETATE": [
+        "DB00603"
+    ], 
+    "MELATONIN": [
+        "DB01065"
+    ], 
+    "MEPYRAMINE MALEATE": [
+        "DB06691"
+    ], 
+    "MESALAZINE": [
+        "DB00244"
+    ], 
+    "METHYLPHENIDATE HYDROCHLORIDE": [
+        "DB00422"
+    ], 
+    "METHYLPREDNISOLONE": [
+        "DB00959"
+    ], 
+    "METHYLPREDNISOLONE SODIUM SUCCINATE": [
+        "DB00959"
+    ], 
+    "METOCLOPRAMIDE": [
+        "DB01233"
+    ], 
+    "METRONIDAZOLE": [
+        "DB00916"
+    ], 
+    "MICONAZOLE NITRATE": [
+        "DB01110"
+    ], 
+    "MICRONOR": [
+        "DB00717"
+    ], 
+    "MIDAZOLAM": [
+        "DB00683"
+    ], 
+    "MIDAZOLAM HYDROCHLORIDE": [
+        "DB00683"
+    ], 
+    "MIDRID": [
+        "DB06706", 
+        "DB00316"
+    ], 
+    "MINOXIDIL": [
+        "DB00350"
+    ], 
+    "MIRCETTE": [
+        "DB00304", 
+        "DB00977"
+    ], 
+    "MOMETASONE FUROATE": [
+        "DB00764"
+    ], 
+    "MONTELUKAST": [
+        "DB00471"
+    ], 
+    "MORPHINE": [
+        "DB00295"
+    ], 
+    "MORPHINE SULFATE": [
+        "DB00295"
+    ], 
+    "MYLANTA": [
+        "DB00927"
+    ], 
+    "Maxair": [
+        "DB01291"
+    ], 
+    "Maxalt": [
+        "DB00953"
+    ], 
+    "Mefloquine": [
+        "DB00358"
+    ], 
+    "Metamizol": [
+        "DB04817"
+    ], 
+    "Metformin": [
+        "DB00331"
+    ], 
+    "Methadone": [
+        "DB00333"
+    ], 
+    "Methimazole": [
+        "DB00763"
+    ], 
+    "Methotrexate": [
+        "DB00563"
+    ], 
+    "Metoprolol": [
+        "DB00264"
+    ], 
+    "Microgestin": [
+        "DB00977"
+    ], 
+    "Microgynon": [
+        "DB00977", 
+        "DB00367"
+    ], 
+    "Midol": [
+        "DB01050"
+    ], 
+    "Minocin": [
+        "DB01017"
+    ], 
+    "Minocycline": [
+        "DB01017"
+    ], 
+    "Minocylcine": [
+        "DB01017"
+    ], 
+    "Mirapex": [
+        "DB00413"
+    ], 
+    "Mometasone": [
+        "DB00764"
+    ], 
+    "Mometasone 0.05% Ointment": [
+        "DB00764"
+    ], 
+    "Mometasone 0.1%": [
+        "DB00764"
+    ], 
+    "Mometasone Cream": [
+        "DB00764"
+    ], 
+    "Mometasone Furoate Monohydrate": [
+        "DB00764"
+    ], 
+    "Mometasone Nasal": [
+        "DB00764"
+    ], 
+    "Mometasone Ointment": [
+        "DB00764"
+    ], 
+    "Mometasone Topical": [
+        "DB00764"
+    ], 
+    "Mometasone Topical Cream": [
+        "DB00764"
+    ], 
+    "Monopril": [
+        "DB00492"
+    ], 
+    "Monostep": [
+        "DB00977", 
+        "DB00367"
+    ], 
+    "Montelukast (Singulair)": [
+        "DB00471"
+    ], 
+    "Montelukast Sodium": [
+        "DB00471"
+    ], 
+    "Motrin": [
+        "DB01050"
+    ], 
+    "Motrin Ib": [
+        "DB01050"
+    ], 
+    "Mucinex D": [
+        "DB00514", 
+        "DB00874"
+    ], 
+    "Mupirocin": [
+        "DB00410"
+    ], 
+    "Mupirocin 2%": [
+        "DB00410"
+    ], 
+    "Mupirocin Ointment": [
+        "DB00410"
+    ], 
+    "Mupirocin Ointment 2%": [
+        "DB00410"
+    ], 
+    "NABUMETONE": [
+        "DB00461"
+    ], 
+    "NALBUPHINE HYDROCHLORIDE": [
+        "DB00844"
+    ], 
+    "NAPROSYN": [
+        "DB00788"
+    ], 
+    "NAPROXEN SODIUM": [
+        "DB00788"
+    ], 
+    "NARINE REPETABS": [
+        "DB00455", 
+        "DB00852"
+    ], 
+    "NEOTRACIN": [
+        "DB00994", 
+        "DB00626"
+    ], 
+    "NEURONTIN": [
+        "DB00996"
+    ], 
+    "NITROFURANTOIN": [
+        "DB00698"
+    ], 
+    "NIZORAL OINTMENT": [
+        "DB01026"
+    ], 
+    "NIZORAL SHAMPOO": [
+        "DB01026"
+    ], 
+    "NORETHISTERONE": [
+        "DB00717"
+    ], 
+    "NORTRIPTYLINE": [
+        "DB00540"
+    ], 
+    "Nalopril": [
+        "DB00584"
+    ], 
+    "Naproxen": [
+        "DB00788"
+    ], 
+    "Naproxen DR": [
+        "DB00788"
+    ], 
+    "Nasacort": [
+        "DB00620"
+    ], 
+    "Nasalcrom": [
+        "DB01003"
+    ], 
+    "Nasarel Fluniosolide": [
+        "DB00180"
+    ], 
+    "Nasarel(Fluinsolide Spray)": [
+        "DB00180"
+    ], 
+    "Nasocort": [
+        "DB00620"
+    ], 
+    "Nasonex": [
+        "DB00764"
+    ], 
+    "Nasonex Nasal Spray": [
+        "DB00764"
+    ], 
+    "Necon": [
+        "DB00977", 
+        "DB00717"
+    ], 
+    "Nexium": [
+        "DB00736"
+    ], 
+    "Niacin": [
+        "DB00627"
+    ], 
+    "Nifedip Saine": [
+        "DB01115"
+    ], 
+    "Nifedipine": [
+        "DB01115"
+    ], 
+    "Nitroglycerin": [
+        "DB00727"
+    ], 
+    "Noritate (Metronidazole)": [
+        "DB00916"
+    ], 
+    "Norvasc": [
+        "DB00381"
+    ], 
+    "Novalgin": [
+        "DB04817"
+    ], 
+    "Nuva Ring": [
+        "DB00294", 
+        "DB00977"
+    ], 
+    "Nuva-Ring": [
+        "DB00294", 
+        "DB00977"
+    ], 
+    "NuvaRing": [
+        "DB00294", 
+        "DB00977"
+    ], 
+    "Nuvaring": [
+        "DB00294", 
+        "DB00977"
+    ], 
+    "Nyquil": [
+        "DB00366", 
+        "DB00514", 
+        "DB00852"
+    ], 
+    "Nyquil/Dayquil": [
+        "DB00366", 
+        "DB00514", 
+        "DB00852"
+    ], 
+    "OFLOXACIN": [
+        "DB01165"
+    ], 
+    "OLMESARTAN": [
+        "DB00275"
+    ], 
+    "OLOPATADINE HYDROCHLORIDE": [
+        "DB00768"
+    ], 
+    "OLUX": [
+        "DB01013"
+    ], 
+    "OLUX FOAM": [
+        "DB01013"
+    ], 
+    "OLUX FOAM (CLOBETASOL PROPIONATE)": [
+        "DB01013"
+    ], 
+    "ONDANSETRON": [
+        "DB00904"
+    ], 
+    "ONDANSETRON HYDROCHLORIDE": [
+        "DB00904"
+    ], 
+    "ORTHO-CEPT (DESOGESTREL/ETHINYL ESTRADIOL)": [
+        "DB00304", 
+        "DB00977"
+    ], 
+    "OSELTAMIVIR": [
+        "DB00198"
+    ], 
+    "OVCON": [
+        "DB00977", 
+        "DB00717"
+    ], 
+    "OXYBUTYNIN": [
+        "DB01062"
+    ], 
+    "OXYBUTYNIN HYDROCHLORIDE": [
+        "DB01062"
+    ], 
+    "Olmetec": [
+        "DB00275"
+    ], 
+    "Olux-E": [
+        "DB01013"
+    ], 
+    "Omalizumab": [
+        "DB00043"
+    ], 
+    "Omep": [
+        "DB00338"
+    ], 
+    "Omeprazol": [
+        "DB00338"
+    ], 
+    "Omeprazole": [
+        "DB00338"
+    ], 
+    "Optivar": [
+        "DB00972"
+    ], 
+    "Orapred": [
+        "DB00860"
+    ], 
+    "Ortho Evra": [
+        "DB00977", 
+        "DB06713"
+    ], 
+    "Ortho Micronor": [
+        "DB00717"
+    ], 
+    "Ortho Novum 7/7/7": [
+        "DB00717", 
+        "DB00977"
+    ], 
+    "Ortho Novum 7/7/8": [
+        "DB00717", 
+        "DB00977"
+    ], 
+    "Ortho-Cyclen": [
+        "DB00977", 
+        "DB00957"
+    ], 
+    "Orthotricycline": [
+        "DB00977", 
+        "DB00957"
+    ], 
+    "Ovcon-35": [
+        "DB00977"
+    ], 
+    "Ovcon-36": [
+        "DB00977"
+    ], 
+    "Ovcon-37": [
+        "DB00717"
+    ], 
+    "Oxacillin": [
+        "DB00713"
+    ], 
+    "Oxicodon": [
+        "DB00497"
+    ], 
+    "Oxycod/Apap": [
+        "DB00316", 
+        "DB00497"
+    ], 
+    "Oxycodone": [
+        "DB00497"
+    ], 
+    "PACLITAXEL": [
+        "DB01229"
+    ], 
+    "PANTOPRAZOLE SODIUM": [
+        "DB00213"
+    ], 
+    "PARACETAMOL": [
+        "DB00316"
+    ], 
+    "PAROXETINE HYDROCHLORIDE": [
+        "DB00715"
+    ], 
+    "PENCICLOVIR": [
+        "DB00299"
+    ], 
+    "PENDEPON COMPOSITUM": [
+        "DB01053"
+    ], 
+    "PEPCID (FAMOTIDINE)": [
+        "DB00927"
+    ], 
+    "PETHIDINE HYDROCHLORIDE": [
+        "DB00454"
+    ], 
+    "PETIBELLE FILMTABLETTEN": [
+        "DB00977", 
+        "DB01395"
+    ], 
+    "PHENOL": [
+        "DB03255"
+    ], 
+    "PHENTERMINE": [
+        "DB00191"
+    ], 
+    "PHOSPHOCREATINE": [
+        "DB00148"
+    ], 
+    "PLEXON": [
+        "DB00634"
+    ], 
+    "POLYTRIM": [
+        "DB00440", 
+        "DB00781"
+    ], 
+    "PRED FORTE": [
+        "DB00860"
+    ], 
+    "PREDNISOLONE ACETATE": [
+        "DB00860"
+    ], 
+    "PREDNISONE": [
+        "DB00635"
+    ], 
+    "PREVACID (LANSOPRAZOLE)": [
+        "DB00448"
+    ], 
+    "PRILOSEC": [
+        "DB00338"
+    ], 
+    "PROCAINE": [
+        "DB00721"
+    ], 
+    "PROMETHAZINE HYDROCHLORIDE": [
+        "DB01069"
+    ], 
+    "PROPACET": [
+        "DB00647"
+    ], 
+    "PROPOFOL": [
+        "DB00818"
+    ], 
+    "PSEUDOEPHEDRINE": [
+        "DB00852"
+    ], 
+    "PSEUDOEPHEDRINE HYDROCHLORIDE": [
+        "DB00852"
+    ], 
+    "PSEUDOEPHEDRINE SULFATE": [
+        "DB00852"
+    ], 
+    "PYRIDOXINE HYDROCHLORIDE": [
+        "DB00165"
+    ], 
+    "Pantozol": [
+        "DB00213"
+    ], 
+    "Paroxetine": [
+        "DB00715"
+    ], 
+    "Patanol": [
+        "DB00768"
+    ], 
+    "Patanol Ophthalmic": [
+        "DB00768"
+    ], 
+    "Paxil": [
+        "DB00715"
+    ], 
+    "Pediatric Robitussin": [
+        "DB00874"
+    ], 
+    "Percocet": [
+        "DB00497", 
+        "DB00316"
+    ], 
+    "Periactin": [
+        "DB00434"
+    ], 
+    "Phenergan": [
+        "DB01069"
+    ], 
+    "Pimecrolimus 1%": [
+        "DB00337"
+    ], 
+    "Pioglitazone": [
+        "DB01132"
+    ], 
+    "Plavix": [
+        "DB00758"
+    ], 
+    "Po Clindamycin": [
+        "DB01190"
+    ], 
+    "Ponstel (Mefenamic Acid)": [
+        "DB00784"
+    ], 
+    "Potassium": [
+        "DB01345"
+    ], 
+    "Potassium Cl": [
+        "DB01345"
+    ], 
+    "Potassium Supplement": [
+        "DB01345"
+    ], 
+    "Pramosone": [
+        "DB00741"
+    ], 
+    "Pravachol": [
+        "DB00175"
+    ], 
+    "Pravastatin": [
+        "DB00175"
+    ], 
+    "Pred Forte Eye Drops": [
+        "DB00860"
+    ], 
+    "Prednisolone": [
+        "DB00860"
+    ], 
+    "Prednisone (Orapred)  15mg/Ml": [
+        "DB00635"
+    ], 
+    "Prednisone Solution 1%": [
+        "DB00635"
+    ], 
+    "Premarin": [
+        "DB00286"
+    ], 
+    "Prempro": [
+        "DB00286"
+    ], 
+    "Prevacid": [
+        "DB00448"
+    ], 
+    "Pristiq": [
+        "DB06700"
+    ], 
+    "Pro Air": [
+        "DB01366"
+    ], 
+    "Pro-Air": [
+        "DB01366"
+    ], 
+    "Proair": [
+        "DB01366"
+    ], 
+    "Progesterone": [
+        "DB00396"
+    ], 
+    "Promethazine": [
+        "DB01069"
+    ], 
+    "Prometrium": [
+        "DB00396"
+    ], 
+    "Propecia": [
+        "DB01216"
+    ], 
+    "Propranolol": [
+        "DB00571"
+    ], 
+    "Protonix": [
+        "DB00213"
+    ], 
+    "Protopic": [
+        "DB00864"
+    ], 
+    "Protopic (Tacrolimus) Ointment": [
+        "DB00864"
+    ], 
+    "Protopic .1%": [
+        "DB00864"
+    ], 
+    "Protopic 0.03%": [
+        "DB00864"
+    ], 
+    "Protopic 0.1%": [
+        "DB00864"
+    ], 
+    "Protopic 0.1% Ointment": [
+        "DB00864"
+    ], 
+    "Protopic Oint": [
+        "DB00864"
+    ], 
+    "Protopic Ointment": [
+        "DB00864"
+    ], 
+    "Proventil": [
+        "DB01001"
+    ], 
+    "Proventil Hfa": [
+        "DB01001"
+    ], 
+    "Provera": [
+        "DB00603"
+    ], 
+    "Prozac": [
+        "DB00472"
+    ], 
+    "Pseudoeffedrine": [
+        "DB00852"
+    ], 
+    "Pseudophedrine": [
+        "DB00852"
+    ], 
+    "Pulmicort": [
+        "DB01222"
+    ], 
+    "Pulmicort Respules": [
+        "DB01222"
+    ], 
+    "Q-Var": [
+        "DB00394"
+    ], 
+    "QUETIAPINE FUMARATE": [
+        "DB01224"
+    ], 
+    "QUININE": [
+        "DB00468"
+    ], 
+    "QVAR": [
+        "DB00394"
+    ], 
+    "RABEPRAZOLE SODIUM": [
+        "DB01129"
+    ], 
+    "RANITIDINE HYDROCHLORIDE": [
+        "DB00863"
+    ], 
+    "RISPERIDONE": [
+        "DB00734"
+    ], 
+    "ROBITUSSIN-DM": [
+        "DB00874"
+    ], 
+    "ROCURONIUM BROMIDE": [
+        "DB00728"
+    ], 
+    "ROFECOXIB": [
+        "DB00533"
+    ], 
+    "ROSIGLITAZONE MALEATE": [
+        "DB00412"
+    ], 
+    "Ragweed": [
+        "DB05368"
+    ], 
+    "Ramipril": [
+        "DB00178"
+    ], 
+    "Ranitidine": [
+        "DB00863"
+    ], 
+    "Reclipsen": [
+        "DB00977", 
+        "DB00304"
+    ], 
+    "Refobacin": [
+        "DB00798"
+    ], 
+    "Refobacin Eye drops": [
+        "DB00798"
+    ], 
+    "Remeron": [
+        "DB00370"
+    ], 
+    "Restasis": [
+        "DB00091"
+    ], 
+    "Restasis 0.05%": [
+        "DB00091"
+    ], 
+    "Retin A": [
+        "DB00755"
+    ], 
+    "Retin-A": [
+        "DB00755"
+    ], 
+    "Rhinocort": [
+        "DB01222"
+    ], 
+    "Rhinocort Aqua": [
+        "DB01222"
+    ], 
+    "Rifampin": [
+        "DB01045"
+    ], 
+    "Risperdal (Risperidone)": [
+        "DB00734"
+    ], 
+    "Ritalin": [
+        "DB00422"
+    ], 
+    "Robatussin Ce": [
+        "DB00874"
+    ], 
+    "Robitussin": [
+        "DB00874"
+    ], 
+    "Robitussin Cf": [
+        "DB00874"
+    ], 
+    "Rosiglitazone": [
+        "DB00412"
+    ], 
+    "SALBUTAMOL": [
+        "DB01001"
+    ], 
+    "SALSALATE": [
+        "DB01399"
+    ], 
+    "SEASONALE ETHINYL (ESTRADIOL & LEVONORGESTREL)": [
+        "DB00783", 
+        "DB00367"
+    ], 
+    "SERETIDE MITE": [
+        "DB00588"
+    ], 
+    "SEREVENT DISC": [
+        "DB00938"
+    ], 
+    "SERTRALINE HYDROCHLORIDE": [
+        "DB01104"
+    ], 
+    "SILDENAFIL CITRATE": [
+        "DB00203"
+    ], 
+    "SODIUM AMIDOTRIZOATE": [
+        "DB00271"
+    ], 
+    "SODIUM BICARBONATE": [
+        "DB01390"
+    ], 
+    "SULFAMETHIZOLE": [
+        "DB00576"
+    ], 
+    "SULFASALAZINE": [
+        "DB00795"
+    ], 
+    "SUMATRIPTAN": [
+        "DB00669"
+    ], 
+    "SUXAMETHONIUM CHLORIDE": [
+        "DB00202"
+    ], 
+    "SYNTHROID": [
+        "DB00451"
+    ], 
+    "Salmeterol": [
+        "DB00938"
+    ], 
+    "Sarna": [
+        "DB01744", 
+        "DB00825"
+    ], 
+    "Seasonale Ocp": [
+        "DB00367", 
+        "DB00977"
+    ], 
+    "Selenium Sulfide Sha 2.5%": [
+        "DB00971"
+    ], 
+    "Septra": [
+        "DB01015", 
+        "DB00440"
+    ], 
+    "Septra 800/160": [
+        "DB01015", 
+        "DB00440"
+    ], 
+    "Septra Ds": [
+        "DB01015", 
+        "DB00440"
+    ], 
+    "Serevent": [
+        "DB00938"
+    ], 
+    "Seroquel": [
+        "DB01224"
+    ], 
+    "Sertraline": [
+        "DB01104"
+    ], 
+    "Sertraline (Zoloft)": [
+        "DB01104"
+    ], 
+    "Simvastatin": [
+        "DB00641"
+    ], 
+    "Singulair": [
+        "DB00471"
+    ], 
+    "Singulair (Montelukast)": [
+        "DB00471"
+    ], 
+    "Solarcaine": [
+        "DB00281"
+    ], 
+    "Spironolactone": [
+        "DB00421"
+    ], 
+    "Strattera": [
+        "DB00289"
+    ], 
+    "Sudafed": [
+        "DB00852"
+    ], 
+    "Sudafed Sinus": [
+        "DB00852"
+    ], 
+    "Suprax": [
+        "DB00671"
+    ], 
+    "Symbicort": [
+        "DB00983", 
+        "DB01222"
+    ], 
+    "Symbicort 160/45": [
+        "DB00983", 
+        "DB01222"
+    ], 
+    "Symbicort 80": [
+        "DB00983", 
+        "DB01222"
+    ], 
+    "Symlin": [
+        "DB01278"
+    ], 
+    "Synalar": [
+        "DB00591"
+    ], 
+    "Synalar Cream": [
+        "DB00591"
+    ], 
+    "Syntest": [
+        "DB06710"
+    ], 
+    "TACLONEX (CALCIPOTRIENE 0.005% + BETAMETHASONE DIPROPIONATE .064%)": [
+        "DB02300", 
+        "DB00394"
+    ], 
+    "TENORMIN (ATENOLOL)": [
+        "DB00335"
+    ], 
+    "TETRACYCLINE": [
+        "DB00759"
+    ], 
+    "THERAFLU": [
+        "DB01114", 
+        "DB00852", 
+        "DB00514"
+    ], 
+    "THOMAPYRIN N": [
+        "DB00945", 
+        "DB00316"
+    ], 
+    "THYROXINE": [
+        "DB00509"
+    ], 
+    "TOBRAMYCIN": [
+        "DB00684"
+    ], 
+    "TOCOPHEROL": [
+        "DB00163"
+    ], 
+    "TOLTERODINE L-TARTRATE": [
+        "DB01036"
+    ], 
+    "TOPROL (METOPROLOL)": [
+        "DB00264"
+    ], 
+    "TRAMADOL": [
+        "DB00193"
+    ], 
+    "TRETINOIN": [
+        "DB00755"
+    ], 
+    "TRI-NESSA": [
+        "DB00977", 
+        "DB00957"
+    ], 
+    "TRIAMCINOLONE 1%": [
+        "DB00620"
+    ], 
+    "TRIAMTERENE": [
+        "DB00384"
+    ], 
+    "TRIPHASIL": [
+        "DB00367", 
+        "DB00977"
+    ], 
+    "TUSSIN DM": [
+        "DB00874"
+    ], 
+    "TYLENOL PM": [
+        "DB00316"
+    ], 
+    "TYLENOL SINUS MEDICATION": [
+        "DB00316"
+    ], 
+    "Tac": [
+        "DB00864"
+    ], 
+    "Tacrolimus": [
+        "DB00864"
+    ], 
+    "Tacrolimus (Protopic)": [
+        "DB00864"
+    ], 
+    "Tacrolimus Ointment": [
+        "DB00864"
+    ], 
+    "Tacrolimus Topical": [
+        "DB00864"
+    ], 
+    "Tamiflu": [
+        "DB00198"
+    ], 
+    "Tavist": [
+        "DB00283"
+    ], 
+    "Tazarotene .05%": [
+        "DB00799"
+    ], 
+    "Tazorac": [
+        "DB00799"
+    ], 
+    "Telfast": [
+        "DB00950"
+    ], 
+    "Temovate": [
+        "DB01013"
+    ], 
+    "Tenex": [
+        "DB01018"
+    ], 
+    "Tetracycline": [
+        "DB00759"
+    ], 
+    "Theophyllin": [
+        "DB00277"
+    ], 
+    "Thyronajod": [
+        "DB00451", 
+        "DB06715"
+    ], 
+    "Ticlopidine": [
+        "DB00208"
+    ], 
+    "Tobramycin / Dexamethasone": [
+        "DB00684"
+    ], 
+    "Tobramycin 0.3% Ophthalmic Ointment": [
+        "DB00684"
+    ], 
+    "Topamax": [
+        "DB00273"
+    ], 
+    "Toporol": [
+        "DB00264"
+    ], 
+    "Toprol": [
+        "DB00264"
+    ], 
+    "Toprol Xl": [
+        "DB00264"
+    ], 
+    "Toradol": [
+        "DB00465"
+    ], 
+    "Tramcinolone Ointment": [
+        "DB00620"
+    ], 
+    "Travatan": [
+        "DB00287"
+    ], 
+    "Trazodone": [
+        "DB00656"
+    ], 
+    "Tri Sprintec": [
+        "DB00957", 
+        "DB00977"
+    ], 
+    "Tri-Levlen": [
+        "DB00367", 
+        "DB00977"
+    ], 
+    "Tri-Sprintec": [
+        "DB00957", 
+        "DB00977"
+    ], 
+    "Triacinolone": [
+        "DB00620"
+    ], 
+    "Triamcinolone": [
+        "DB00620"
+    ], 
+    "Triamcinolone .1% Ointment": [
+        "DB00620"
+    ], 
+    "Triamcinolone 0.1%": [
+        "DB00620"
+    ], 
+    "Triamcinolone 0.1% Cream": [
+        "DB00620"
+    ], 
+    "Triamcinolone 0.1% Ointment": [
+        "DB00620"
+    ], 
+    "Triamcinolone Acetonide": [
+        "DB00620"
+    ], 
+    "Triamcinolone Acetonide Cream": [
+        "DB00620"
+    ], 
+    "Triamcinolone Acetonide Oinment": [
+        "DB00620"
+    ], 
+    "Triamcinolone Acetonide Oint": [
+        "DB00620"
+    ], 
+    "Triamcinolone Acetonide Ointment": [
+        "DB00620"
+    ], 
+    "Triamcinolone Crm": [
+        "DB00620"
+    ], 
+    "Triamcinolone Ointment": [
+        "DB00620"
+    ], 
+    "Triamcinolone Ointment 0.1%": [
+        "DB00620"
+    ], 
+    "Triamcinolone Ointments": [
+        "DB00620"
+    ], 
+    "Triamcinolone cream": [
+        "DB00620"
+    ], 
+    "Triaminic": [
+        "DB00514"
+    ], 
+    "Triaminic Cold & Allergy": [
+        "DB00514"
+    ], 
+    "Triaminic Cold And Allergy": [
+        "DB00514"
+    ], 
+    "Triaminic Thinstrips": [
+        "DB00514"
+    ], 
+    "Triamterene + Hct": [
+        "DB00384"
+    ], 
+    "Triamterene/Hct": [
+        "DB00384"
+    ], 
+    "Trigoa": [
+        "DB00367", 
+        "DB00977"
+    ], 
+    "Trileptal (Oxcarbazepine)": [
+        "DB00776"
+    ], 
+    "Trimethoprim/Sulfamethoxazole": [
+        "DB00440", 
+        "DB01015"
+    ], 
+    "Trinessa": [
+        "DB00957", 
+        "DB00977"
+    ], 
+    "Trinessa Birth Control Pills": [
+        "DB00957", 
+        "DB00977"
+    ], 
+    "Trivora": [
+        "DB00367", 
+        "DB00977"
+    ], 
+    "Tums": [
+        "DB06724"
+    ], 
+    "Turixin Nose creme": [
+        "DB00410"
+    ], 
+    "Tylenol": [
+        "DB00316"
+    ], 
+    "Tylenol (Children's)": [
+        "DB00316"
+    ], 
+    "Tylenol (pediatric)": [
+        "DB00316"
+    ], 
+    "Tylenol Cold": [
+        "DB00316"
+    ], 
+    "Tylenol Cold And Cough": [
+        "DB00316"
+    ], 
+    "Tylenol Cold And Sinus": [
+        "DB00316"
+    ], 
+    "Tylenol Extra Strength": [
+        "DB00316"
+    ], 
+    "Tylenol pediatric": [
+        "DB00316"
+    ], 
+    "ULTRAVATE": [
+        "DB00596"
+    ], 
+    "Ultram": [
+        "DB00193"
+    ], 
+    "Unasyn": [
+        "DB00415"
+    ], 
+    "Unguentum leniens": [
+        "DB00595", 
+        "DB00741"
+    ], 
+    "Uniphyl": [
+        "DB00277"
+    ], 
+    "Urised": [
+        "DB00424", 
+        "DB00572"
+    ], 
+    "VALACICLOVIR HYDROCHLORIDE": [
+        "DB00577"
+    ], 
+    "VALACYCLOVIR": [
+        "DB00577"
+    ], 
+    "VECURONIUM": [
+        "DB01339"
+    ], 
+    "VENLAFAXINE HYDROCHLORIDE": [
+        "DB00285"
+    ], 
+    "VICODIN": [
+        "DB00316"
+    ], 
+    "VIROPTIC": [
+        "DB00432"
+    ], 
+    "VITAMIN C": [
+        "DB00126"
+    ], 
+    "VITAMIN E": [
+        "DB00163"
+    ], 
+    "VIVELLE DOT": [
+        "DB00783"
+    ], 
+    "Valcyclovir": [
+        "DB00577"
+    ], 
+    "Valette": [
+        "DB00977", 
+        "DB08866"
+    ], 
+    "Valtrex": [
+        "DB00577"
+    ], 
+    "Vanco": [
+        "DB00512"
+    ], 
+    "Vanco & Bactrim": [
+        "DB00512"
+    ], 
+    "Vanco And Clinda": [
+        "DB00512"
+    ], 
+    "Vanco Then Bactrim": [
+        "DB00512"
+    ], 
+    "Vancomycin": [
+        "DB00512"
+    ], 
+    "Vanos": [
+        "DB01047"
+    ], 
+    "Vasotec": [
+        "DB00584"
+    ], 
+    "Velivet": [
+        "DB00977", 
+        "DB00304"
+    ], 
+    "Venlafaxine": [
+        "DB00285"
+    ], 
+    "Ventolin": [
+        "DB01001"
+    ], 
+    "Ventolin Inhaler": [
+        "DB01001"
+    ], 
+    "Veramyst": [
+        "DB08906"
+    ], 
+    "Verapamil": [
+        "DB00661"
+    ], 
+    "Viagra": [
+        "DB00203"
+    ], 
+    "Viani Discus": [
+        "DB00938"
+    ], 
+    "Viani mite": [
+        "DB00588", 
+        "DB00938"
+    ], 
+    "Viroptic Eye Drops": [
+        "DB00432"
+    ], 
+    "Visine A": [
+        "DB00935", 
+        "DB00935"
+    ], 
+    "Vistaril": [
+        "DB00557"
+    ], 
+    "Vistaril (Hydroxyzine)": [
+        "DB00557"
+    ], 
+    "Vit B 12": [
+        "DB00115"
+    ], 
+    "Vit B12": [
+        "DB00115"
+    ], 
+    "Vit D3": [
+        "DB00169"
+    ], 
+    "Vitamin A & B Complex": [
+        "DB00162"
+    ], 
+    "Vitamin B-1": [
+        "DB00152"
+    ], 
+    "Vitamin B-12": [
+        "DB00115"
+    ], 
+    "Vitamin B12": [
+        "DB00115"
+    ], 
+    "Vitamin B6": [
+        "DB00121"
+    ], 
+    "Vitamin B7": [
+        "DB00121"
+    ], 
+    "Vitamin D3": [
+        "DB00169"
+    ], 
+    "Vivelle": [
+        "DB00783"
+    ], 
+    "Vivelle Dot (Patch)": [
+        "DB00783"
+    ], 
+    "Vytorin": [
+        "DB00641"
+    ], 
+    "Vytorin (Ezetimibe/Simvastatin)": [
+        "DB00641"
+    ], 
+    "Vytorin 10/20": [
+        "DB00641"
+    ], 
+    "WESTCORT": [
+        "DB00741"
+    ], 
+    "Wellbutrin": [
+        "DB01156"
+    ], 
+    "Wellbutrin (Buproprion)": [
+        "DB01156"
+    ], 
+    "XANAX": [
+        "DB00404"
+    ], 
+    "Xolair": [
+        "DB00043"
+    ], 
+    "Xopenex": [
+        "DB01001"
+    ], 
+    "YASMIN (PROGESTIN DROSPIRENONE AND ETHINYL ESTRADIOL)": [
+        "DB01395"
+    ], 
+    "Yasmin": [
+        "DB01395"
+    ], 
+    "Yaz": [
+        "DB01395", 
+        "DB00977"
+    ], 
+    "Z-Pac": [
+        "DB00207"
+    ], 
+    "ZINC": [
+        "DB01593"
+    ], 
+    "ZOLPIDEM": [
+        "DB00425"
+    ], 
+    "ZOLPIDEM TARTRATE": [
+        "DB00425"
+    ], 
+    "ZYRTEC (CETIRIZINE)": [
+        "DB00341"
+    ], 
+    "Zaditor": [
+        "DB00920"
+    ], 
+    "Zantac": [
+        "DB00863"
+    ], 
+    "Zegerid": [
+        "DB00338"
+    ], 
+    "Zestoretic": [
+        "DB00999", 
+        "DB00722"
+    ], 
+    "Zestril": [
+        "DB00722"
+    ], 
+    "Zetia": [
+        "DB00973"
+    ], 
+    "Zetia (Ezetimbe)": [
+        "DB00973"
+    ], 
+    "Zicam": [
+        "DB00935"
+    ], 
+    "Ziprasidone": [
+        "DB00246"
+    ], 
+    "Zithromax": [
+        "DB00207"
+    ], 
+    "Zithromycin": [
+        "DB00207"
+    ], 
+    "Zocor": [
+        "DB00641"
+    ], 
+    "Zoloft": [
+        "DB01104"
+    ], 
+    "Zolpedim (Ambien)": [
+        "DB00425"
+    ], 
+    "Zomig": [
+        "DB00315"
+    ], 
+    "Zosyn": [
+        "DB01606", 
+        "DB00319"
+    ], 
+    "Zovia": [
+        "DB00823"
+    ], 
+    "Zovirax": [
+        "DB00787"
+    ], 
+    "Zyprexa (Olanzapine)": [
+        "DB00334"
+    ], 
+    "Zyrtec": [
+        "DB00341"
+    ], 
+    "Zyrtec (Ceftirizine)": [
+        "DB00341"
+    ], 
+    "Zyvoxx": [
+        "DB00601"
+    ], 
+    "acyclovir": [
+        "DB00787"
+    ], 
+    "albuterol inhaler (as needed)": [
+        "DB01001"
+    ], 
+    "belara": [
+        "DB00977"
+    ], 
+    "calcipotriene cream": [
+        "DB02300"
+    ], 
+    "cetirizine": [
+        "DB00341"
+    ], 
+    "cutivate ointment (0.005%)": [
+        "DB00588"
+    ], 
+    "depakote (valproic acid)": [
+        "DB00313"
+    ], 
+    "dimetapp": [
+        "DB00852"
+    ], 
+    "elidel": [
+        "DB00337"
+    ], 
+    "fluocinolone acetondie cream": [
+        "DB00591"
+    ], 
+    "gemfibrozil": [
+        "DB01241"
+    ], 
+    "hydrocortisone butyrate 0.1%": [
+        "DB00741"
+    ], 
+    "infant tylenol": [
+        "DB00316"
+    ], 
+    "jodetten": [
+        "DB06715"
+    ], 
+    "lactulose": [
+        "DB00581"
+    ], 
+    "pimecrolimus (elidel)": [
+        "DB00337"
+    ], 
+    "pravastatin sod": [
+        "DB00175"
+    ], 
+    "protopic (tacrolimus)": [
+        "DB00864"
+    ], 
+    "triamcinolone oint": [
+        "DB00620"
+    ], 
+    "viani": [
+        "DB00938"
+    ], 
+    "visine": [
+        "DB00935", 
+        "DB00935"
+    ], 
+    "zocor (simvastatin)": [
+        "DB00641"
+    ], 
+    "zofran": [
+        "DB00641"
+    ]
+}

@@ -1,0 +1,3591 @@
+drugbank_id	category	mesh_id
+DB00001	Antithrombins		
+DB00001	Fibrinolytic Agents		
+DB00002	Antineoplastic Agents		
+DB00003	Enzymes		
+DB00004	Antineoplastic Agents		
+DB00005	Immunosuppressive Agents		
+DB00006	Antithrombins		
+DB00007	Antineoplastic Agents, Hormonal		
+DB00007	Fertility Agents, Female		
+DB00007	Estrogen Antagonists		
+DB00008	Immunosuppressive Agents		
+DB00009	Thrombolytic Agents		
+DB00010	Hormone Replacement Agents		
+DB00011	Antiviral Agents		
+DB00011	Immunologic Factors		
+DB00011	Immunosuppressive Agents		
+DB00012	Hematinics		
+DB00012	Anti-anemic Agents		
+DB00013	Thrombolytic Agents		
+DB00015	Fibrinolytic Agents		
+DB00015	Thrombolytic Agents		
+DB00016	Hematinics		
+DB00016	Anti-anemic Agents		
+DB00017	Bone Density Conservation Agents		
+DB00017	Antihypercalcemic Agents		
+DB00017	Anti-Osteporotic Agents		
+DB00018	Immunosuppressive Agents		
+DB00019	Immunosuppressive Agents		
+DB00019	Antineutropenic Agents		
+DB00020	Immunosuppressive Agents		
+DB00021	Diagnostic Agents		
+DB00022	Immunosuppressive Agents		
+DB00023	Antineoplastic Agents		
+DB00024	Diagnostic Agents		
+DB00025	Coagulants		
+DB00025	Thrombotic Agents		
+DB00026	Antirheumatic Agents		
+DB00026	Immunosuppressive Agents		
+DB00027	Anti-Bacterial Agents		
+DB00027	Anti-Infective Agents		
+DB00027	Antibiotics		
+DB00027	Antibiotics, Topical		
+DB00028	Immunologic Factors		
+DB00028	Immunosuppressive Agents		
+DB00028	Anti-Infective Agents		
+DB00029	Fibrinolytic Agents		
+DB00029	Thrombolytic Agents		
+DB00030	Antidiabetic Agents		
+DB00031	Fibrinolytic Agents		
+DB00031	Thrombolytic Agents		
+DB00032	Fertility Agents, Female		
+DB00032	Fertility Agents		
+DB00033	Immunosuppressive Agents		
+DB00035	Antidiuretic Agents		
+DB00035	Hemostatics		
+DB00035	Renal Agents		
+DB00036	Coagulants		
+DB00036	Thrombotic Agents		
+DB00038	Antineoplastic Agents		
+DB00038	Coagulants		
+DB00038	Thrombotic Agents		
+DB00039	Anti-Mucositis Agents		
+DB00040	Hypoglycemic Agents		
+DB00041	Antineoplastic Agents		
+DB00041	Anti-HIV Agents		
+DB00042	Antidystonic Agents		
+DB00043	Anti-Allergic Agents		
+DB00043	Anti-Asthmatic Agents		
+DB00043	Immunosuppressive Agents		
+DB00044	Fertility Agents		
+DB00045	Vaccines		
+DB00046	Hypoglycemic Agents		
+DB00046	Antidiabetic Agents		
+DB00047	Hypoglycemic Agents		
+DB00047	Antidiabetic Agents		
+DB00049	Gout Suppressants		
+DB00049	Antihyperuricemic Agents		
+DB00050	Hormone Antagonists		
+DB00050	Fertility Agents		
+DB00051	Antirheumatic Agents		
+DB00051	Anti-Inflammatory Agents		
+DB00051	Immunosuppressive Agents		
+DB00052	Hormone Replacement Agents		
+DB00053	Enzyme Replacement Agents		
+DB00054	Anticoagulants		
+DB00054	Platelet Aggregation Inhibitors		
+DB00055	Antisepsis		
+DB00056	Antineoplastic Agents		
+DB00056	Immunotoxins		
+DB00057	Diagnostic Agents		
+DB00058	Serine Proteinase Inhibitors		
+DB00058	Trypsin Inhibitors		
+DB00058	Enzyme Replacement Agents		
+DB00059	Antineoplastic Agents		
+DB00060	Antineoplastic Agents		
+DB00060	Antiviral Agents		
+DB00060	Immunologic Factors		
+DB00060	Immunosuppressive Agents		
+DB00061	Enzyme Replacement Agents		
+DB00062	Serum substitutes		
+DB00063	Platelet Aggregation Inhibitors		
+DB00064	Diagnostic Agents		
+DB00065	Antirheumatic Agents		
+DB00065	Anti-Inflammatory Agents, Non-Steroidal		
+DB00065	Dermatologic Agents		
+DB00065	Gastrointestinal Agents		
+DB00065	Immunosuppressive Agents		
+DB00066	Fertility Agents		
+DB00067	Antidiuretic Agents		
+DB00068	Adjuvants, Immunologic		
+DB00068	Immunosuppressive Agents		
+DB00069	Antiviral Agents		
+DB00069	Immunosuppressive Agents		
+DB00070	Adjuvants, Anesthesia		
+DB00070	Permeabilizing Agents		
+DB00071	Hypoglycemic Agents		
+DB00072	Antineoplastic Agents		
+DB00073	Antineoplastic Agents		
+DB00073	Immunologic Factors		
+DB00073	Antirheumatic Agents		
+DB00074	Immunosuppressive Agents		
+DB00075	Immunologic Factors		
+DB00075	Immunosuppressive Agents		
+DB00076	Antidotes		
+DB00082	Hormone Replacement Agents		
+DB00083	Neuromuscular Blocking Agents		
+DB00083	Anti-Wrinkle Agents		
+DB00083	Antidystonic Agents		
+DB00085	Gastrointestinal Agents		
+DB00085	Enzyme Replacement Agents		
+DB00086	Fibrinolytic Agents		
+DB00086	Thrombolytic Agents		
+DB00088	Enzyme Replacement Agents		
+DB00089	Indicators and Reagents		
+DB00089	Diagnostic Agents		
+DB00090	Enzyme Replacement Agents		
+DB00091	Antirheumatic Agents		
+DB00091	Dermatologic Agents		
+DB00091	Immunosuppressive Agents		
+DB00091	Antifungal Agents		
+DB00091	Enzyme Inhibitors		
+DB00092	Dermatologic Agents		
+DB00092	Immunosuppressive Agents		
+DB00093	Vasoconstrictor Agents		
+DB00093	Renal Agents		
+DB00094	Fertility Agents		
+DB00095	Immunosuppressive Agents		
+DB00096	Serum substitutes		
+DB00097	Fertility Agents		
+DB00097	Gonadotropins		
+DB00098	Immunologic Factors		
+DB00098	Immunosuppressive Agents		
+DB00099	Immunosuppressive Agents		
+DB00099	Antineutropenic Agents		
+DB00099	Hematopoietic Agents		
+DB00100	Coagulants		
+DB00100	Thrombotic Agents		
+DB00102	Angiogenesis Inducing Agents		
+DB00103	Enzyme Replacement Agents		
+DB00104	Antineoplastic Agents, Hormonal		
+DB00104	Gastrointestinal Agents		
+DB00104	Hormone Replacement Agents		
+DB00105	Immunosuppressive Agents		
+DB00106	Anti-Testosterone Agents		
+DB00107	Oxytocics		
+DB00107	Anti-tocolytic Agents		
+DB00107	Labor Induction Agents		
+DB00108	Immunosuppressive Agents		
+DB00109	HIV Fusion Inhibitors		
+DB00110	Antiviral Agents		
+DB00111	Immunosuppressive Agents		
+DB00112	Angiogenesis Inhibitors		
+DB00113	Diagnostic Agents		
+DB00114	Vitamin B Complex		
+DB00114	Dietary Supplements		
+DB00114	Micronutrients		
+DB00114	Supplements		
+DB00115	Vitamin B Complex		
+DB00115	Vitamins		
+DB00115	Anti-anemic Agents		
+DB00116	Dietary Supplements		
+DB00116	Micronutrients		
+DB00116	Supplements		
+DB00117	Dietary Supplements		
+DB00117	Micronutrients		
+DB00117	Conditionally Essential Amino Acids		
+DB00117	Supplements		
+DB00118	Dietary Supplements		
+DB00118	Micronutrients		
+DB00118	Supplements		
+DB00119	Dietary Supplements		
+DB00119	Micronutrients		
+DB00119	Supplements		
+DB00120	Dietary Supplements		
+DB00120	Micronutrients		
+DB00120	Amino Acids, Essential		
+DB00120	Supplements		
+DB00121	Vitamin B Complex		
+DB00121	Dietary Supplements		
+DB00121	Micronutrients		
+DB00121	Supplements		
+DB00122	Lipotropic Agents		
+DB00122	Nootropic Agents		
+DB00122	Dietary Supplements		
+DB00122	Micronutrients		
+DB00122	Supplements		
+DB00123	Dietary Supplements		
+DB00123	Micronutrients		
+DB00123	Amino Acids, Essential		
+DB00123	Supplements		
+DB00125	Dietary Supplements		
+DB00125	Micronutrients		
+DB00125	Conditionally Essential Amino Acids		
+DB00125	Supplements		
+DB00126	Antioxidants		
+DB00126	Vitamins		
+DB00126	Ascorbic Acid		
+DB00127	Dietary Supplements		
+DB00127	Micronutrients		
+DB00127	Supplements		
+DB00128	Dietary Supplements		
+DB00128	Micronutrients		
+DB00128	Supplements		
+DB00128	Non-Essential Amino Acids		
+DB00129	Dietary Supplements		
+DB00129	Micronutrients		
+DB00129	Supplements		
+DB00129	Non-Essential Amino Acids		
+DB00130	Dietary Supplements		
+DB00130	Micronutrients		
+DB00130	Supplements		
+DB00130	Non-Essential Amino Acids		
+DB00131	Dietary Supplements		
+DB00131	Micronutrients		
+DB00131	Supplements		
+DB00132	Dietary Supplements		
+DB00132	Micronutrients		
+DB00132	Supplements		
+DB00133	Dietary Supplements		
+DB00133	Micronutrients		
+DB00133	Supplements		
+DB00133	Non-Essential Amino Acids		
+DB00134	Dietary Supplements		
+DB00134	Micronutrients		
+DB00134	Amino Acids, Essential		
+DB00134	Supplements		
+DB00135	Dietary Supplements		
+DB00135	Micronutrients		
+DB00135	Supplements		
+DB00135	Non-Essential Amino Acids		
+DB00136	Bone Density Conservation Agents		
+DB00136	Vitamins		
+DB00136	Calcium Channel Agonists		
+DB00136	Antithyroid Agents		
+DB00136	Vitamin D		
+DB00136	Antihypocalcemic Agents		
+DB00137	Dietary Supplements		
+DB00137	Micronutrients		
+DB00137	Supplements		
+DB00138	Dietary Supplements		
+DB00138	Micronutrients		
+DB00138	Supplements		
+DB00138	Non-Essential Amino Acids		
+DB00139	Dietary Supplements		
+DB00139	Micronutrients		
+DB00139	Supplements		
+DB00140	Vitamin B Complex		
+DB00140	Photosensitizing Agents		
+DB00141	Dietary Supplements		
+DB00141	Micronutrients		
+DB00141	Supplements		
+DB00142	Dietary Supplements		
+DB00142	Micronutrients		
+DB00142	Supplements		
+DB00142	Non-Essential Amino Acids		
+DB00143	Dietary Supplements		
+DB00143	Micronutrients		
+DB00143	Supplements		
+DB00144	Dietary Supplements		
+DB00144	Micronutrients		
+DB00144	Supplements		
+DB00145	Glycine Agents		
+DB00145	Dietary Supplements		
+DB00145	Micronutrients		
+DB00145	Supplements		
+DB00145	Non-Essential Amino Acids		
+DB00146	Bone Density Conservation Agents		
+DB00146	Vitamins		
+DB00146	Antithyroid Agents		
+DB00146	Vitamin D		
+DB00146	Antihypocalcemic Agents		
+DB00147	Vitamin B Complex		
+DB00147	Dietary Supplements		
+DB00147	Micronutrients		
+DB00147	Supplements		
+DB00148	Dietary Supplements		
+DB00148	Micronutrients		
+DB00148	Supplements		
+DB00149	Dietary Supplements		
+DB00149	Micronutrients		
+DB00149	Amino Acids, Essential		
+DB00149	Supplements		
+DB00150	Antidepressive Agents, Second-Generation		
+DB00150	Dietary Supplements		
+DB00150	Micronutrients		
+DB00150	Amino Acids, Essential		
+DB00150	Supplements		
+DB00151	Dietary Supplements		
+DB00151	Nutritional Support		
+DB00151	Supplements		
+DB00152	Vitamin B Complex		
+DB00152	Vitamins		
+DB00153	Bone Density Conservation Agents		
+DB00153	Vitamins		
+DB00153	Antithyroid Agents		
+DB00153	Vitamin D		
+DB00153	Antihypocalcemic Agents		
+DB00154	Dietary Supplements		
+DB00154	Micronutrients		
+DB00154	Supplements		
+DB00155	Dietary Supplements		
+DB00155	Micronutrients		
+DB00155	Supplements		
+DB00155	Non-Essential Amino Acids		
+DB00156	Dietary Supplements		
+DB00156	Micronutrients		
+DB00156	Amino Acids, Essential		
+DB00156	Supplements		
+DB00157	Dietary Supplements		
+DB00157	Micronutrients		
+DB00157	Supplements		
+DB00158	Hematinics		
+DB00158	Vitamin B Complex		
+DB00158	Dietary Supplements		
+DB00158	Micronutrients		
+DB00158	Supplements		
+DB00159	Dietary Supplements		
+DB00159	Micronutrients		
+DB00159	Supplements		
+DB00160	Dietary Supplements		
+DB00160	Micronutrients		
+DB00160	Supplements		
+DB00160	Non-Essential Amino Acids		
+DB00161	Dietary Supplements		
+DB00161	Micronutrients		
+DB00161	Amino Acids, Essential		
+DB00162	Vitamins		
+DB00162	Vitamin A		
+DB00162	Anti-Acne Preparations		
+DB00163	Antioxidants		
+DB00163	Vitamins		
+DB00163	Dietary Supplements		
+DB00163	Micronutrients		
+DB00163	Supplements		
+DB00165	Vitamin B Complex		
+DB00165	Vitamins		
+DB00166	Vitamin B Complex		
+DB00166	Antioxidants		
+DB00166	Dietary Supplements		
+DB00166	Micronutrients		
+DB00166	Supplements		
+DB00167	Dietary Supplements		
+DB00167	Micronutrients		
+DB00167	Amino Acids, Essential		
+DB00167	Supplements		
+DB00168	Sweetening Agents		
+DB00168	Dietary Supplements		
+DB00168	Micronutrients		
+DB00168	Supplements		
+DB00169	Bone Density Conservation Agents		
+DB00169	Vitamins		
+DB00169	Antithyroid Agents		
+DB00169	Vitamin D		
+DB00169	Antihypocalcemic Agents		
+DB00170	Vitamins		
+DB00170	Antifibrinolytic Agents		
+DB00170	Dietary Supplements		
+DB00170	Micronutrients		
+DB00170	Supplements		
+DB00171	Dietary Supplements		
+DB00171	Micronutrients		
+DB00171	Supplements		
+DB00172	Dietary Supplements		
+DB00172	Micronutrients		
+DB00172	Supplements		
+DB00172	Non-Essential Amino Acids		
+DB00173	Dietary Supplements		
+DB00173	Micronutrients		
+DB00173	Supplements		
+DB00174	Dietary Supplements		
+DB00174	Micronutrients		
+DB00174	Supplements		
+DB00174	Non-Essential Amino Acids		
+DB00175	Hydroxymethylglutaryl-CoA Reductase Inhibitors		
+DB00176	Antidepressive Agents, Second-Generation		
+DB00176	Anti-Anxiety Agents		
+DB00176	Serotonin Uptake Inhibitors		
+DB00177	Angiotensin Receptor Antagonists		
+DB00178	Angiotensin-Converting Enzyme Inhibitors		
+DB00178	Antihypertensive Agents		
+DB00179	Antineoplastic Agents		
+DB00179	Antioxidants		
+DB00179	Cyclooxygenase Inhibitors		
+DB00179	Lipoxygenase Inhibitors		
+DB00181	Neuromuscular Agents		
+DB00181	Muscle Relaxants, Skeletal		
+DB00182	Adrenergic Agents		
+DB00182	Adrenergic Uptake Inhibitors		
+DB00182	Central Nervous System Stimulants		
+DB00182	Dopamine Agents		
+DB00182	Dopamine Uptake Inhibitors		
+DB00182	Sympathomimetics		
+DB00182	Amphetamines		
+DB00183	Diagnostic Agents		
+DB00184	Ganglionic Stimulants		
+DB00184	Nicotinic Agonists		
+DB00184	Appetite Depressants		
+DB00184	Autonomic Agents		
+DB00186	Hypnotics and Sedatives		
+DB00186	Benzodiazepines		
+DB00189	Hypnotics and Sedatives		
+DB00190	Enzyme Inhibitors		
+DB00190	Dopamine Agents		
+DB00190	Antiparkinson Agents		
+DB00190	Antidyskinetics		
+DB00191	Adrenergic Agents		
+DB00191	Central Nervous System Stimulants		
+DB00191	Sympathomimetics		
+DB00191	Appetite Depressants		
+DB00191	Stimulants		
+DB00192	Anti-Arrhythmia Agents		
+DB00192	Sodium Channel Blockers		
+DB00194	Antiviral Agents		
+DB00194	Antimetabolites		
+DB00195	Antihypertensive Agents		
+DB00195	Adrenergic beta-1 Receptor Antagonists		
+DB00195	Sympatholytics		
+DB00195	EENT Preparations		
+DB00196	Antifungal Agents		
+DB00198	Antiviral Agents		
+DB00198	Enzyme Inhibitors		
+DB00199	Gastrointestinal Agents		
+DB00199	Anti-Bacterial Agents		
+DB00199	Protein Synthesis Inhibitors		
+DB00199	Macrolides		
+DB00200	Hematinics		
+DB00200	Vitamin B Complex		
+DB00200	Nutritional Support		
+DB00200	Anti-anemic Agents		
+DB00201	Central Nervous System Stimulants		
+DB00201	Appetite Depressants		
+DB00201	Phosphodiesterase Inhibitors		
+DB00201	Purinergic P1 Receptor Antagonists		
+DB00202	Neuromuscular Depolarizing Agents		
+DB00202	Muscle Relaxants, Skeletal		
+DB00204	Anti-Arrhythmia Agents		
+DB00204	Potassium Channel Blockers		
+DB00205	Antimalarials		
+DB00205	Antiprotozoal Agents		
+DB00205	Folic Acid Antagonists		
+DB00206	Antihypertensive Agents		
+DB00206	Adrenergic Uptake Inhibitors		
+DB00206	Antipsychotic Agents		
+DB00206	Adrenergic Antagonists		
+DB00207	Anti-Bacterial Agents		
+DB00207	Macrolides		
+DB00210	Anti-Inflammatory Agents, Non-Steroidal		
+DB00210	Dermatologic Agents		
+DB00211	Vasoconstrictor Agents		
+DB00211	Sympathomimetics		
+DB00211	Adrenergic alpha-1 Receptor Agonists		
+DB00213	Anti-Ulcer Agents		
+DB00213	Proton Pump Inhibitors		
+DB00214	Antihypertensive Agents		
+DB00214	Diuretics		
+DB00214	Sodium Potassium Chloride Symporter Inhibitors		
+DB00215	Antidepressive Agents, Second-Generation		
+DB00215	Serotonin Uptake Inhibitors		
+DB00215	Antidepressive Agents		
+DB00216	Serotonin Antagonists		
+DB00216	Serotonin Receptor Agonists		
+DB00216	Anti-migraine Agents		
+DB00217	Antihypertensive Agents		
+DB00217	Adrenergic Agents		
+DB00217	Sympatholytics		
+DB00218	Quinolones		
+DB00221	Adrenergic beta-2 Receptor Agonists		
+DB00221	Bronchodilator Agents		
+DB00222	Hypoglycemic Agents		
+DB00222	Immunosuppressive Agents		
+DB00222	Anti-Arrhythmia Agents		
+DB00222	Antidiabetic Agents		
+DB00223	Anti-Inflammatory Agents		
+DB00223	Glucocorticoids		
+DB00226	Antihypertensive Agents		
+DB00227	Anticholesteremic Agents		
+DB00227	Hydroxymethylglutaryl-CoA Reductase Inhibitors		
+DB00228	Anesthetics, Inhalation		
+DB00228	Anesthetics		
+DB00229	Anti-Bacterial Agents		
+DB00229	Cephalosporins		
+DB00230	Analgesics		
+DB00230	Anticonvulsants		
+DB00231	Benzodiazepines		
+DB00232	Sodium Chloride Symporter Inhibitors		
+DB00233	Antitubercular Agents		
+DB00235	Platelet Aggregation Inhibitors		
+DB00235	Cardiotonic Agents		
+DB00235	Phosphodiesterase 3 Inhibitors		
+DB00235	Vasodilator Agents		
+DB00237	Hypnotics and Sedatives		
+DB00237	Barbiturates		
+DB00238	Anti-HIV Agents		
+DB00238	Reverse Transcriptase Inhibitors		
+DB00239	Antifungal Agents		
+DB00240	Antipruritics		
+DB00240	Corticosteroids		
+DB00242	Antineoplastic Agents		
+DB00242	Immunosuppressive Agents		
+DB00244	Anti-Inflammatory Agents, Non-Steroidal		
+DB00245	Dopamine Uptake Inhibitors		
+DB00245	Antiparkinson Agents		
+DB00245	Muscarinic Antagonists		
+DB00245	Parasympatholytics		
+DB00245	Antidyskinetics		
+DB00246	Antipsychotic Agents		
+DB00247	Vasoconstrictor Agents		
+DB00247	Serotonin Antagonists		
+DB00248	Antineoplastic Agents		
+DB00248	Antiparkinson Agents		
+DB00248	Dopamine Agonists		
+DB00249	Antiviral Agents		
+DB00249	Nucleic Acid Synthesis Inhibitors		
+DB00250	Antimalarials		
+DB00250	Folic Acid Antagonists		
+DB00250	Anti-Infective Agents		
+DB00250	Leprostatic Agents		
+DB00250	Antimycobacterials		
+DB00251	Antifungal Agents		
+DB00252	Anticonvulsants		
+DB00252	Voltage-Gated Sodium Channel Blockers		
+DB00253	Anti-Inflammatory Agents		
+DB00254	Anti-Bacterial Agents		
+DB00254	Antimalarials		
+DB00254	Tetracyclines		
+DB00255	Carcinogens		
+DB00255	Estrogens, Non-Steroidal		
+DB00256	Anti-Bacterial Agents		
+DB00256	Antiprotozoal Agents		
+DB00256	Tetracyclines		
+DB00257	Antifungal Agents		
+DB00257	14-alpha Demethylase Inhibitors		
+DB00257	Anti-Infective Agents, Local		
+DB00258	Chelating Agents		
+DB00258	Antihyperphosphatemic Agents		
+DB00259	Anti-Bacterial Agents		
+DB00259	Sulfonamides		
+DB00259	Homeopathic Agents		
+DB00260	Antimetabolites		
+DB00260	Anti-Infective Agents, Urinary		
+DB00260	Antibiotics, Antitubercular		
+DB00260	Antibiotics		
+DB00261	Antithrombins		
+DB00262	Antineoplastic Agents, Alkylating		
+DB00263	Anti-Infective Agents		
+DB00263	Sulfonamides		
+DB00264	Antihypertensive Agents		
+DB00264	Adrenergic beta-1 Receptor Antagonists		
+DB00264	Sympatholytics		
+DB00264	Anti-Arrhythmia Agents		
+DB00265	Pesticides		
+DB00265	Antiscabies Agents		
+DB00266	Anticoagulants		
+DB00266	Enzyme Inhibitors		
+DB00266	Uncoupling Agents		
+DB00267	Anti-Bacterial Agents		
+DB00267	Cephalosporins		
+DB00268	Antiparkinson Agents		
+DB00268	Dopamine Agonists		
+DB00268	Antidyskinetics		
+DB00269	Antineoplastic Agents, Hormonal		
+DB00269	Estrogens, Non-Steroidal		
+DB00270	Antihypertensive Agents		
+DB00270	Vasodilator Agents		
+DB00270	Calcium Channel Blockers		
+DB00271	Contrast Media		
+DB00272	Gastrointestinal Agents		
+DB00272	Histamine Agonists		
+DB00272	Diagnostic Agents		
+DB00273	Anticonvulsants		
+DB00273	Anti-Obesity Agents		
+DB00273	Neuroprotective Agents		
+DB00274	Anti-Bacterial Agents		
+DB00274	Cephalosporins		
+DB00275	Angiotensin II Type 1 Receptor Blockers		
+DB00276	Antineoplastic Agents		
+DB00276	Intercalating Agents		
+DB00277	Phosphodiesterase Inhibitors		
+DB00277	Purinergic P1 Receptor Antagonists		
+DB00277	Bronchodilator Agents		
+DB00277	Vasodilator Agents		
+DB00277	Muscle Relaxants, Respiratory		
+DB00279	Hormone Replacement Agents		
+DB00280	Anti-Arrhythmia Agents		
+DB00280	Voltage-Gated Sodium Channel Blockers		
+DB00281	Anti-Arrhythmia Agents		
+DB00281	Voltage-Gated Sodium Channel Blockers		
+DB00281	Anesthetics, Local		
+DB00282	Bone Density Conservation Agents		
+DB00282	Bisphosphonates		
+DB00283	Anti-Allergic Agents		
+DB00283	Antipruritics		
+DB00283	Histamine H1 Antagonists		
+DB00285	Antidepressive Agents		
+DB00286	Estrogens		
+DB00287	Prostaglandins, Synthetic		
+DB00287	Anti-glaucoma Agents		
+DB00287	Ophthalmics		
+DB00288	Glucocorticoids		
+DB00288	Corticosteroids		
+DB00289	Adrenergic Uptake Inhibitors		
+DB00289	Antidepressive Agents		
+DB00290	Antibiotics, Antineoplastic		
+DB00291	Antineoplastic Agents, Alkylating		
+DB00292	Hypnotics and Sedatives		
+DB00292	Anesthetics, Intravenous		
+DB00294	Contraceptive Agents		
+DB00295	Analgesics, Opioid		
+DB00295	Narcotics		
+DB00296	Anesthetics, Local		
+DB00297	Anesthetics, Local		
+DB00298	Antimydriatic Agents		
+DB00298	Ophthalmics		
+DB00299	Antiviral Agents		
+DB00300	Anti-HIV Agents		
+DB00300	Reverse Transcriptase Inhibitors		
+DB00301	Anti-Bacterial Agents		
+DB00301	Penicillins		
+DB00302	Antifibrinolytic Agents		
+DB00303	Anti-Bacterial Agents		
+DB00304	Contraceptives, Oral, Synthetic		
+DB00304	Progestins		
+DB00305	Nucleic Acid Synthesis Inhibitors		
+DB00305	Antibiotics, Antineoplastic		
+DB00305	Alkylating Agents		
+DB00305	Cross-Linking Reagents		
+DB00308	Anti-Arrhythmia Agents		
+DB00309	Antineoplastic Agents, Phytogenic		
+DB00309	Tubulin Modulators		
+DB00310	Antihypertensive Agents		
+DB00310	Diuretics		
+DB00310	Sodium Chloride Symporter Inhibitors		
+DB00311	Diuretics		
+DB00311	Carbonic Anhydrase Inhibitors		
+DB00312	Hypnotics and Sedatives		
+DB00312	Adjuvants, Anesthesia		
+DB00312	GABA Modulators		
+DB00312	Barbiturates		
+DB00313	Enzyme Inhibitors		
+DB00313	Anticonvulsants		
+DB00313	Antimanic Agents		
+DB00313	GABA Agents		
+DB00315	Serotonin Antagonists		
+DB00315	Serotonin 5-HT1 Receptor Agonists		
+DB00315	Serotonin Receptor Agonists		
+DB00315	Anti-migraine Agents		
+DB00316	Analgesics, Non-Narcotic		
+DB00316	Antipyretics		
+DB00318	Analgesics, Opioid		
+DB00318	Narcotics		
+DB00318	Antitussive Agents		
+DB00319	Anti-Bacterial Agents		
+DB00319	Penicillins		
+DB00320	Vasoconstrictor Agents		
+DB00320	Dopamine Agonists		
+DB00320	Analgesics, Non-Narcotic		
+DB00320	Anti-migraine Agents		
+DB00321	Adrenergic Uptake Inhibitors		
+DB00321	Analgesics, Non-Narcotic		
+DB00321	Antidepressive Agents, Tricyclic		
+DB00322	Antineoplastic Agents		
+DB00322	Antimetabolites, Antineoplastic		
+DB00323	Antidyskinetics		
+DB00324	Anti-Allergic Agents		
+DB00324	Anti-Inflammatory Agents		
+DB00324	Glucocorticoids		
+DB00326	Antihypermagnesemic Agents		
+DB00326	Antihypocalcemic Agents		
+DB00326	Electrolyte replenisher		
+DB00326	Supplements		
+DB00327	Analgesics, Opioid		
+DB00327	Narcotics		
+DB00328	Gout Suppressants		
+DB00328	Anti-Inflammatory Agents, Non-Steroidal		
+DB00328	Cyclooxygenase Inhibitors		
+DB00328	Cardiovascular Agents		
+DB00328	Tocolytic Agents		
+DB00330	Antitubercular Agents		
+DB00331	Antidiabetic Agents		
+DB00332	Bronchodilator Agents		
+DB00332	Muscarinic Antagonists		
+DB00332	Cholinergic Antagonists		
+DB00332	Antispasmodics		
+DB00333	Analgesics, Opioid		
+DB00333	Narcotics		
+DB00333	Antitussive Agents		
+DB00334	Antipsychotic Agents		
+DB00335	Antihypertensive Agents		
+DB00335	Adrenergic beta-1 Receptor Antagonists		
+DB00335	Sympatholytics		
+DB00335	Anti-Arrhythmia Agents		
+DB00336	Anti-Infective Agents		
+DB00337	Anti-Inflammatory Agents, Non-Steroidal		
+DB00337	Dermatologic Agents		
+DB00337	Immunosuppressive Agents		
+DB00338	Enzyme Inhibitors		
+DB00338	Anti-Ulcer Agents		
+DB00338	Proton Pump Inhibitors		
+DB00339	Antitubercular Agents		
+DB00341	Anti-Allergic Agents		
+DB00341	Histamine H1 Antagonists, Non-Sedating		
+DB00341	Histamine Antagonists		
+DB00342	Anti-Arrhythmia Agents		
+DB00342	Histamine H1 Antagonists, Non-Sedating		
+DB00342	Histamine Antagonists		
+DB00344	Adrenergic Uptake Inhibitors		
+DB00344	Antidepressive Agents, Tricyclic		
+DB00345	Indicators and Reagents		
+DB00345	Diagnostic Agents		
+DB00346	Antihypertensive Agents		
+DB00346	Adrenergic alpha-1 Receptor Antagonists		
+DB00347	Anticonvulsants		
+DB00349	Anticonvulsants		
+DB00349	Benzodiazepines		
+DB00350	Antihypertensive Agents		
+DB00350	Vasodilator Agents		
+DB00351	Antineoplastic Agents, Hormonal		
+DB00351	Appetite Stimulants		
+DB00352	Antimetabolites, Antineoplastic		
+DB00353	Oxytocics		
+DB00354	Cholinergic Antagonists		
+DB00354	Histamine Antagonists		
+DB00355	Anti-Bacterial Agents		
+DB00356	Muscle Relaxants, Central		
+DB00357	Antineoplastic Agents, Hormonal		
+DB00357	Aromatase Inhibitors		
+DB00358	Antimalarials		
+DB00359	Antiprotozoal Agents		
+DB00359	Anti-Infective Agents		
+DB00359	Coccidiostats		
+DB00360	Dietary Supplements		
+DB00360	Supplements		
+DB00361	Antineoplastic Agents, Phytogenic		
+DB00362	Antifungal Agents		
+DB00363	Antipsychotic Agents		
+DB00363	Serotonin Antagonists		
+DB00363	GABA Antagonists		
+DB00365	Anti-Infective Agents		
+DB00365	Quinolones		
+DB00365	Antibiotics		
+DB00366	Histamine H1 Antagonists		
+DB00366	Antiemetics		
+DB00367	Contraceptives, Oral, Synthetic		
+DB00367	Contraceptive Agents, Female		
+DB00367	Contraceptive Agents		
+DB00368	Vasoconstrictor Agents		
+DB00368	Sympathomimetics		
+DB00368	Adrenergic alpha-Agonists		
+DB00369	Antineoplastic Agents		
+DB00369	Antiviral Agents		
+DB00369	Anti-HIV Agents		
+DB00369	Radiation-Sensitizing Agents		
+DB00370	Histamine H1 Antagonists		
+DB00370	Antidepressive Agents, Tricyclic		
+DB00370	Adrenergic alpha-Antagonists		
+DB00371	Anti-Anxiety Agents		
+DB00371	Hypnotics and Sedatives		
+DB00371	Anticonvulsants		
+DB00371	Muscle Relaxants, Central		
+DB00372	Antiemetics		
+DB00372	Dopamine Antagonists		
+DB00373	Antihypertensive Agents		
+DB00373	Anti-Arrhythmia Agents		
+DB00373	Adrenergic beta-Antagonists		
+DB00374	Antithrombins		
+DB00374	Anticoagulants		
+DB00375	Anion Exchange Resins		
+DB00375	Hypolipidemic Agents		
+DB00376	Antiparkinson Agents		
+DB00376	Muscarinic Antagonists		
+DB00376	Antidyskinetics		
+DB00378	Progestins		
+DB00378	Progesterones		
+DB00379	Anti-Arrhythmia Agents		
+DB00379	Voltage-Gated Sodium Channel Blockers		
+DB00380	Antineoplastic Agents		
+DB00380	Chelating Agents		
+DB00380	Cardiovascular Agents		
+DB00381	Antihypertensive Agents		
+DB00381	Vasodilator Agents		
+DB00381	Calcium Channel Blockers		
+DB00381	Antianginal Agents		
+DB00382	Nootropic Agents		
+DB00382	Cholinesterase Inhibitors		
+DB00382	Parasympathomimetics		
+DB00383	Cholinergic Antagonists		
+DB00383	Antispasmodics		
+DB00384	Diuretics		
+DB00384	Epithelial Sodium Channel Blockers		
+DB00387	Antiparkinson Agents		
+DB00387	Muscarinic Antagonists		
+DB00387	Antidyskinetics		
+DB00388	Vasoconstrictor Agents		
+DB00388	Sympathomimetics		
+DB00388	Adrenergic alpha-1 Receptor Agonists		
+DB00388	Cardiotonic Agents		
+DB00388	Mydriatics		
+DB00388	Nasal Decongestants		
+DB00389	Antithyroid Agents		
+DB00390	Enzyme Inhibitors		
+DB00390	Anti-Arrhythmia Agents		
+DB00390	Cardiotonic Agents		
+DB00391	Antidepressive Agents, Second-Generation		
+DB00391	Antipsychotic Agents		
+DB00391	Dopamine Antagonists		
+DB00391	Antidepressive Agents		
+DB00392	Muscarinic Antagonists		
+DB00392	Histamine Antagonists		
+DB00392	Adrenergic Antagonists		
+DB00392	Antidyskinetics		
+DB00393	Antihypertensive Agents		
+DB00393	Vasodilator Agents		
+DB00393	Calcium Channel Blockers		
+DB00394	Anti-Arrhythmia Agents		
+DB00394	Corticosteroids		
+DB00395	Muscle Relaxants, Central		
+DB00395	Neuromuscular Agents		
+DB00395	Muscle Relaxants, Skeletal		
+DB00396	Progestins		
+DB00396	Contraceptive Agents		
+DB00397	Sympathomimetics		
+DB00397	Appetite Depressants		
+DB00397	Adrenergic alpha-Agonists		
+DB00397	Nasal Decongestants		
+DB00398	Antineoplastic Agents		
+DB00399	Bone Density Conservation Agents		
+DB00399	Antihypocalcemic Agents		
+DB00399	Antiresorptives		
+DB00399	Bisphosphonates		
+DB00400	Antifungal Agents		
+DB00400	Anti-Bacterial Agents		
+DB00401	Antihypertensive Agents		
+DB00401	Vasodilator Agents		
+DB00401	Calcium Channel Blockers		
+DB00402	Hypnotics and Sedatives		
+DB00403	Diagnostic Agents		
+DB00404	Anti-Anxiety Agents		
+DB00404	Hypnotics and Sedatives		
+DB00404	GABA Modulators		
+DB00404	Benzodiazepines		
+DB00405	Histamine H1 Antagonists		
+DB00405	Histamine Antagonists		
+DB00406	Anti-Infective Agents, Local		
+DB00407	Antithrombins		
+DB00407	Heparins		
+DB00408	Antipsychotic Agents		
+DB00408	Dopamine Antagonists		
+DB00409	Antipsychotic Agents		
+DB00409	Dopamine Antagonists		
+DB00410	Anti-Bacterial Agents		
+DB00410	Protein Synthesis Inhibitors		
+DB00410	Antibiotics		
+DB00411	Cardiotonic Agents		
+DB00411	Analgesics, Non-Narcotic		
+DB00411	Cholinergic Agonists		
+DB00411	Miotics		
+DB00413	Antioxidants		
+DB00413	Antiparkinson Agents		
+DB00413	Dopamine Agonists		
+DB00413	Antidyskinetics		
+DB00414	Hypoglycemic Agents		
+DB00414	Antidiabetic Agents		
+DB00415	Anti-Bacterial Agents		
+DB00415	Penicillins		
+DB00417	Anti-Bacterial Agents		
+DB00417	Penicillins		
+DB00418	Hypnotics and Sedatives		
+DB00418	Adjuvants, Anesthesia		
+DB00418	GABA Modulators		
+DB00418	Barbiturates		
+DB00418	Adjuvants		
+DB00419	Enzyme Inhibitors		
+DB00420	Antipsychotic Agents		
+DB00420	Antiemetics		
+DB00420	Dopamine Antagonists		
+DB00420	Phenothiazines		
+DB00421	Diuretics		
+DB00421	Mineralocorticoid Receptor Antagonists		
+DB00422	Central Nervous System Stimulants		
+DB00422	Dopamine Uptake Inhibitors		
+DB00423	Muscle Relaxants, Central		
+DB00424	Anti-Arrhythmia Agents		
+DB00424	Muscarinic Antagonists		
+DB00424	Antispasmodics		
+DB00425	Hypnotics and Sedatives		
+DB00425	GABA-A Receptor Agonists		
+DB00426	Antiviral Agents		
+DB00426	Prodrugs		
+DB00426	Nucleic Acids, Nucleotides, and Nucleosides		
+DB00428	Antibiotics, Antineoplastic		
+DB00428	Antibiotics		
+DB00430	Anti-Bacterial Agents		
+DB00430	Cephalosporins		
+DB00431	Insecticides		
+DB00431	Antiscabies Agents		
+DB00432	Antiviral Agents		
+DB00432	Antimetabolites		
+DB00433	Antipsychotic Agents		
+DB00433	Antiemetics		
+DB00433	Dopamine Antagonists		
+DB00433	Phenothiazines		
+DB00434	Anti-Allergic Agents		
+DB00434	Gastrointestinal Agents		
+DB00434	Serotonin Antagonists		
+DB00434	Antipruritics		
+DB00434	Histamine H1 Antagonists		
+DB00435	Bronchodilator Agents		
+DB00435	Endothelium-Dependent Relaxing Factors		
+DB00435	Free Radical Scavengers		
+DB00435	Neurotransmitter Agents		
+DB00436	Antihypertensive Agents		
+DB00436	Diuretics		
+DB00436	Sodium Chloride Symporter Inhibitors		
+DB00437	Gout Suppressants		
+DB00437	Enzyme Inhibitors		
+DB00437	Antimetabolites		
+DB00437	Free Radical Scavengers		
+DB00438	Anti-Bacterial Agents		
+DB00438	Cephalosporins		
+DB00439	Hypolipidemic Agents		
+DB00440	Anti-Infective Agents		
+DB00441	Antiviral Agents		
+DB00441	Immunosuppressive Agents		
+DB00441	Enzyme Inhibitors		
+DB00441	Antimetabolites, Antineoplastic		
+DB00441	Radiation-Sensitizing Agents		
+DB00443	Anti-Asthmatic Agents		
+DB00443	Anti-Inflammatory Agents		
+DB00443	Glucocorticoids		
+DB00443	Corticosteroids		
+DB00444	Antineoplastic Agents		
+DB00444	Enzyme Inhibitors		
+DB00444	Nucleic Acid Synthesis Inhibitors		
+DB00445	Antibiotics, Antineoplastic		
+DB00446	Anti-Bacterial Agents		
+DB00446	Protein Synthesis Inhibitors		
+DB00447	Anti-Bacterial Agents		
+DB00447	Antibiotics		
+DB00448	Enzyme Inhibitors		
+DB00448	Anti-Ulcer Agents		
+DB00448	Proton Pump Inhibitors		
+DB00448	Anti-Infective Agents		
+DB00449	Adrenergic Agonists		
+DB00449	Ophthalmics		
+DB00450	Antipsychotic Agents		
+DB00450	Adjuvants, Anesthesia		
+DB00450	Antiemetics		
+DB00450	Dopamine Antagonists		
+DB00452	Anti-Bacterial Agents		
+DB00452	Aminoglycosides		
+DB00452	Antibiotics		
+DB00453	Tetracyclines		
+DB00454	Adjuvants		
+DB00455	Anti-Allergic Agents		
+DB00455	Antipruritics		
+DB00455	Histamine H1 Antagonists, Non-Sedating		
+DB00455	Histamine Antagonists		
+DB00456	Anti-Bacterial Agents		
+DB00456	Cephalosporins		
+DB00457	Antihypertensive Agents		
+DB00457	Adrenergic alpha-1 Receptor Antagonists		
+DB00457	Adrenergic alpha-Antagonists		
+DB00458	Adrenergic Uptake Inhibitors		
+DB00458	Antidepressive Agents, Tricyclic		
+DB00459	Keratolytic Agents		
+DB00460	Antineovascularisation Agents		
+DB00461	Cyclooxygenase 2 Inhibitors		
+DB00462	Parasympatholytics		
+DB00462	Cholinergic Antagonists		
+DB00462	Antispasmodics		
+DB00464	Sclerosing Solutions		
+DB00464	Surface-Active Agents		
+DB00465	Anti-Inflammatory Agents, Non-Steroidal		
+DB00465	Cyclooxygenase Inhibitors		
+DB00466	GABA Antagonists		
+DB00466	Convulsants		
+DB00466	Stimulants		
+DB00468	Antimalarials		
+DB00468	Analgesics, Non-Narcotic		
+DB00468	Muscle Relaxants, Central		
+DB00469	Anti-Inflammatory Agents, Non-Steroidal		
+DB00469	Cyclooxygenase Inhibitors		
+DB00470	Analgesics, Non-Narcotic		
+DB00470	Cannabinoid Receptor Agonists		
+DB00470	Hallucinogens		
+DB00470	Psychotropic Drugs		
+DB00471	Anti-Arrhythmia Agents		
+DB00472	Antidepressive Agents, Second-Generation		
+DB00472	Serotonin Uptake Inhibitors		
+DB00472	Serotonin Agents		
+DB00473	Anesthetics, Local		
+DB00474	Anesthetics, Intravenous		
+DB00474	Barbiturates		
+DB00475	Anti-Anxiety Agents		
+DB00475	Hypnotics and Sedatives		
+DB00475	Adjuvants, Anesthesia		
+DB00475	GABA Modulators		
+DB00475	Benzodiazepines		
+DB00477	Antipsychotic Agents		
+DB00477	Phenothiazines		
+DB00479	Anti-Bacterial Agents		
+DB00479	Aminoglycosides		
+DB00480	Antineoplastic Agents		
+DB00481	Bone Density Conservation Agents		
+DB00481	Estrogen Antagonists		
+DB00481	Selective Estrogen Receptor Modulators		
+DB00481	Antihypocalcemic Agents		
+DB00483	Neuromuscular Nondepolarizing Agents		
+DB00483	Nicotinic Antagonists		
+DB00483	Muscle Relaxants, Skeletal		
+DB00484	Antihypertensive Agents		
+DB00484	Adrenergic alpha-2 Receptor Agonists		
+DB00484	EENT Preparations		
+DB00485	Anti-Bacterial Agents		
+DB00485	Penicillins		
+DB00487	Nucleic Acid Synthesis Inhibitors		
+DB00487	Anti-Infective Agents		
+DB00488	Antineoplastic Agents, Alkylating		
+DB00490	Anti-Anxiety Agents		
+DB00490	Hypnotics and Sedatives		
+DB00490	Serotonin Receptor Agonists		
+DB00493	Anti-Bacterial Agents		
+DB00493	Cephalosporins		
+DB00494	Enzyme Inhibitors		
+DB00494	Antiparkinson Agents		
+DB00494	Antidyskinetics		
+DB00495	Anti-HIV Agents		
+DB00495	Antimetabolites		
+DB00495	Reverse Transcriptase Inhibitors		
+DB00496	Antispasmodic Agents		
+DB00497	Analgesics, Opioid		
+DB00497	Narcotics		
+DB00497	Antitussive Agents		
+DB00498	Anticoagulants		
+DB00499	Antineoplastic Agents, Hormonal		
+DB00499	Androgen Antagonists		
+DB00500	Anti-Inflammatory Agents, Non-Steroidal		
+DB00500	Cyclooxygenase Inhibitors		
+DB00501	Adjuvants		
+DB00502	Antipsychotic Agents		
+DB00502	Butyrophenones		
+DB00502	Antidyskinetics		
+DB00504	Narcotic Antagonists		
+DB00504	Antidotes		
+DB00505	Cholinergic Antagonists		
+DB00505	Antispasmodics		
+DB00507	Antiparasitic Agents		
+DB00508	Antipsychotic Agents		
+DB00509	Hypolipidemic Agents		
+DB00511	Enzyme Inhibitors		
+DB00511	Anti-Arrhythmia Agents		
+DB00511	Cardiotonic Agents		
+DB00512	Anti-Bacterial Agents		
+DB00514	Antitussive Agents		
+DB00514	Excitatory Amino Acid Antagonists		
+DB00515	Antineoplastic Agents		
+DB00515	Cross-Linking Reagents		
+DB00515	Radiation-Sensitizing Agents		
+DB00516	Skin and Mucous Membrane Agents		
+DB00517	Muscarinic Antagonists		
+DB00517	Cholinergic Antagonists		
+DB00519	Angiotensin-Converting Enzyme Inhibitors		
+DB00519	Antihypertensive Agents		
+DB00520	Antifungal Agents		
+DB00521	Antihypertensive Agents		
+DB00521	Sympatholytics		
+DB00521	Anti-Arrhythmia Agents		
+DB00521	Adrenergic beta-Antagonists		
+DB00522	Indicators and Reagents		
+DB00522	Diagnostic Agents		
+DB00523	Antineoplastic Agents		
+DB00524	Antihypertensive Agents		
+DB00524	Diuretics		
+DB00524	Sodium Chloride Symporter Inhibitors		
+DB00525	Antifungal Agents		
+DB00526	Antineoplastic Agents		
+DB00527	Anesthetics, Local		
+DB00528	Antihypertensive Agents		
+DB00528	Calcium Channel Blockers		
+DB00529	Antiviral Agents		
+DB00529	Reverse Transcriptase Inhibitors		
+DB00530	Protein Kinase Inhibitors		
+DB00531	Antirheumatic Agents		
+DB00531	Immunosuppressive Agents		
+DB00531	Antineoplastic Agents, Alkylating		
+DB00531	Mutagens		
+DB00531	Myeloablative Agonists		
+DB00532	Anticonvulsants		
+DB00534	Diagnostic Agents		
+DB00534	Diuretics, Mercurial		
+DB00535	Anti-Bacterial Agents		
+DB00535	Anti-Infective Agents		
+DB00535	Cephalosporins		
+DB00537	Anti-Infective Agents		
+DB00537	Quinolones		
+DB00538	Contrast Media		
+DB00539	Antineoplastic Agents, Hormonal		
+DB00539	Bone Density Conservation Agents		
+DB00539	Selective Estrogen Receptor Modulators		
+DB00540	Adrenergic Uptake Inhibitors		
+DB00540	Antidepressive Agents, Tricyclic		
+DB00540	Antidepressive Agents		
+DB00541	Antineoplastic Agents, Phytogenic		
+DB00541	Tubulin Modulators		
+DB00542	Angiotensin-Converting Enzyme Inhibitors		
+DB00542	Antihypertensive Agents		
+DB00543	Antidepressive Agents, Second-Generation		
+DB00543	Serotonin Uptake Inhibitors		
+DB00543	Adrenergic Uptake Inhibitors		
+DB00543	Dopamine Antagonists		
+DB00543	Neurotransmitter Uptake Inhibitors		
+DB00544	Immunosuppressive Agents		
+DB00544	Antimetabolites		
+DB00544	Antimetabolites, Antineoplastic		
+DB00545	Antimyasthenic Agents		
+DB00546	Antidepressive Agents		
+DB00548	Antineoplastic Agents		
+DB00548	Dermatologic Agents		
+DB00549	Anti-Asthmatic Agents		
+DB00549	Leukotriene Antagonists		
+DB00550	Antimetabolites		
+DB00550	Antithyroid Agents		
+DB00551	Enzyme Inhibitors		
+DB00552	Antineoplastic Agents		
+DB00552	Adenosine Deaminase Inhibitors		
+DB00552	Antibiotics		
+DB00553	Photosensitizing Agents		
+DB00553	Cross-Linking Reagents		
+DB00553	Pigmenting Agents		
+DB00554	Anti-Inflammatory Agents, Non-Steroidal		
+DB00554	Cyclooxygenase Inhibitors		
+DB00555	Anticonvulsants		
+DB00555	Calcium Channel Blockers		
+DB00555	Antidepressive Agents		
+DB00556	Contrast Media		
+DB00557	Hypnotics and Sedatives		
+DB00557	Antipruritics		
+DB00557	Histamine H1 Antagonists		
+DB00558	Antiviral Agents		
+DB00558	Enzyme Inhibitors		
+DB00559	Antihypertensive Agents		
+DB00560	Anti-Bacterial Agents		
+DB00560	Tetracyclines		
+DB00562	Stimulants		
+DB00563	Antirheumatic Agents		
+DB00563	Dermatologic Agents		
+DB00563	Immunosuppressive Agents		
+DB00563	Enzyme Inhibitors		
+DB00563	Folic Acid Antagonists		
+DB00563	Nucleic Acid Synthesis Inhibitors		
+DB00563	Antimetabolites, Antineoplastic		
+DB00563	Abortifacient Agents, Nonsteroidal		
+DB00563	Abortifacient Agents		
+DB00564	Anticonvulsants		
+DB00564	Antimanic Agents		
+DB00564	Analgesics, Non-Narcotic		
+DB00565	Neuromuscular Blocking Agents		
+DB00566	Chelating Agents		
+DB00566	Antidotes		
+DB00567	Anti-Bacterial Agents		
+DB00567	Cephalosporins		
+DB00569	Antithrombins		
+DB00569	Anticoagulants		
+DB00570	Antineoplastic Agents, Phytogenic		
+DB00570	Tubulin Modulators		
+DB00571	Antihypertensive Agents		
+DB00571	Anti-Arrhythmia Agents		
+DB00571	Vasodilator Agents		
+DB00571	Adrenergic beta-Antagonists		
+DB00572	Anti-Arrhythmia Agents		
+DB00572	Bronchodilator Agents		
+DB00572	Muscarinic Antagonists		
+DB00572	Parasympatholytics		
+DB00572	Adjuvants, Anesthesia		
+DB00572	Mydriatics		
+DB00573	Anti-Inflammatory Agents, Non-Steroidal		
+DB00573	Cyclooxygenase Inhibitors		
+DB00573	Propionates		
+DB00574	Serotonin Uptake Inhibitors		
+DB00574	Appetite Depressants		
+DB00574	Serotonin Receptor Agonists		
+DB00574	Serotonin Agents		
+DB00574	Stimulants		
+DB00575	Antihypertensive Agents		
+DB00575	Sympatholytics		
+DB00575	Analgesics		
+DB00575	Adrenergic alpha-2 Receptor Agonists		
+DB00576	Anti-Infective Agents		
+DB00577	Antiviral Agents		
+DB00577	Prodrugs		
+DB00578	Anti-Bacterial Agents		
+DB00578	Penicillins		
+DB00579	Adrenergic Uptake Inhibitors		
+DB00579	Central Nervous System Stimulants		
+DB00579	Dopamine Uptake Inhibitors		
+DB00580	Anti-Inflammatory Agents, Non-Steroidal		
+DB00581	Gastrointestinal Agents		
+DB00582	Antifungal Agents		
+DB00582	14-alpha Demethylase Inhibitors		
+DB00583	Vitamin B Complex		
+DB00583	Dietary Supplements		
+DB00584	Angiotensin-Converting Enzyme Inhibitors		
+DB00584	Antihypertensive Agents		
+DB00585	Anti-Ulcer Agents		
+DB00585	Histamine H2 Antagonists		
+DB00586	Anti-Inflammatory Agents, Non-Steroidal		
+DB00586	Cyclooxygenase Inhibitors		
+DB00587	Anti-Arrhythmia Agents		
+DB00589	Antiparkinson Agents		
+DB00589	Dopamine Agonists		
+DB00589	Serotonin Receptor Agonists		
+DB00589	Antidyskinetics		
+DB00590	Antihypertensive Agents		
+DB00590	Adrenergic alpha-1 Receptor Antagonists		
+DB00590	Adrenergic alpha-Antagonists		
+DB00591	Anti-Inflammatory Agents		
+DB00591	Glucocorticoids		
+DB00592	Antinematodal Agents		
+DB00593	Anticonvulsants		
+DB00593	Succinimides		
+DB00594	Diuretics		
+DB00594	Epithelial Sodium Channel Blockers		
+DB00594	Acid Sensing Ion Channel Blockers		
+DB00594	Sodium Channel Blockers		
+DB00595	Tetracyclines		
+DB00597	Contrast Media		
+DB00598	Antihypertensive Agents		
+DB00598	Sympathomimetics		
+DB00598	Adrenergic alpha-1 Receptor Antagonists		
+DB00598	Adrenergic beta-Antagonists		
+DB00599	Hypnotics and Sedatives		
+DB00599	Anticonvulsants		
+DB00599	Anesthetics, Intravenous		
+DB00599	GABA Modulators		
+DB00600	Dermatologic Agents		
+DB00601	Anti-Bacterial Agents		
+DB00602	Insecticides		
+DB00602	Antiparasitic Agents		
+DB00603	Antineoplastic Agents, Hormonal		
+DB00603	Contraceptive Agents, Female		
+DB00603	Contraceptive Agents, Male		
+DB00603	Contraceptive Agents		
+DB00604	Serotonin Receptor Agonists		
+DB00604	Prokinetic Agents		
+DB00605	Anti-Inflammatory Agents, Non-Steroidal		
+DB00606	Antihypertensive Agents		
+DB00606	Diuretics		
+DB00607	Anti-Bacterial Agents		
+DB00607	Penicillins		
+DB00608	Antirheumatic Agents		
+DB00608	Antimalarials		
+DB00608	Amebicides		
+DB00609	Antitubercular Agents		
+DB00609	Fatty Acid Synthesis Inhibitors		
+DB00610	Vasoconstrictor Agents		
+DB00610	Sympathomimetics		
+DB00610	Adrenergic alpha-1 Receptor Agonists		
+DB00611	Analgesics, Opioid		
+DB00611	Narcotics		
+DB00611	Antitussive Agents		
+DB00611	Narcotic Antagonists		
+DB00612	Antihypertensive Agents		
+DB00612	Adrenergic beta-1 Receptor Antagonists		
+DB00612	Sympatholytics		
+DB00614	Anti-Infective Agents, Local		
+DB00614	Anti-Infective Agents, Urinary		
+DB00614	Antitrichomonal Agents		
+DB00614	Monoamine Oxidase Inhibitors		
+DB00615	Anti-Bacterial Agents		
+DB00615	Antibiotics, Antitubercular		
+DB00616	Prodrugs		
+DB00618	Anti-Bacterial Agents		
+DB00618	Tetracyclines		
+DB00619	Antineoplastic Agents		
+DB00619	Protein Kinase Inhibitors		
+DB00620	Anti-Inflammatory Agents		
+DB00620	Glucocorticoids		
+DB00621	Anabolic Agents		
+DB00621	Androgens		
+DB00622	Antihypertensive Agents		
+DB00622	Anti-Arrhythmia Agents		
+DB00622	Vasodilator Agents		
+DB00622	Calcium Channel Blockers		
+DB00622	Dihydropyridines		
+DB00623	Antipsychotic Agents		
+DB00623	Dopamine Antagonists		
+DB00623	Phenothiazines		
+DB00624	Androgens		
+DB00625	Anti-HIV Agents		
+DB00625	Reverse Transcriptase Inhibitors		
+DB00627	Vitamin B Complex		
+DB00627	Vasodilator Agents		
+DB00627	Hypolipidemic Agents		
+DB00629	Antihypertensive Agents		
+DB00629	Adrenergic alpha-2 Receptor Agonists		
+DB00630	Bone Density Conservation Agents		
+DB00630	Antihypocalcemic Agents		
+DB00630	Antiresorptives		
+DB00630	Bisphosphonates		
+DB00631	Purine analogues		
+DB00632	Antiviral Agents		
+DB00632	Dermatologic Agents		
+DB00633	Hypnotics and Sedatives		
+DB00633	Analgesics, Non-Narcotic		
+DB00633	Adrenergic alpha-2 Receptor Agonists		
+DB00634	Anti-Infective Agents, Local		
+DB00634	Anti-Infective Agents, Urinary		
+DB00634	Sulfonamides		
+DB00635	Antineoplastic Agents, Hormonal		
+DB00635	Anti-Inflammatory Agents		
+DB00635	Glucocorticoids		
+DB00636	Anticholesteremic Agents		
+DB00636	Hypolipidemic Agents		
+DB00637	Histamine Antagonists		
+DB00638	Diagnostic Agents		
+DB00639	Antifungal Agents		
+DB00640	Anti-Arrhythmia Agents		
+DB00640	Analgesics		
+DB00640	Vasodilator Agents		
+DB00640	Cardiovascular Agents		
+DB00641	Anticholesteremic Agents		
+DB00641	Hydroxymethylglutaryl-CoA Reductase Inhibitors		
+DB00641	Hypolipidemic Agents		
+DB00643	Tubulin Modulators		
+DB00643	Antinematodal Agents		
+DB00645	Anesthetics, Local		
+DB00646	Ionophores		
+DB00647	Analgesics, Opioid		
+DB00647	Narcotics		
+DB00647	Antitussive Agents		
+DB00648	Antineoplastic Agents, Hormonal		
+DB00649	Anti-HIV Agents		
+DB00649	Antimetabolites		
+DB00649	Reverse Transcriptase Inhibitors		
+DB00650	Vitamin B Complex		
+DB00650	Vitamins		
+DB00650	Antidotes		
+DB00650	Anti-anemic Agents		
+DB00650	Antineoplastics, Adjuncts		
+DB00651	Phosphodiesterase Inhibitors		
+DB00651	Bronchodilator Agents		
+DB00651	Vasodilator Agents		
+DB00651	Muscle Relaxants, Respiratory		
+DB00652	Analgesics, Opioid		
+DB00652	Narcotics		
+DB00652	Adjuvants, Anesthesia		
+DB00652	Narcotic Antagonists		
+DB00653	Anti-Arrhythmia Agents		
+DB00653	Analgesics		
+DB00653	Anticonvulsants		
+DB00653	Calcium Channel Blockers		
+DB00653	Tocolytic Agents		
+DB00653	Anesthetics		
+DB00655	Estrogens		
+DB00655	Anti-menopausal Agents		
+DB00656	Antidepressive Agents, Second-Generation		
+DB00656	Anti-Anxiety Agents		
+DB00656	Serotonin Uptake Inhibitors		
+DB00659	Alcohol Deterrents		
+DB00660	Neuromuscular Agents		
+DB00661	Anti-Arrhythmia Agents		
+DB00661	Vasodilator Agents		
+DB00661	Calcium Channel Blockers		
+DB00662	Antiemetics		
+DB00664	Antimalarials		
+DB00664	Anti-Infective Agents		
+DB00664	Anti-Infective Agents, Urinary		
+DB00665	Antineoplastic Agents		
+DB00665	Androgen Antagonists		
+DB00666	Antiendometriotic agent		
+DB00666	Gonadotropin-releasing hormone agonist		
+DB00667	Histamine Agents		
+DB00667	Diagnostic Agents		
+DB00668	Vasoconstrictor Agents		
+DB00668	Sympathomimetics		
+DB00668	Bronchodilator Agents		
+DB00668	Adrenergic alpha-Agonists		
+DB00668	Mydriatics		
+DB00668	Adrenergic beta-Agonists		
+DB00669	Vasoconstrictor Agents		
+DB00669	Serotonin Antagonists		
+DB00669	Serotonin 5-HT1 Receptor Agonists		
+DB00669	Serotonin Receptor Agonists		
+DB00670	Anti-Ulcer Agents		
+DB00670	Muscarinic Antagonists		
+DB00670	Antispasmodics		
+DB00671	Anti-Bacterial Agents		
+DB00671	Cephalosporins		
+DB00672	Hypoglycemic Agents		
+DB00672	Antidiabetic Agents		
+DB00674	Nootropic Agents		
+DB00674	Cholinesterase Inhibitors		
+DB00674	Parasympathomimetics		
+DB00675	Antineoplastic Agents, Hormonal		
+DB00675	Bone Density Conservation Agents		
+DB00675	Estrogen Antagonists		
+DB00675	Selective Estrogen Receptor Modulators		
+DB00676	Insecticides		
+DB00676	Acaricides		
+DB00677	Cholinesterase Inhibitors		
+DB00677	Protease Inhibitors		
+DB00677	Anti-glaucoma Agents		
+DB00677	Ophthalmics		
+DB00678	Antihypertensive Agents		
+DB00678	Anti-Arrhythmia Agents		
+DB00678	Angiotensin II Type 1 Receptor Blockers		
+DB00678	Angiotensin Receptor Antagonists		
+DB00679	Antipsychotic Agents		
+DB00679	Dopamine Antagonists		
+DB00679	Phenothiazines		
+DB00680	Anti-Arrhythmia Agents		
+DB00680	Voltage-Gated Sodium Channel Blockers		
+DB00681	Antifungal Agents		
+DB00681	Anti-Bacterial Agents		
+DB00681	Antiprotozoal Agents		
+DB00681	Amebicides		
+DB00682	Anticoagulants		
+DB00682	Rodenticides		
+DB00683	Anti-Anxiety Agents		
+DB00683	Hypnotics and Sedatives		
+DB00683	Anesthetics, Intravenous		
+DB00683	Adjuvants, Anesthesia		
+DB00683	GABA Modulators		
+DB00684	Anti-Bacterial Agents		
+DB00684	Aminoglycosides		
+DB00685	Anti-Infective Agents		
+DB00685	Fluoroquinolones		
+DB00685	Quinolones		
+DB00687	Anti-Inflammatory Agents		
+DB00688	Immunosuppressive Agents		
+DB00689	Anti-Bacterial Agents		
+DB00689	Cephalosporins		
+DB00691	Angiotensin-Converting Enzyme Inhibitors		
+DB00692	Antihypertensive Agents		
+DB00692	Adrenergic alpha-Antagonists		
+DB00693	Contrast Media		
+DB00693	Fluorescent Dyes		
+DB00694	Antibiotics, Antineoplastic		
+DB00694	Antibiotics		
+DB00695	Diuretics		
+DB00695	Sodium Potassium Chloride Symporter Inhibitors		
+DB00697	Analgesics		
+DB00697	Anticonvulsants		
+DB00697	Parasympatholytics		
+DB00697	Muscle Relaxants, Central		
+DB00697	Adrenergic alpha-2 Receptor Agonists		
+DB00697	Neuromuscular Agents		
+DB00697	Muscle Relaxants, Skeletal		
+DB00698	Anti-Infective Agents		
+DB00698	Anti-Infective Agents, Urinary		
+DB00699	Nootropic Agents		
+DB00699	Vasodilator Agents		
+DB00699	Adrenergic alpha-Antagonists		
+DB00700	Mineralocorticoid Receptor Antagonists		
+DB00701	Anti-HIV Agents		
+DB00701	Antibiotics, Antitubercular		
+DB00701	HIV Protease Inhibitors		
+DB00702	Dialysis Solutions		
+DB00702	Diuretics, Osmotic		
+DB00704	Appetite Depressants		
+DB00704	Narcotic Antagonists		
+DB00704	Central Nervous System Depressants		
+DB00704	Alcohol Antagonists		
+DB00705	Reverse Transcriptase Inhibitors		
+DB00706	Adrenergic alpha-1 Receptor Antagonists		
+DB00707	Antineoplastic Agents		
+DB00707	Dermatologic Agents		
+DB00707	Photosensitizing Agents		
+DB00708	Anesthetics, Intravenous		
+DB00708	Analgesics, Opioid		
+DB00708	Narcotics		
+DB00708	Adjuvants, Anesthesia		
+DB00709	Anti-HIV Agents		
+DB00709	Reverse Transcriptase Inhibitors		
+DB00710	Bone Density Conservation Agents		
+DB00710	Antihypocalcemic Agents		
+DB00710	Antiresorptives		
+DB00710	Bisphosphonates		
+DB00711	Lipoxygenase Inhibitors		
+DB00711	Filaricides		
+DB00712	Anti-Inflammatory Agents, Non-Steroidal		
+DB00712	Cyclooxygenase Inhibitors		
+DB00712	Analgesics		
+DB00713	Penicillins		
+DB00714	Antiparkinson Agents		
+DB00714	Dopamine Agonists		
+DB00714	Antidyskinetics		
+DB00715	Serotonin Uptake Inhibitors		
+DB00715	Antidepressive Agents		
+DB00716	Anti-Allergic Agents		
+DB00716	Anti-Asthmatic Agents		
+DB00716	Anti-Inflammatory Agents		
+DB00717	Contraceptives, Oral, Synthetic		
+DB00718	Antiviral Agents		
+DB00718	Reverse Transcriptase Inhibitors		
+DB00719	Histamine H1 Antagonists		
+DB00720	Bone Density Conservation Agents		
+DB00720	Antihypocalcemic Agents		
+DB00720	Bisphosphonates		
+DB00721	Anesthetics, Local		
+DB00723	Vasoconstrictor Agents		
+DB00723	Sympathomimetics		
+DB00723	Adrenergic alpha-1 Receptor Agonists		
+DB00724	Antineoplastic Agents		
+DB00724	Adjuvants, Immunologic		
+DB00724	Interferon Inducers		
+DB00725	Muscarinic Antagonists		
+DB00725	Antispasmodics		
+DB00726	Adrenergic Uptake Inhibitors		
+DB00726	Antidepressive Agents, Tricyclic		
+DB00726	Antidepressive Agents		
+DB00727	Vasodilator Agents		
+DB00727	Explosive Agents		
+DB00728	Muscle Relaxants, Skeletal		
+DB00730	Anthelmintics		
+DB00731	Hypoglycemic Agents		
+DB00731	Meglitinides		
+DB00733	Cholinesterase Reactivators		
+DB00734	Antipsychotic Agents		
+DB00734	Serotonin Antagonists		
+DB00734	Dopamine Antagonists		
+DB00736	Proton Pump Inhibitors		
+DB00736	Histamine Antagonists		
+DB00737	Anti-Allergic Agents		
+DB00737	Histamine H1 Antagonists		
+DB00737	Histamine Antagonists		
+DB00737	Antiemetics		
+DB00738	Antifungal Agents		
+DB00738	Antiprotozoal Agents		
+DB00738	Trypanocidal Agents		
+DB00739	Penicillins		
+DB00741	Anti-Inflammatory Agents		
+DB00742	Sweetening Agents		
+DB00742	Diuretics, Osmotic		
+DB00743	Contrast Media		
+DB00744	Anti-Inflammatory Agents, Non-Steroidal		
+DB00744	Lipoxygenase Inhibitors		
+DB00744	Leukotriene Antagonists		
+DB00745	Central Nervous System Stimulants		
+DB00745	Appetite Depressants		
+DB00745	Neuroprotective Agents		
+DB00745	Stimulants		
+DB00746	Chelating Agents		
+DB00746	Siderophores		
+DB00747	Muscarinic Antagonists		
+DB00747	Adjuvants		
+DB00747	Antispasmodics		
+DB00748	Histamine H1 Antagonists		
+DB00748	Histamine Antagonists		
+DB00749	Anti-Inflammatory Agents, Non-Steroidal		
+DB00749	Cyclooxygenase 2 Inhibitors		
+DB00750	Anesthetics, Local		
+DB00751	Histamine H1 Antagonists		
+DB00751	Histamine Antagonists		
+DB00751	Ophthalmics		
+DB00752	Antidepressive Agents		
+DB00753	Anesthetics, Inhalation		
+DB00753	Anesthetics		
+DB00754	Anticonvulsants		
+DB00755	Antineoplastic Agents		
+DB00755	Keratolytic Agents		
+DB00756	Anti-Infective Agents		
+DB00757	Serotonin Antagonists		
+DB00757	Antiemetics		
+DB00758	Platelet Aggregation Inhibitors		
+DB00759	Anti-Bacterial Agents		
+DB00759	Protein Synthesis Inhibitors		
+DB00759	Antiprotozoal Agents		
+DB00759	Tetracyclines		
+DB00760	Anti-Bacterial Agents		
+DB00762	Antineoplastic Agents, Phytogenic		
+DB00762	Radiation-Sensitizing Agents		
+DB00762	Topoisomerase I Inhibitors		
+DB00762	Prodrugs		
+DB00763	Antithyroid Agents		
+DB00765	Enzyme Inhibitors		
+DB00766	Enzyme Inhibitors		
+DB00766	Anti-Bacterial Agents		
+DB00767	Antipsychotic Agents		
+DB00767	Antiemetics		
+DB00768	Histamine H1 Antagonists		
+DB00768	Histamine Antagonists		
+DB00769	Anti-Inflammatory Agents		
+DB00769	Corticosteroids		
+DB00771	Anti-Arrhythmia Agents		
+DB00771	Muscarinic Antagonists		
+DB00771	Cholinergic Antagonists		
+DB00771	Antispasmodics		
+DB00772	Cholinesterase Inhibitors		
+DB00772	Insecticides		
+DB00773	Antineoplastic Agents, Phytogenic		
+DB00774	Antihypertensive Agents		
+DB00774	Diuretics		
+DB00774	Sodium Chloride Symporter Inhibitors		
+DB00775	Fibrinolytic Agents		
+DB00775	Platelet Aggregation Inhibitors		
+DB00776	Anticonvulsants		
+DB00777	Hypnotics and Sedatives		
+DB00777	Histamine Antagonists		
+DB00777	Antiemetics		
+DB00778	Macrolides		
+DB00779	Anti-Bacterial Agents		
+DB00780	Antidepressive Agents		
+DB00780	Monoamine Oxidase Inhibitors		
+DB00781	Anti-Bacterial Agents		
+DB00782	Anti-Ulcer Agents		
+DB00782	Muscarinic Antagonists		
+DB00782	Antispasmodics		
+DB00783	Estrogens		
+DB00783	Contraceptive Agents		
+DB00783	Anti-menopausal Agents		
+DB00784	Anti-Inflammatory Agents, Non-Steroidal		
+DB00784	Cyclooxygenase Inhibitors		
+DB00786	Enzyme Inhibitors		
+DB00787	Antiviral Agents		
+DB00787	Nucleic Acids, Nucleotides, and Nucleosides		
+DB00789	Contrast Media		
+DB00790	Angiotensin-Converting Enzyme Inhibitors		
+DB00790	Antihypertensive Agents		
+DB00792	Anti-Allergic Agents		
+DB00792	Histamine Antagonists		
+DB00793	Antifungal Agents		
+DB00794	Anticonvulsants		
+DB00794	Barbiturates		
+DB00795	Antirheumatic Agents		
+DB00795	Anti-Inflammatory Agents, Non-Steroidal		
+DB00795	Gastrointestinal Agents		
+DB00795	Anti-Infective Agents		
+DB00795	Sulfonamides		
+DB00796	Antihypertensive Agents		
+DB00796	Angiotensin II Type 1 Receptor Blockers		
+DB00796	Angiotensin Receptor Antagonists		
+DB00797	Antihypertensive Agents		
+DB00797	Vasodilator Agents		
+DB00797	Adrenergic alpha-Antagonists		
+DB00798	Aminoglycosides		
+DB00799	Dermatologic Agents		
+DB00799	Keratolytic Agents		
+DB00799	Teratogens		
+DB00799	Prodrugs		
+DB00800	Antihypertensive Agents		
+DB00800	Vasodilator Agents		
+DB00800	Dopamine Agonists		
+DB00801	Anti-Anxiety Agents		
+DB00801	Hypnotics and Sedatives		
+DB00801	Benzodiazepines		
+DB00801	Neuromuscular Agents		
+DB00802	Anesthetics, Intravenous		
+DB00802	Analgesics, Opioid		
+DB00802	Narcotics		
+DB00803	Anti-Bacterial Agents		
+DB00804	Muscarinic Antagonists		
+DB00804	Parasympatholytics		
+DB00804	Cholinergic Antagonists		
+DB00804	Antispasmodics		
+DB00805	Antidepressive Agents		
+DB00806	Platelet Aggregation Inhibitors		
+DB00806	Phosphodiesterase Inhibitors		
+DB00806	Vasodilator Agents		
+DB00806	Free Radical Scavengers		
+DB00806	Radiation-Protective Agents		
+DB00806	Hematologic Agents		
+DB00806	Hemorrheologic Agents		
+DB00807	Anesthetics, Local		
+DB00808	Antihypertensive Agents		
+DB00808	Diuretics		
+DB00808	Sodium Chloride Symporter Inhibitors		
+DB00809	Muscarinic Antagonists		
+DB00809	Mydriatics		
+DB00809	Diagnostic Agents		
+DB00810	Antiparkinson Agents		
+DB00810	Muscarinic Antagonists		
+DB00810	Parasympatholytics		
+DB00810	Antidyskinetics		
+DB00811	Antiviral Agents		
+DB00811	Antimetabolites		
+DB00812	Anti-Inflammatory Agents, Non-Steroidal		
+DB00813	Anesthetics, Intravenous		
+DB00813	Analgesics, Opioid		
+DB00813	Narcotics		
+DB00813	Adjuvants, Anesthesia		
+DB00813	Adjuvants		
+DB00814	Anti-Inflammatory Agents, Non-Steroidal		
+DB00814	Cyclooxygenase Inhibitors		
+DB00815	Surface-Active Agents		
+DB00816	Sympathomimetics		
+DB00816	Adrenergic beta-2 Receptor Agonists		
+DB00816	Bronchodilator Agents		
+DB00816	Tocolytic Agents		
+DB00817	Anti-Infective Agents		
+DB00818	Hypnotics and Sedatives		
+DB00818	Anesthetics, Intravenous		
+DB00819	Diuretics		
+DB00819	Anticonvulsants		
+DB00819	Carbonic Anhydrase Inhibitors		
+DB00820	Vasodilator Agents		
+DB00820	Phosphodiesterase 5 Inhibitors		
+DB00821	Anti-Inflammatory Agents, Non-Steroidal		
+DB00821	Photosensitizing Agents		
+DB00822	Enzyme Inhibitors		
+DB00822	Alcohol Deterrents		
+DB00823	Contraceptives, Oral, Synthetic		
+DB00824	Anti-Asthmatic Agents		
+DB00824	Anti-Arrhythmia Agents		
+DB00824	Bronchodilator Agents		
+DB00824	Adenosine A2 Receptor Antagonists		
+DB00825	Antipruritics		
+DB00826	Macrolides		
+DB00828	Anti-Bacterial Agents		
+DB00829	Anti-Anxiety Agents		
+DB00829	Hypnotics and Sedatives		
+DB00829	Anticonvulsants		
+DB00829	Anesthetics, Intravenous		
+DB00829	Adjuvants, Anesthesia		
+DB00829	GABA Modulators		
+DB00829	Muscle Relaxants, Central		
+DB00829	Antiemetics		
+DB00830	Central Nervous System Stimulants		
+DB00830	Sympathomimetics		
+DB00830	Appetite Depressants		
+DB00831	Antipsychotic Agents		
+DB00831	Antiemetics		
+DB00831	Dopamine Antagonists		
+DB00831	Phenothiazines		
+DB00832	Anticonvulsants		
+DB00833	Anti-Bacterial Agents		
+DB00833	Cephalosporins		
+DB00834	Hormone Antagonists		
+DB00834	Contraceptives, Oral, Synthetic		
+DB00834	Abortifacient Agents, Steroidal		
+DB00834	Contraceptives, Postcoital, Synthetic		
+DB00834	Luteolytic Agents		
+DB00834	Menstruation-Inducing Agents		
+DB00835	Anti-Allergic Agents		
+DB00835	Histamine H1 Antagonists		
+DB00836	Antidiarrheals		
+DB00837	Antiparkinson Agents		
+DB00837	Anticonvulsants		
+DB00837	Antidepressive Agents		
+DB00837	GABA Agonists		
+DB00837	Antidyskinetics		
+DB00838	Corticosteroids		
+DB00840	Artificial Tears		
+DB00840	Ophthalmics		
+DB00841	Sympathomimetics		
+DB00841	Cardiotonic Agents		
+DB00841	Adrenergic beta-1 Receptor Agonists		
+DB00842	Anti-Anxiety Agents		
+DB00842	Hypnotics and Sedatives		
+DB00842	GABA Modulators		
+DB00845	Anti-Inflammatory Agents, Non-Steroidal		
+DB00845	Leprostatic Agents		
+DB00845	Coloring Agents		
+DB00845	Antimycobacterials		
+DB00845	Dyes		
+DB00846	Anti-Inflammatory Agents		
+DB00846	Glucocorticoids		
+DB00847	Radiation-Protective Agents		
+DB00847	Ophthalmics		
+DB00848	Antirheumatic Agents		
+DB00848	Adjuvants, Immunologic		
+DB00848	Antinematodal Agents		
+DB00849	Hypnotics and Sedatives		
+DB00849	Anticonvulsants		
+DB00849	GABA Modulators		
+DB00850	Antipsychotic Agents		
+DB00850	Dopamine Antagonists		
+DB00850	Phenothiazines		
+DB00851	Antineoplastic Agents, Alkylating		
+DB00853	Antineoplastic Agents, Alkylating		
+DB00854	Analgesics, Opioid		
+DB00854	Narcotics		
+DB00855	Photosensitizing Agents		
+DB00856	Muscle Relaxants, Central		
+DB00857	Antifungal Agents		
+DB00859	Antirheumatic Agents		
+DB00859	Chelating Agents		
+DB00859	Antidotes		
+DB00860	Antineoplastic Agents, Hormonal		
+DB00860	Anti-Inflammatory Agents		
+DB00860	Glucocorticoids		
+DB00861	Anti-Inflammatory Agents, Non-Steroidal		
+DB00862	Vasodilator Agents		
+DB00862	Phosphodiesterase 5 Inhibitors		
+DB00862	Anti-Impotence Agents		
+DB00863	Anti-Ulcer Agents		
+DB00863	Histamine H2 Antagonists		
+DB00865	Adrenergic Agents		
+DB00865	Adrenergic Uptake Inhibitors		
+DB00865	Central Nervous System Stimulants		
+DB00865	Dopamine Agents		
+DB00865	Dopamine Uptake Inhibitors		
+DB00865	Sympathomimetics		
+DB00866	Antihypertensive Agents		
+DB00866	Sympatholytics		
+DB00866	Anti-Arrhythmia Agents		
+DB00866	Adrenergic beta-Antagonists		
+DB00867	Sympathomimetics		
+DB00867	Adrenergic beta-2 Receptor Agonists		
+DB00867	Tocolytic Agents		
+DB00868	Antitussive Agents		
+DB00870	Anti-Inflammatory Agents, Non-Steroidal		
+DB00870	Cyclooxygenase Inhibitors		
+DB00871	Sympathomimetics		
+DB00871	Adrenergic beta-2 Receptor Agonists		
+DB00871	Bronchodilator Agents		
+DB00871	Tocolytic Agents		
+DB00873	Anti-Allergic Agents		
+DB00874	Expectorants		
+DB00875	Antipsychotic Agents		
+DB00875	Dopamine Antagonists		
+DB00875	Thioxanthenes		
+DB00877	Immunosuppressive Agents		
+DB00877	Antifungal Agents		
+DB00877	Anti-Bacterial Agents		
+DB00877	Antibiotics, Antineoplastic		
+DB00877	Macrolides		
+DB00878	Anti-Infective Agents		
+DB00878	Anti-Infective Agents, Local		
+DB00878	Disinfectants		
+DB00878	Mouthwashes		
+DB00880	Antihypertensive Agents		
+DB00880	Diuretics		
+DB00880	Sodium Chloride Symporter Inhibitors		
+DB00881	Angiotensin-Converting Enzyme Inhibitors		
+DB00881	Antihypertensive Agents		
+DB00882	Fertility Agents, Female		
+DB00882	Estrogen Antagonists		
+DB00882	Selective Estrogen Receptor Modulators		
+DB00883	Vasodilator Agents		
+DB00883	Nitric Oxide Donors		
+DB00884	Bone Density Conservation Agents		
+DB00884	Calcium Channel Blockers		
+DB00884	Antihypocalcemic Agents		
+DB00884	Antiresorptives		
+DB00884	Bisphosphonates		
+DB00885	Histamine Antagonists		
+DB00885	Ophthalmics		
+DB00887	Diuretics		
+DB00887	Sodium Potassium Chloride Symporter Inhibitors		
+DB00888	Antineoplastic Agents, Alkylating		
+DB00888	Alkylating Agents		
+DB00888	Chemical Warfare Agents		
+DB00888	Irritants		
+DB00889	Serotonin Antagonists		
+DB00889	Antiemetics		
+DB00890	Estrogens, Non-Steroidal		
+DB00891	Dermatologic Agents		
+DB00891	Anti-Infective Agents		
+DB00891	Sulfonamides		
+DB00892	Anesthetics, Local		
+DB00893	Hematinics		
+DB00893	Anti-anemic Agents		
+DB00893	Supplements		
+DB00894	Antineoplastic Agents, Hormonal		
+DB00896	Corticosteroids		
+DB00897	Anti-Anxiety Agents		
+DB00897	Adjuvants, Anesthesia		
+DB00897	GABA Modulators		
+DB00897	Benzodiazepines		
+DB00898	Anti-Infective Agents, Local		
+DB00898	Central Nervous System Depressants		
+DB00898	Solvents		
+DB00899	Hypnotics and Sedatives		
+DB00899	Anesthetics, Intravenous		
+DB00899	Analgesics, Opioid		
+DB00900	Anti-HIV Agents		
+DB00900	Antimetabolites		
+DB00900	Reverse Transcriptase Inhibitors		
+DB00901	Adrenergic beta-2 Receptor Agonists		
+DB00901	Bronchodilator Agents		
+DB00902	Histamine Antagonists		
+DB00903	Enzyme Inhibitors		
+DB00903	Diuretics		
+DB00904	Antipsychotic Agents		
+DB00905	Anti-glaucoma Agents		
+DB00906	Anticonvulsants		
+DB00906	Neurotransmitter Uptake Inhibitors		
+DB00906	GABA Agonists		
+DB00907	Vasoconstrictor Agents		
+DB00907	Dopamine Uptake Inhibitors		
+DB00907	Anesthetics, Local		
+DB00908	Anti-Arrhythmia Agents		
+DB00909	Antioxidants		
+DB00909	Anticonvulsants		
+DB00911	Antiprotozoal Agents		
+DB00911	Anti-Infective Agents		
+DB00912	Hypoglycemic Agents		
+DB00912	Antidiabetic Agents		
+DB00912	Meglitinides		
+DB00914	Hypoglycemic Agents		
+DB00915	Antiviral Agents		
+DB00915	Dopamine Agents		
+DB00915	Antiparkinson Agents		
+DB00915	Analgesics, Non-Narcotic		
+DB00916	Antiprotozoal Agents		
+DB00916	Anti-Infective Agents		
+DB00916	Radiation-Sensitizing Agents		
+DB00917	Oxytocics		
+DB00917	Prostaglandins		
+DB00918	Serotonin Antagonists		
+DB00918	Serotonin Receptor Agonists		
+DB00918	Anti-migraine Agents		
+DB00919	Anti-Bacterial Agents		
+DB00919	Aminoglycosides		
+DB00920	Anti-Allergic Agents		
+DB00920	Antipruritics		
+DB00920	Histamine H1 Antagonists		
+DB00921	Analgesics, Opioid		
+DB00921	Narcotics		
+DB00921	Narcotic Antagonists		
+DB00922	Phosphodiesterase Inhibitors		
+DB00922	Anti-Arrhythmia Agents		
+DB00922	Cardiotonic Agents		
+DB00922	Vasodilator Agents		
+DB00923	Anti-Bacterial Agents		
+DB00923	Cephalosporins		
+DB00924	Tranquilizing Agents		
+DB00924	Neuromuscular Agents		
+DB00924	Muscle Relaxants, Skeletal		
+DB00925	Antihypertensive Agents		
+DB00925	Vasodilator Agents		
+DB00925	Adrenergic alpha-Antagonists		
+DB00927	Anti-Ulcer Agents		
+DB00927	Histamine H2 Antagonists		
+DB00928	Enzyme Inhibitors		
+DB00928	Antimetabolites, Antineoplastic		
+DB00929	Oxytocics		
+DB00929	Anti-Ulcer Agents		
+DB00929	Abortifacient Agents, Nonsteroidal		
+DB00929	Abortifacient Agents		
+DB00929	Prostaglandins		
+DB00930	Bile acid sequestrants		
+DB00931	Anti-Bacterial Agents		
+DB00931	Tetracyclines		
+DB00932	Anti-HIV Agents		
+DB00933	Antipsychotic Agents		
+DB00933	Dopamine Antagonists		
+DB00933	Phenothiazines		
+DB00934	Antidepressive Agents, Second-Generation		
+DB00934	Adrenergic Uptake Inhibitors		
+DB00934	Antidepressive Agents		
+DB00935	Sympathomimetics		
+DB00935	Adrenergic alpha-Agonists		
+DB00935	Nasal Decongestants		
+DB00936	Antifungal Agents		
+DB00936	Anti-Infective Agents		
+DB00936	Keratolytic Agents		
+DB00937	Appetite Depressants		
+DB00937	Stimulants		
+DB00938	Sympathomimetics		
+DB00938	Adrenergic beta-2 Receptor Agonists		
+DB00938	Bronchodilator Agents		
+DB00939	Anti-Inflammatory Agents, Non-Steroidal		
+DB00939	Cyclooxygenase Inhibitors		
+DB00940	Muscarinic Antagonists		
+DB00940	Cholinergic Antagonists		
+DB00940	Antispasmodics		
+DB00941	Neuromuscular Agents		
+DB00942	Antidyskinetics		
+DB00943	Anti-HIV Agents		
+DB00943	Antimetabolites		
+DB00943	Reverse Transcriptase Inhibitors		
+DB00944	Cholinergic Agents		
+DB00945	Fibrinolytic Agents		
+DB00945	Platelet Aggregation Inhibitors		
+DB00945	Anti-Inflammatory Agents, Non-Steroidal		
+DB00945	Cyclooxygenase Inhibitors		
+DB00945	Antipyretics		
+DB00945	Salicylates		
+DB00946	Anticoagulants		
+DB00947	Antineoplastic Agents		
+DB00947	Antineoplastic Agents, Hormonal		
+DB00947	Estrogen Antagonists		
+DB00948	Penicillins		
+DB00949	Anticonvulsants		
+DB00950	Anti-Allergic Agents		
+DB00950	Histamine H1 Antagonists, Non-Sedating		
+DB00950	Histamine Antagonists		
+DB00951	Antitubercular Agents		
+DB00951	Fatty Acid Synthesis Inhibitors		
+DB00952	Serotonin Antagonists		
+DB00952	Serotonin Receptor Agonists		
+DB00953	Serotonin Antagonists		
+DB00953	Serotonin Receptor Agonists		
+DB00953	Anti-migraine Agents		
+DB00954	Anti-Infective Agents		
+DB00954	Macrolides		
+DB00955	Anti-Bacterial Agents		
+DB00955	Protein Synthesis Inhibitors		
+DB00955	Aminoglycosides		
+DB00956	Analgesics, Opioid		
+DB00956	Narcotics		
+DB00956	Antitussive Agents		
+DB00957	Contraceptives, Oral, Synthetic		
+DB00957	Contraceptive Agents		
+DB00958	Antineoplastic Agents		
+DB00958	Cross-Linking Reagents		
+DB00959	Anti-Inflammatory Agents		
+DB00959	Glucocorticoids		
+DB00959	Neuroprotective Agents		
+DB00959	Antiemetics		
+DB00961	Anesthetics, Local		
+DB00962	Hypnotics and Sedatives		
+DB00964	Adrenergic alpha-2 Receptor Agonists		
+DB00964	Anti-glaucoma Agents		
+DB00964	EENT Preparations		
+DB00964	Ophthalmics		
+DB00965	Antineoplastic Agents		
+DB00965	Contrast Media		
+DB00967	Cholinergic Antagonists		
+DB00967	Histamine H1 Antagonists, Non-Sedating		
+DB00967	Histamine Antagonists		
+DB00968	Antihypertensive Agents		
+DB00968	Sympatholytics		
+DB00968	Adrenergic alpha-2 Receptor Agonists		
+DB00970	Anti-Bacterial Agents		
+DB00970	Protein Synthesis Inhibitors		
+DB00970	Nucleic Acid Synthesis Inhibitors		
+DB00970	Antibiotics, Antineoplastic		
+DB00970	Antibiotics		
+DB00971	Antifungal Agents		
+DB00972	Anti-Allergic Agents		
+DB00972	Lipoxygenase Inhibitors		
+DB00972	Bronchodilator Agents		
+DB00972	Histamine H1 Antagonists, Non-Sedating		
+DB00973	Cholesterol Absorption Inhibitors		
+DB00974	Anticoagulants		
+DB00974	Chelating Agents		
+DB00974	Food Additives		
+DB00975	Platelet Aggregation Inhibitors		
+DB00975	Phosphodiesterase Inhibitors		
+DB00975	Vasodilator Agents		
+DB00976	Ketolides		
+DB00977	Estrogens		
+DB00978	Anti-Infective Agents		
+DB00979	Muscarinic Antagonists		
+DB00979	Parasympatholytics		
+DB00979	Mydriatics		
+DB00981	Cholinesterase Inhibitors		
+DB00981	Miotics		
+DB00982	Anti-Acne Preparations		
+DB00982	Skin and Mucous Membrane Agents		
+DB00983	Sympathomimetics		
+DB00983	Adrenergic beta-2 Receptor Agonists		
+DB00983	Bronchodilator Agents		
+DB00984	Anabolic Agents		
+DB00985	Histamine H1 Antagonists		
+DB00985	Antiemetics		
+DB00986	Muscarinic Antagonists		
+DB00986	Adjuvants, Anesthesia		
+DB00986	Cholinergic Antagonists		
+DB00987	Antiviral Agents		
+DB00987	Immunosuppressive Agents		
+DB00987	Antimetabolites, Antineoplastic		
+DB00988	Dopamine Agents		
+DB00988	Sympathomimetics		
+DB00988	Cardiotonic Agents		
+DB00989	Neuroprotective Agents		
+DB00989	Cholinesterase Inhibitors		
+DB00989	Cholinergic Agents		
+DB00990	Antineoplastic Agents		
+DB00990	Aromatase Inhibitors		
+DB00991	Anti-Inflammatory Agents, Non-Steroidal		
+DB00993	Antirheumatic Agents		
+DB00993	Immunosuppressive Agents		
+DB00993	Antimetabolites		
+DB00993	Antimetabolites, Antineoplastic		
+DB00994	Aminoglycosides		
+DB00994	Antibiotics		
+DB00995	Antirheumatic Agents		
+DB00996	Anti-Anxiety Agents		
+DB00996	Antiparkinson Agents		
+DB00996	Analgesics		
+DB00996	Anticonvulsants		
+DB00996	Calcium Channel Blockers		
+DB00996	Antimanic Agents		
+DB00996	Excitatory Amino Acid Antagonists		
+DB00997	Antibiotics, Antineoplastic		
+DB00997	Antibiotics		
+DB00998	Serotonin Receptor Agonists		
+DB00998	Anti-migraine Agents		
+DB00999	Antihypertensive Agents		
+DB00999	Diuretics		
+DB00999	Sodium Chloride Symporter Inhibitors		
+DB01000	Anti-Bacterial Agents		
+DB01000	Penicillins		
+DB01001	Adrenergic beta-2 Receptor Agonists		
+DB01001	Bronchodilator Agents		
+DB01001	Tocolytic Agents		
+DB01003	Anti-Asthmatic Agents		
+DB01004	Antiviral Agents		
+DB01005	Antineoplastic Agents		
+DB01005	Enzyme Inhibitors		
+DB01005	Nucleic Acid Synthesis Inhibitors		
+DB01005	Antisickling Agents		
+DB01006	Antineoplastic Agents		
+DB01006	Aromatase Inhibitors		
+DB01007	Antifungal Agents		
+DB01007	14-alpha Demethylase Inhibitors		
+DB01008	Immunosuppressive Agents		
+DB01008	Antineoplastic Agents, Alkylating		
+DB01008	Alkylating Agents		
+DB01008	Myeloablative Agonists		
+DB01009	Anti-Inflammatory Agents, Non-Steroidal		
+DB01009	Cyclooxygenase Inhibitors		
+DB01010	Cholinesterase Inhibitors		
+DB01010	Antidotes		
+DB01011	Enzyme Inhibitors		
+DB01011	Antimetabolites		
+DB01012	Calcimimetics		
+DB01013	Anti-Inflammatory Agents		
+DB01013	Glucocorticoids		
+DB01013	Corticosteroids		
+DB01014	Anti-Inflammatory Agents, Non-Steroidal		
+DB01014	Gastrointestinal Agents		
+DB01015	Anti-Infective Agents		
+DB01015	Sulfonamides		
+DB01016	Hypoglycemic Agents		
+DB01016	Anti-Arrhythmia Agents		
+DB01016	Antidiabetic Agents		
+DB01017	Anti-Bacterial Agents		
+DB01017	Tetracyclines		
+DB01018	Antihypertensive Agents		
+DB01018	Adrenergic alpha-2 Receptor Agonists		
+DB01019	Parasympathomimetics		
+DB01019	Muscarinic Agonists		
+DB01020	Vasodilator Agents		
+DB01020	Nitric Oxide Donors		
+DB01021	Antihypertensive Agents		
+DB01021	Diuretics		
+DB01021	Sodium Chloride Symporter Inhibitors		
+DB01022	Vitamins		
+DB01022	Antifibrinolytic Agents		
+DB01022	Vitamin K		
+DB01023	Antihypertensive Agents		
+DB01023	Anti-Arrhythmia Agents		
+DB01023	Vasodilator Agents		
+DB01023	Calcium Channel Blockers		
+DB01023	Dihydropyridines		
+DB01024	Enzyme Inhibitors		
+DB01024	Antibiotics, Antineoplastic		
+DB01025	Anti-Allergic Agents		
+DB01025	Anti-Inflammatory Agents		
+DB01025	Anti-Ulcer Agents		
+DB01026	Antifungal Agents		
+DB01026	14-alpha Demethylase Inhibitors		
+DB01028	Anesthetics, Inhalation		
+DB01029	Antihypertensive Agents		
+DB01029	Angiotensin II Type 1 Receptor Blockers		
+DB01029	Angiotensin Receptor Antagonists		
+DB01030	Topoisomerase I Inhibitors		
+DB01032	Adjuvants, Pharmaceutic		
+DB01032	Uricosuric Agents		
+DB01033	Immunosuppressive Agents		
+DB01033	Antimetabolites		
+DB01033	Nucleic Acid Synthesis Inhibitors		
+DB01033	Antimetabolites, Antineoplastic		
+DB01033	Purine analogues		
+DB01034	Antifungal Agents		
+DB01035	Anti-Arrhythmia Agents		
+DB01036	Muscarinic Antagonists		
+DB01036	Anti-Incontinence Agents		
+DB01036	Antispasmodics		
+DB01036	Muscle Relaxants, Genitourinary		
+DB01037	Antiparkinson Agents		
+DB01037	Neuroprotective Agents		
+DB01037	Monoamine Oxidase Inhibitors		
+DB01037	Antidyskinetics		
+DB01037	Dopaminergics		
+DB01038	Antipsychotic Agents		
+DB01039	Hypolipidemic Agents		
+DB01040	Antimalarials		
+DB01040	Anti-trypanosomal Agents		
+DB01040	Antimycotic Agents		
+DB01041	Immunosuppressive Agents		
+DB01041	Angiogenesis Inhibitors		
+DB01041	Leprostatic Agents		
+DB01041	Teratogens		
+DB01043	Dopamine Agents		
+DB01043	Antiparkinson Agents		
+DB01043	Excitatory Amino Acid Antagonists		
+DB01043	Antidyskinetics		
+DB01044	Quinolones		
+DB01044	Antibiotics		
+DB01045	Enzyme Inhibitors		
+DB01045	Antitubercular Agents		
+DB01045	Nucleic Acid Synthesis Inhibitors		
+DB01045	Leprostatic Agents		
+DB01045	Antibiotics, Antitubercular		
+DB01045	Antibiotics		
+DB01046	Laxatives		
+DB01047	Anti-Allergic Agents		
+DB01047	Anti-Inflammatory Agents		
+DB01047	Glucocorticoids		
+DB01048	Anti-HIV Agents		
+DB01048	Reverse Transcriptase Inhibitors		
+DB01049	Nootropic Agents		
+DB01049	Vasodilator Agents		
+DB01049	Adrenergic alpha-Antagonists		
+DB01050	Anti-Inflammatory Agents, Non-Steroidal		
+DB01050	Cyclooxygenase Inhibitors		
+DB01050	Analgesics, Non-Narcotic		
+DB01051	Enzyme Inhibitors		
+DB01051	Anti-Bacterial Agents		
+DB01051	Nucleic Acid Synthesis Inhibitors		
+DB01053	Anti-Bacterial Agents		
+DB01053	Penicillins		
+DB01054	Antihypertensive Agents		
+DB01054	Vasodilator Agents		
+DB01054	Calcium Channel Blockers		
+DB01056	Anti-Arrhythmia Agents		
+DB01056	Voltage-Gated Sodium Channel Blockers		
+DB01056	Sodium Channel Blockers		
+DB01057	Cholinesterase Inhibitors		
+DB01057	Parasympathomimetics		
+DB01057	Miotics		
+DB01059	Anti-Infective Agents		
+DB01059	Quinolones		
+DB01060	Anti-Bacterial Agents		
+DB01060	Penicillins		
+DB01061	Anti-Bacterial Agents		
+DB01061	Penicillins		
+DB01062	Muscarinic Antagonists		
+DB01062	Parasympatholytics		
+DB01062	Cholinergic Antagonists		
+DB01062	Antispasmodics		
+DB01062	Muscle Relaxants, Genitourinary		
+DB01063	Antipsychotic Agents		
+DB01064	Sympathomimetics		
+DB01064	Bronchodilator Agents		
+DB01064	Cardiotonic Agents		
+DB01064	Adrenergic beta-Agonists		
+DB01065	Antioxidants		
+DB01065	Central Nervous System Depressants		
+DB01066	Anti-Bacterial Agents		
+DB01066	Cephalosporins		
+DB01067	Hypoglycemic Agents		
+DB01068	Anticonvulsants		
+DB01068	GABA Modulators		
+DB01068	Benzodiazepines		
+DB01069	Anti-Allergic Agents		
+DB01069	Antipruritics		
+DB01069	Histamine H1 Antagonists		
+DB01070	Bone Density Conservation Agents		
+DB01070	Vitamins		
+DB01070	Antithyroid Agents		
+DB01070	Vitamin D		
+DB01070	Antihypocalcemic Agents		
+DB01071	Histamine H1 Antagonists		
+DB01072	Anti-HIV Agents		
+DB01072	HIV Protease Inhibitors		
+DB01073	Antineoplastic Agents		
+DB01074	Vasodilator Agents		
+DB01074	Calcium Channel Blockers		
+DB01074	Cardiovascular Agents		
+DB01075	Anti-Allergic Agents		
+DB01075	Hypnotics and Sedatives		
+DB01075	Anesthetics, Local		
+DB01075	Histamine H1 Antagonists		
+DB01075	Antitussive Agents		
+DB01075	Antiemetics		
+DB01075	Antidyskinetics		
+DB01076	Anticholesteremic Agents		
+DB01076	Hydroxymethylglutaryl-CoA Reductase Inhibitors		
+DB01077	Bone Density Conservation Agents		
+DB01077	Antihypocalcemic Agents		
+DB01077	Bisphosphonates		
+DB01078	Enzyme Inhibitors		
+DB01078	Anti-Arrhythmia Agents		
+DB01078	Cardiotonic Agents		
+DB01079	Serotonin Receptor Agonists		
+DB01080	Enzyme Inhibitors		
+DB01080	Anticonvulsants		
+DB01080	GABA Agents		
+DB01081	Analgesics, Opioid		
+DB01081	Antidiarrheals		
+DB01081	Antiperistaltic Agents		
+DB01082	Aminoglycosides		
+DB01083	Enzyme Inhibitors		
+DB01083	Anti-Obesity Agents		
+DB01084	Anti-Allergic Agents		
+DB01084	Histamine H1 Antagonists		
+DB01085	Cholinergic Agents		
+DB01086	Anesthetics, Local		
+DB01087	Antimalarials		
+DB01090	Antihypertensive Agents		
+DB01090	Nicotinic Antagonists		
+DB01090	Ganglionic Blockers		
+DB01091	Antifungal Agents		
+DB01092	Enzyme Inhibitors		
+DB01092	Cardiotonic Agents		
+DB01093	Free Radical Scavengers		
+DB01093	Solvents		
+DB01093	Cryoprotective Agents		
+DB01095	Hydroxymethylglutaryl-CoA Reductase Inhibitors		
+DB01097	Antirheumatic Agents		
+DB01097	Immunosuppressive Agents		
+DB01097	Enzyme Inhibitors		
+DB01097	Adjuvants		
+DB01098	Hydroxymethylglutaryl-CoA Reductase Inhibitors		
+DB01099	Antifungal Agents		
+DB01099	Antimetabolites		
+DB01100	Antipsychotic Agents		
+DB01100	Dopamine Antagonists		
+DB01100	Anti-Dyskinesia Agents		
+DB01101	Prodrugs		
+DB01103	Antineoplastic Agents		
+DB01103	Enzyme Inhibitors		
+DB01103	Antimalarials		
+DB01103	Antiprotozoal Agents		
+DB01103	Antinematodal Agents		
+DB01103	Anthelmintics		
+DB01103	Anticestodal Agents		
+DB01104	Serotonin Uptake Inhibitors		
+DB01104	Antidepressive Agents		
+DB01105	Appetite Depressants		
+DB01105	Antidepressive Agents		
+DB01105	Stimulants		
+DB01106	Histamine H1 Antagonists, Non-Sedating		
+DB01107	Hypnotics and Sedatives		
+DB01108	Anti-adrenal Agents		
+DB01108	Anticorticosteroid		
+DB01109	Fibrinolytic Agents		
+DB01109	Anticoagulants		
+DB01109	Heparins		
+DB01110	Antifungal Agents		
+DB01110	14-alpha Demethylase Inhibitors		
+DB01111	Anti-Bacterial Agents		
+DB01112	Anti-Bacterial Agents		
+DB01112	Cephalosporins		
+DB01114	Histamine H1 Antagonists		
+DB01114	Histamine Antagonists		
+DB01115	Dihydropyridines		
+DB01116	Antihypertensive Agents		
+DB01116	Adjuvants, Anesthesia		
+DB01116	Nicotinic Antagonists		
+DB01116	Ganglionic Blockers		
+DB01118	Enzyme Inhibitors		
+DB01118	Anti-Arrhythmia Agents		
+DB01118	Vasodilator Agents		
+DB01119	Sodium Chloride Symporter Inhibitors		
+DB01120	Hypoglycemic Agents		
+DB01120	Antidiabetic Agents		
+DB01122	Anti-Arrhythmia Agents		
+DB01122	Antimyasthenic Agents		
+DB01123	Anti-Infective Agents, Local		
+DB01124	Hypoglycemic Agents		
+DB01124	Antidiabetic Agents		
+DB01129	Enzyme Inhibitors		
+DB01129	Anti-Ulcer Agents		
+DB01130	Anti-Inflammatory Agents		
+DB01130	Corticosteroids		
+DB01130	Steroids		
+DB01132	Hypoglycemic Agents		
+DB01133	Bone Density Conservation Agents		
+DB01133	Antihypocalcemic Agents		
+DB01136	Antihypertensive Agents		
+DB01136	Vasodilator Agents		
+DB01136	Adrenergic alpha-1 Receptor Antagonists		
+DB01136	Adrenergic beta-Antagonists		
+DB01137	Quinolones		
+DB01138	Uricosuric Agents		
+DB01139	Anti-Bacterial Agents		
+DB01139	Cephalosporins		
+DB01140	Anti-Bacterial Agents		
+DB01140	Cephalosporins		
+DB01141	Antifungal Agents		
+DB01142	Adrenergic Uptake Inhibitors		
+DB01142	Antidepressive Agents		
+DB01143	Radiation-Protective Agents		
+DB01144	Carbonic Anhydrase Inhibitors		
+DB01144	Anti-glaucoma Agents		
+DB01144	Ophthalmics		
+DB01145	Anti-Infective Agents		
+DB01145	Sulfonamides		
+DB01146	Histamine Antagonists		
+DB01147	Penicillins		
+DB01148	Parasympatholytics		
+DB01149	Antidepressive Agents, Second-Generation		
+DB01149	Antidepressive Agents		
+DB01150	Anti-Bacterial Agents		
+DB01150	Cephalosporins		
+DB01151	Enzyme Inhibitors		
+DB01151	Adrenergic Uptake Inhibitors		
+DB01151	Antidepressive Agents, Tricyclic		
+DB01151	Antidepressive Agents		
+DB01152	Macrolides		
+DB01153	Antifungal Agents		
+DB01155	Anti-Bacterial Agents		
+DB01155	Quinolones		
+DB01156	Antidepressive Agents, Second-Generation		
+DB01156	Dopamine Uptake Inhibitors		
+DB01157	Antifungal Agents		
+DB01157	Antiprotozoal Agents		
+DB01157	Folic Acid Antagonists		
+DB01157	Antimetabolites, Antineoplastic		
+DB01157	Antibiotics		
+DB01158	Antihypertensive Agents		
+DB01158	Anti-Arrhythmia Agents		
+DB01158	Adrenergic Antagonists		
+DB01159	Anesthetics, Inhalation		
+DB01159	Anesthetics		
+DB01160	Oxytocics		
+DB01160	Abortifacient Agents, Nonsteroidal		
+DB01160	Angiography		
+DB01160	Stimulants, Uterine		
+DB01161	Anesthetics, Local		
+DB01162	Adrenergic alpha-1 Receptor Antagonists		
+DB01163	Anti-Bacterial Agents		
+DB01163	Anti-Infective Agents, Urinary		
+DB01163	Penicillins		
+DB01164	Supplements		
+DB01165	Anti-Bacterial Agents		
+DB01165	Nucleic Acid Synthesis Inhibitors		
+DB01165	Anti-Infective Agents		
+DB01165	Anti-Infective Agents, Urinary		
+DB01165	Quinolones		
+DB01166	Fibrinolytic Agents		
+DB01166	Platelet Aggregation Inhibitors		
+DB01166	Bronchodilator Agents		
+DB01166	Phosphodiesterase 3 Inhibitors		
+DB01166	Vasodilator Agents		
+DB01166	Neuroprotective Agents		
+DB01167	Antifungal Agents		
+DB01167	Antiprotozoal Agents		
+DB01167	14-alpha Demethylase Inhibitors		
+DB01168	Antineoplastic Agents		
+DB01169	Antineoplastic Agents		
+DB01169	Homeopathic Agents		
+DB01170	Antihypertensive Agents		
+DB01170	Adrenergic Agents		
+DB01170	Sympatholytics		
+DB01171	Antidepressive Agents		
+DB01171	Monoamine Oxidase Inhibitors		
+DB01172	Anti-Bacterial Agents		
+DB01172	Protein Synthesis Inhibitors		
+DB01172	Aminoglycosides		
+DB01173	Antiparkinson Agents		
+DB01173	Muscarinic Antagonists		
+DB01173	Parasympatholytics		
+DB01173	Muscle Relaxants, Central		
+DB01173	Antidyskinetics		
+DB01173	Muscle Relaxants, Skeletal		
+DB01174	Hypnotics and Sedatives		
+DB01174	Anticonvulsants		
+DB01174	GABA Modulators		
+DB01174	Excitatory Amino Acid Antagonists		
+DB01175	Antidepressive Agents, Second-Generation		
+DB01175	Serotonin Uptake Inhibitors		
+DB01176	Histamine H1 Antagonists		
+DB01176	Antiemetics		
+DB01177	Antibiotics, Antineoplastic		
+DB01177	Antibiotics		
+DB01178	Anti-Anxiety Agents		
+DB01178	Antipsychotic Agents		
+DB01178	Muscle Relaxants, Central		
+DB01178	Benzodiazepines		
+DB01179	Antineoplastic Agents, Phytogenic		
+DB01179	Tubulin Modulators		
+DB01179	Keratolytic Agents		
+DB01179	Antimitotic Agents		
+DB01182	Anti-Arrhythmia Agents		
+DB01182	Voltage-Gated Sodium Channel Blockers		
+DB01183	Narcotic Antagonists		
+DB01183	Central Nervous System Depressants		
+DB01185	Anabolic Agents		
+DB01186	Dopamine Agonists		
+DB01186	Antidyskinetics		
+DB01188	Antifungal Agents		
+DB01189	Anesthetics, Inhalation		
+DB01190	Anti-Bacterial Agents		
+DB01190	Protein Synthesis Inhibitors		
+DB01190	Antibiotics		
+DB01191	Serotonin Uptake Inhibitors		
+DB01191	Anti-Obesity Agents		
+DB01191	Serotonin Receptor Agonists		
+DB01192	Analgesics, Opioid		
+DB01192	Narcotics		
+DB01192	Adjuvants, Anesthesia		
+DB01192	Adjuvants		
+DB01193	Antihypertensive Agents		
+DB01193	Sympathomimetics		
+DB01193	Adrenergic beta-1 Receptor Antagonists		
+DB01193	Anti-Arrhythmia Agents		
+DB01194	Anti-glaucoma Agents		
+DB01194	Ophthalmics		
+DB01195	Anti-Arrhythmia Agents		
+DB01195	Voltage-Gated Sodium Channel Blockers		
+DB01196	Antineoplastic Agents, Hormonal		
+DB01196	Antineoplastic Agents, Alkylating		
+DB01197	Angiotensin-Converting Enzyme Inhibitors		
+DB01197	Antihypertensive Agents		
+DB01198	Hypnotics and Sedatives		
+DB01199	Neuromuscular Nondepolarizing Agents		
+DB01199	Nicotinic Antagonists		
+DB01199	Muscle Relaxants, Skeletal		
+DB01200	Hormone Antagonists		
+DB01200	Antiparkinson Agents		
+DB01200	Dopamine Agonists		
+DB01200	Antidyskinetics		
+DB01201	Leprostatic Agents		
+DB01201	Antibiotics, Antitubercular		
+DB01201	Antimycobacterials		
+DB01202	Nootropic Agents		
+DB01202	Anticonvulsants		
+DB01204	Antineoplastic Agents		
+DB01204	Analgesics		
+DB01205	GABA Modulators		
+DB01205	Antidotes		
+DB01206	Antineoplastic Agents, Alkylating		
+DB01207	Platelet Aggregation Inhibitors		
+DB01207	Gastrointestinal Agents		
+DB01207	Enzyme Inhibitors		
+DB01207	Thrombolytic Agents		
+DB01209	Analgesics, Opioid		
+DB01210	Sympatholytics		
+DB01210	Adrenergic beta-Antagonists		
+DB01210	EENT Preparations		
+DB01211	Anti-Bacterial Agents		
+DB01211	Protein Synthesis Inhibitors		
+DB01211	Macrolides		
+DB01212	Anti-Bacterial Agents		
+DB01212	Cephalosporins		
+DB01213	Antidotes		
+DB01214	Antihypertensive Agents		
+DB01214	Sympatholytics		
+DB01214	Anti-Arrhythmia Agents		
+DB01214	Adrenergic beta-Antagonists		
+DB01216	5-alpha Reductase Inhibitors		
+DB01216	Skin and Mucous Membrane Agents		
+DB01217	Antineoplastic Agents, Hormonal		
+DB01217	Aromatase Inhibitors		
+DB01218	Antimalarials		
+DB01218	Antiprotozoal Agents		
+DB01219	Muscle Relaxants, Central		
+DB01220	Gastrointestinal Agents		
+DB01220	Anti-Infective Agents		
+DB01221	Analgesics		
+DB01221	Excitatory Amino Acid Antagonists		
+DB01221	Anesthetics		
+DB01221	Anesthetics, Dissociative		
+DB01222	Corticosteroids		
+DB01223	Phosphodiesterase Inhibitors		
+DB01223	Purinergic P1 Receptor Antagonists		
+DB01223	Bronchodilator Agents		
+DB01223	Cardiotonic Agents		
+DB01223	Muscle Relaxants, Respiratory		
+DB01224	Antipsychotic Agents		
+DB01225	Fibrinolytic Agents		
+DB01225	Anticoagulants		
+DB01225	Heparins		
+DB01227	Analgesics, Opioid		
+DB01227	Narcotics		
+DB01228	Anti-Arrhythmia Agents		
+DB01228	Voltage-Gated Sodium Channel Blockers		
+DB01228	Sodium Channel Blockers		
+DB01229	Antineoplastic Agents, Phytogenic		
+DB01229	Tubulin Modulators		
+DB01231	Antiemetics		
+DB01232	HIV Protease Inhibitors		
+DB01233	Antiemetics		
+DB01233	Dopamine Antagonists		
+DB01233	Prokinetic Agents		
+DB01234	Antineoplastic Agents, Hormonal		
+DB01234	Anti-Inflammatory Agents		
+DB01234	Glucocorticoids		
+DB01234	Antiemetics		
+DB01235	Dopamine Agents		
+DB01235	Antiparkinson Agents		
+DB01235	Antidyskinetics		
+DB01236	Platelet Aggregation Inhibitors		
+DB01236	Anesthetics, Inhalation		
+DB01237	Histamine Antagonists		
+DB01238	Antipsychotic Agents		
+DB01239	Antipsychotic Agents		
+DB01239	Dopamine Antagonists		
+DB01240	Platelet Aggregation Inhibitors		
+DB01240	Antihypertensive Agents		
+DB01241	Hypolipidemic Agents		
+DB01242	Serotonin Uptake Inhibitors		
+DB01242	Antidepressive Agents, Tricyclic		
+DB01243	Anti-seborrheic Agents		
+DB01244	Antihypertensive Agents		
+DB01244	Anti-Arrhythmia Agents		
+DB01244	Vasodilator Agents		
+DB01244	Calcium Channel Blockers		
+DB01245	Neuromuscular Depolarizing Agents		
+DB01246	Antipruritics		
+DB01247	Antidepressive Agents		
+DB01247	Monoamine Oxidase Inhibitors		
+DB01248	Antineoplastic Agents		
+DB01249	Contrast Media		
+DB01251	Antidiabetic Agents		
+DB01252	Hypoglycemic Agents		
+DB01253	Oxytocics		
+DB01256	Anti-Bacterial Agents		
+DB01259	Antineoplastic Agents		
+DB01259	Protein Kinase Inhibitors		
+DB01261	Dipeptidyl-Peptidase IV Inhibitors		
+DB01262	Enzyme Inhibitors		
+DB01262	Antimetabolites, Antineoplastic		
+DB01262	Teratogens		
+DB01263	Antifungal Agents		
+DB01264	HIV Protease Inhibitors		
+DB01267	Antipsychotic Agents		
+DB01270	Ophthalmics		
+DB01271	Enzyme Replacement Agents		
+DB01272	Enzyme Replacement Agents		
+DB01273	Nicotinic Agonists		
+DB01274	Adrenergic beta-2 Receptor Agonists		
+DB01274	Bronchodilator Agents		
+DB01276	Hypoglycemic Agents		
+DB01279	Enzyme Replacement Agents		
+DB01281	Antirheumatic Agents		
+DB01281	Immunosuppressive Agents		
+DB01282	Oxytocics		
+DB01282	Delayed-Action Preparations		
+DB01282	Anti-tocolytic Agents		
+DB01282	Labor Induction Agents		
+DB01283	Cyclooxygenase 2 Inhibitors		
+DB01284	Hormones		
+DB01284	Diagnostic Agents		
+DB01285	Hormones		
+DB01285	Diagnostic Agents		
+DB01288	Sympathomimetics		
+DB01288	Adrenergic beta-2 Receptor Agonists		
+DB01288	Bronchodilator Agents		
+DB01288	Tocolytic Agents		
+DB01291	Adrenergic beta-2 Receptor Agonists		
+DB01291	Bronchodilator Agents		
+DB01291	Cardiotonic Agents		
+DB01294	Antidiarrheals		
+DB01295	Adrenergic beta-1 Receptor Antagonists		
+DB01297	Adrenergic beta-1 Receptor Antagonists		
+DB01297	Anti-Arrhythmia Agents		
+DB01298	Sulfonamides		
+DB01301	Tetracyclines		
+DB01303	Bronchodilator Agents		
+DB01306	Hypoglycemic Agents		
+DB01306	Antidiabetic Agents		
+DB01307	Antidiabetic Agents		
+DB01309	Antidiabetic Agents		
+DB01319	Prodrugs		
+DB01320	Anticonvulsants		
+DB01321	Anti-Bacterial Agents		
+DB01321	Macrolides		
+DB01325	Sodium Chloride Symporter Inhibitors		
+DB01326	Anti-Bacterial Agents		
+DB01326	Cephalosporins		
+DB01327	Anti-Bacterial Agents		
+DB01327	Cephalosporins		
+DB01328	Anti-Bacterial Agents		
+DB01328	Cephalosporins		
+DB01329	Anti-Bacterial Agents		
+DB01329	Cephalosporins		
+DB01330	Anti-Bacterial Agents		
+DB01330	Cephalosporins		
+DB01331	Anti-Bacterial Agents		
+DB01331	Cephalosporins		
+DB01332	Anti-Bacterial Agents		
+DB01332	Cephalosporins		
+DB01333	Anti-Bacterial Agents		
+DB01333	Cephalosporins		
+DB01337	Neuromuscular Nondepolarizing Agents		
+DB01337	Nicotinic Antagonists		
+DB01338	Neuromuscular Nondepolarizing Agents		
+DB01338	Nicotinic Antagonists		
+DB01340	Angiotensin-Converting Enzyme Inhibitors		
+DB01340	Antihypertensive Agents		
+DB01342	Angiotensin Receptor Antagonists		
+DB01353	Hypnotics and Sedatives		
+DB01353	Barbiturates		
+DB01354	Barbiturates		
+DB01355	Hypnotics and Sedatives		
+DB01355	GABA Modulators		
+DB01355	Barbiturates		
+DB01355	Adjuvants		
+DB01359	Antihypertensive Agents		
+DB01359	Adrenergic beta-Antagonists		
+DB01361	Anti-Bacterial Agents		
+DB01361	Macrolides		
+DB01362	Contrast Media		
+DB01365	Vasoconstrictor Agents		
+DB01365	Sympathomimetics		
+DB01365	Adrenergic alpha-1 Receptor Agonists		
+DB01367	Neuroprotective Agents		
+DB01367	Monoamine Oxidase Inhibitors		
+DB01369	Anti-Bacterial Agents		
+DB01377	Antacids		
+DB01380	Corticosteroids		
+DB01392	Mydriatics		
+DB01392	Adrenergic alpha-2 Receptor Antagonists		
+DB01393	Hypolipidemic Agents		
+DB01394	Gout Suppressants		
+DB01394	Tubulin Modulators		
+DB01395	Mineralocorticoid Receptor Antagonists		
+DB01396	Enzyme Inhibitors		
+DB01396	Anti-Arrhythmia Agents		
+DB01396	Cardiotonic Agents		
+DB01398	Anti-Inflammatory Agents, Non-Steroidal		
+DB01398	Salicylates		
+DB01399	Anti-Inflammatory Agents, Non-Steroidal		
+DB01403	Antipsychotic Agents		
+DB01403	Analgesics, Non-Narcotic		
+DB01403	Dopamine Antagonists		
+DB01405	Anti-Bacterial Agents		
+DB01407	Sympathomimetics		
+DB01407	Bronchodilator Agents		
+DB01407	Adrenergic beta-Agonists		
+DB01409	Cholinergic Antagonists		
+DB01411	Anti-Asthmatic Agents		
+DB01411	Leukotriene Antagonists		
+DB01413	Anti-Bacterial Agents		
+DB01413	Cephalosporins		
+DB01414	Anti-Bacterial Agents		
+DB01414	Cephalosporins		
+DB01415	Cephalosporins		
+DB01416	Anti-Bacterial Agents		
+DB01416	Cephalosporins		
+DB01418	Anticoagulants		
+DB01421	Anti-Bacterial Agents		
+DB01421	Amebicides		
+DB01422	Antifungal Agents		
+DB01422	Anti-Infective Agents, Urinary		
+DB01423	Antiviral Agents		
+DB01423	Immunosuppressive Agents		
+DB01423	Expectorants		
+DB01424	Pyrazolones		
+DB01425	Antiemetics		
+DB01425	Prokinetic Agents		
+DB01426	Anti-Arrhythmia Agents		
+DB01427	Cardiotonic Agents		
+DB01427	Phosphodiesterase 3 Inhibitors		
+DB01427	Vasodilator Agents		
+DB01427	Calcium Channel Blockers		
+DB01428	Sunscreening Agents		
+DB01429	Anti-Arrhythmia Agents		
+DB01429	Voltage-Gated Sodium Channel Blockers		
+DB01430	Respiratory System Agents		
+DB01432	Hypolipidemic Agents		
+DB01432	Cholesterol Absorption Inhibitors		
+DB01433	Analgesics, Opioid		
+DB01433	Narcotics		
+DB01434	Steroids		
+DB01435	Anti-Inflammatory Agents, Non-Steroidal		
+DB01436	Bone Density Conservation Agents		
+DB01437	Hypnotics and Sedatives		
+DB01443	Steroids		
+DB01446	Stimulants		
+DB01452	Analgesics, Opioid		
+DB01452	Narcotics		
+DB01456	Steroids		
+DB01459	Analgesics		
+DB01461	Hypnotics and Sedatives		
+DB01463	Central Nervous System Stimulants		
+DB01463	Antipsychotic Agents		
+DB01466	Analgesics, Opioid		
+DB01466	Narcotics		
+DB01466	Antitussive Agents		
+DB01484	Serotonin Receptor Agonists		
+DB01485	Steroids		
+DB01486	Appetite Depressants		
+DB01488	Serotonin Receptor Agonists		
+DB01489	Hypnotics and Sedatives		
+DB01489	Benzodiazepines		
+DB01489	Neuromuscular Agents		
+DB01497	Hypnotics and Sedatives		
+DB01497	Analgesics, Opioid		
+DB01497	Narcotics		
+DB01509	Adrenergic Uptake Inhibitors		
+DB01509	Hallucinogens		
+DB01509	Serotonin Agents		
+DB01511	Anticonvulsants		
+DB01520	Neuroprotective Agents		
+DB01528	Serotonin Receptor Agonists		
+DB01541	Anabolic Agents		
+DB01544	Anti-Anxiety Agents		
+DB01544	GABA Modulators		
+DB01544	Benzodiazepines		
+DB01546	Stimulants		
+DB01550	Appetite Depressants		
+DB01550	Stimulants		
+DB01551	Analgesics, Opioid		
+DB01553	Hypnotics and Sedatives		
+DB01553	Benzodiazepines		
+DB01553	Neuromuscular Agents		
+DB01556	Sympathomimetics		
+DB01558	Anti-Anxiety Agents		
+DB01558	GABA Modulators		
+DB01558	Benzodiazepines		
+DB01559	Benzodiazepines		
+DB01560	Central Nervous System Stimulants		
+DB01560	Psychotropic Drugs		
+DB01560	Amphetamines		
+DB01567	Benzodiazepines		
+DB01569	Steroids		
+DB01571	Analgesics		
+DB01576	Central Nervous System Stimulants		
+DB01576	Dopamine Uptake Inhibitors		
+DB01577	Adrenergic Agents		
+DB01577	Adrenergic Uptake Inhibitors		
+DB01577	Central Nervous System Stimulants		
+DB01577	Dopamine Agents		
+DB01577	Dopamine Uptake Inhibitors		
+DB01577	Sympathomimetics		
+DB01579	Central Nervous System Stimulants		
+DB01579	Appetite Depressants		
+DB01580	Anti-Anxiety Agents		
+DB01580	Antihypertensive Agents		
+DB01580	Sympatholytics		
+DB01580	Anti-Arrhythmia Agents		
+DB01580	Vasodilator Agents		
+DB01580	Adrenergic beta-Antagonists		
+DB01581	Sulfonamides		
+DB01582	Sulfonamides		
+DB01583	Hormone Replacement Agents		
+DB01586	Cholagogues and Choleretics		
+DB01587	Benzodiazepines		
+DB01588	Anti-Anxiety Agents		
+DB01588	GABA Modulators		
+DB01589	Hypnotics and Sedatives		
+DB01589	Benzodiazepines		
+DB01590	Immunosuppressive Agents		
+DB01591	Muscarinic Antagonists		
+DB01591	Anti-Incontinence Agents		
+DB01591	Antispasmodics		
+DB01592	Trace Elements		
+DB01592	Anti-anemic Agents		
+DB01592	Supplements		
+DB01593	Trace Elements		
+DB01594	Hypnotics and Sedatives		
+DB01594	Benzodiazepines		
+DB01595	Anti-Anxiety Agents		
+DB01595	Hypnotics and Sedatives		
+DB01595	Anticonvulsants		
+DB01595	GABA Modulators		
+DB01598	Anti-Bacterial Agents		
+DB01599	Antioxidants		
+DB01599	Anticholesteremic Agents		
+DB01600	Anti-Inflammatory Agents, Non-Steroidal		
+DB01601	Anti-HIV Agents		
+DB01601	HIV Protease Inhibitors		
+DB01602	Penicillins		
+DB01603	Anti-Bacterial Agents		
+DB01603	Penicillins		
+DB01604	Anti-Bacterial Agents		
+DB01604	Penicillins		
+DB01605	Anti-Bacterial Agents		
+DB01605	Anti-Infective Agents, Urinary		
+DB01605	Penicillins		
+DB01607	Anti-Bacterial Agents		
+DB01607	Penicillins		
+DB01608	Phenothiazines		
+DB01609	Iron Chelating Agents		
+DB01610	Antiviral Agents		
+DB01611	Antirheumatic Agents		
+DB01611	Enzyme Inhibitors		
+DB01611	Antimalarials		
+DB01612	Vasodilator Agents		
+DB01613	Vasodilator Agents		
+DB01614	Hypnotics and Sedatives		
+DB01614	Antipsychotic Agents		
+DB01614	Dopamine Antagonists		
+DB01615	Hypnotics and Sedatives		
+DB01615	Histamine Antagonists		
+DB01616	Parasympatholytics		
+DB01616	Antispasmodics		
+DB01618	Antipsychotic Agents		
+DB01619	Histamine H1 Antagonists		
+DB01619	Histamine Antagonists		
+DB01620	Anti-Allergic Agents		
+DB01620	Antipruritics		
+DB01620	Histamine H1 Antagonists		
+DB01621	Phenothiazines		
+DB01622	Phenothiazines		
+DB01623	Antipsychotic Agents		
+DB01623	Dopamine Antagonists		
+DB01623	Thioxanthenes		
+DB01624	Antipsychotic Agents		
+DB01624	Dopamine Antagonists		
+DB01627	Anti-Bacterial Agents		
+DB01627	Protein Synthesis Inhibitors		
+DB01627	Antibiotics		
+DB01645	Protein Kinase Inhibitors		
+DB01645	Anticarcinogenic Agents		
+DB01645	Phytoestrogens		
+DB01667	Antimetabolites, Antineoplastic		
+DB01669	Anti-Bacterial Agents		
+DB01676	Explosive Agents		
+DB01686	Enzyme Inhibitors		
+DB01692	Sulfhydryl Reagents		
+DB01708	Adjuvants, Immunologic		
+DB01764	Anti-Bacterial Agents		
+DB01783	Vitamin B Complex		
+DB01791	Phosphodiesterase 4 Inhibitors		
+DB01878	Photosensitizing Agents		
+DB01910	Antifungal Agents		
+DB01942	Anti-Bacterial Agents		
+DB02041	Luminescent Agents		
+DB02115	Enzyme Inhibitors		
+DB02115	Alcohol Deterrents		
+DB02169	Ionophores		
+DB02300	Dermatologic Agents		
+DB02300	Antipsoriatic Agents		
+DB02342	Antineoplastic Agents		
+DB02342	Tubulin Modulators		
+DB02348	Cariostatic Agents		
+DB02351	Antithrombins		
+DB02386	Leucyl Aminopeptidase		
+DB02546	Antineoplastic Agents		
+DB02546	Histone Deacetylase Inhibitors		
+DB02579	Tissue Adhesives		
+DB02632	Photoaffinity Labels		
+DB02638	Vasoconstrictor Agents		
+DB02638	Antihypertensive Agents		
+DB02663	Herbicides		
+DB02703	Anti-Bacterial Agents		
+DB02703	Protein Synthesis Inhibitors		
+DB02709	Platelet Aggregation Inhibitors		
+DB02709	Anti-Inflammatory Agents, Non-Steroidal		
+DB02709	Enzyme Inhibitors		
+DB02709	Antioxidants		
+DB02709	Antineoplastic Agents, Phytogenic		
+DB02709	Anticarcinogenic Agents		
+DB02709	Antimutagenic Agents		
+DB02712	Angiogenesis Inhibitors		
+DB02731	Preservatives, Pharmaceutical		
+DB02731	Antiseptic Agents		
+DB02751	Affinity Labels		
+DB02757	Enzyme Inhibitors		
+DB02764	Adhesives		
+DB02842	Indicators and Reagents		
+DB02842	Anti-Infective Agents, Local		
+DB02842	Mutagens		
+DB02842	Fluorescent Dyes		
+DB02855	Neuroprotective Agents		
+DB02855	Cysteine Proteinase Inhibitors		
+DB02877	Antineoplastic Agents		
+DB02901	Androgens		
+DB02901	Steroids		
+DB02959	Antidepressive Agents, Second-Generation		
+DB02999	Excitatory Amino Acid Agonists		
+DB03010	Antineoplastic Agents		
+DB03010	Tubulin Modulators		
+DB03052	Antithrombins		
+DB03052	Enzyme Inhibitors		
+DB03062	Dietary Supplements		
+DB03062	Micronutrients		
+DB03062	Supplements		
+DB03085	Keratolytic Agents		
+DB03128	Vasodilator Agents		
+DB03128	Cholinergic Agonists		
+DB03128	Cholinergic Agents		
+DB03166	Indicators and Reagents		
+DB03166	Anti-Bacterial Agents		
+DB03172	Antibiotics, Antineoplastic		
+DB03172	Antimetabolites, Antineoplastic		
+DB03177	Anti-Bacterial Agents		
+DB03193	Pharmaceutic Aids		
+DB03206	Antiviral Agents		
+DB03206	Enzyme Inhibitors		
+DB03255	Anti-Infective Agents, Local		
+DB03255	Sclerosing Solutions		
+DB03255	Disinfectants		
+DB03255	Antipsoriatic Agents		
+DB03329	Cathepsin B		
+DB03424	Antineoplastic Agents		
+DB03424	Immunosuppressive Agents		
+DB03424	Hypolipidemic Agents		
+DB03496	Antineoplastic Agents		
+DB03496	Protein Kinase Inhibitors		
+DB03496	Growth Inhibitors		
+DB03516	Enzyme Inhibitors		
+DB03516	Antineoplastics, Adjuncts		
+DB03575	Enzyme Inhibitors		
+DB03575	Hallucinogens		
+DB03575	Excitatory Amino Acid Antagonists		
+DB03585	Anti-Inflammatory Agents, Non-Steroidal		
+DB03600	Antifungal Agents		
+DB03608	Trypanocidal Agents		
+DB03615	Anti-Bacterial Agents		
+DB03615	Aminoglycosides		
+DB03644	Free Radical Scavengers		
+DB03701	Dopamine Uptake Inhibitors		
+DB03701	Appetite Depressants		
+DB03754	Buffers		
+DB03758	Antifungal Agents		
+DB03775	Mitogens		
+DB03783	Analgesics, Non-Narcotic		
+DB03793	Food Preservatives		
+DB03796	Enzyme Inhibitors		
+DB03843	Disinfectants		
+DB03843	Fixatives		
+DB03852	Anti-Infective Agents		
+DB03852	Solvents		
+DB03880	Antineoplastic Agents		
+DB03880	Protease Inhibitors		
+DB03902	Reducing Agents		
+DB03966	Anti-Bacterial Agents		
+DB03977	Mitogens		
+DB04106	Antineoplastic Agents		
+DB04124	Anti-Bacterial Agents		
+DB04214	Chromogenic Compounds		
+DB04216	Antioxidants		
+DB04217	Anti-Bacterial Agents		
+DB04223	Enzyme Inhibitors		
+DB04258	Antineoplastic Agents		
+DB04258	Immunosuppressive Agents		
+DB04272	Anticoagulants		
+DB04272	Chelating Agents		
+DB04297	Antifungal Agents		
+DB04365	Nootropic Agents		
+DB04376	Protein Kinase C-delta		
+DB04377	Hypolipidemic Agents		
+DB04436	Central Nervous System Stimulants		
+DB04468	Estrogen Antagonists		
+DB04539	Herbicides		
+DB04552	Anti-Inflammatory Agents, Non-Steroidal		
+DB04552	Cyclooxygenase Inhibitors		
+DB04570	Anti-Bacterial Agents		
+DB04570	Cephalosporins		
+DB04571	Photosensitizing Agents		
+DB04574	Contraceptive Agents		
+DB04574	Hormone Replacement Agents		
+DB04575	Estrogens		
+DB04575	Hormone Replacement Agents		
+DB04576	Enzyme Inhibitors		
+DB04576	Nucleic Acid Synthesis Inhibitors		
+DB04576	Anti-Infective Agents		
+DB04576	Quinolones		
+DB04581	Adrenergic alpha-Antagonists		
+DB04599	Nootropic Agents		
+DB04599	Antidepressive Agents		
+DB04626	Anti-Bacterial Agents		
+DB04628	Enzyme Inhibitors		
+DB04628	Insecticides		
+DB04657	Fungicides, Industrial		
+DB04682	Surface-Active Agents		
+DB04682	Antifoaming Agents		
+DB04682	Detergents		
+DB04682	Excipients		
+DB04682	Spermatocidal Agents		
+DB04690	Antineoplastic Agents, Phytogenic		
+DB04690	Topoisomerase I Inhibitors		
+DB04699	Solvents		
+DB04711	Contrast Media		
+DB04741	Antifungal Agents		
+DB04741	Anti-Bacterial Agents		
+DB04743	Anti-Inflammatory Agents, Non-Steroidal		
+DB04785	Anti-Bacterial Agents		
+DB04786	Antineoplastic Agents		
+DB04786	Antinematodal Agents		
+DB04786	Trypanocidal Agents		
+DB04794	Antifungal Agents		
+DB04795	Chelating Agents		
+DB04797	Anti-Bacterial Agents		
+DB04805	Anti-Bacterial Agents		
+DB04808	Anti-Bacterial Agents		
+DB04812	Anti-Inflammatory Agents, Non-Steroidal		
+DB04812	Dermatologic Agents		
+DB04812	Lipoxygenase Inhibitors		
+DB04813	Anti-Infective Agents, Local		
+DB04813	Antiplatyhelmintic Agents		
+DB04816	Mutagens		
+DB04816	Cathartics		
+DB04817	Anti-Inflammatory Agents, Non-Steroidal		
+DB04819	Anti-Allergic Agents		
+DB04819	Hypnotics and Sedatives		
+DB04819	Histamine H1 Antagonists		
+DB04820	Antidepressive Agents		
+DB04820	Monoamine Oxidase Inhibitors		
+DB04821	Dopamine Uptake Inhibitors		
+DB04822	Antitussive Agents		
+DB04823	Cathartics		
+DB04824	Indicators and Reagents		
+DB04825	Adrenergic Agents		
+DB04825	Vasodilator Agents		
+DB04825	Calcium Channel Blockers		
+DB04827	Antineoplastic Agents		
+DB04827	Carcinogens		
+DB04827	Anesthetics, Intravenous		
+DB04828	Anti-Inflammatory Agents, Non-Steroidal		
+DB04829	Serotonin Antagonists		
+DB04829	Hallucinogens		
+DB04829	Serotonin Receptor Agonists		
+DB04830	Hypoglycemic Agents		
+DB04831	Antihypertensive Agents		
+DB04831	Diuretics		
+DB04831	Uricosuric Agents		
+DB04832	Serotonin Uptake Inhibitors		
+DB04837	Histamine Antagonists		
+DB04838	Vasodilator Agents		
+DB04840	Antihypertensive Agents		
+DB04840	Adrenergic Agents		
+DB04840	Sympatholytics		
+DB04841	Anticonvulsants		
+DB04841	Vasodilator Agents		
+DB04841	Calcium Channel Blockers		
+DB04841	Histamine H1 Antagonists		
+DB04842	Antipsychotic Agents		
+DB04842	Dopamine Antagonists		
+DB04843	Cholinergic Antagonists		
+DB04844	Adrenergic Uptake Inhibitors		
+DB04847	Anti-anemic Agents		
+DB04850	Anti-Bacterial Agents		
+DB04853	Diagnostic Agents		
+DB04855	Anti-Arrhythmia Agents		
+DB04858	Antineoplastic Agents		
+DB04858	Radiation-Sensitizing Agents		
+DB04861	Antihypertensive Agents		
+DB04861	Adrenergic beta-1 Receptor Antagonists		
+DB04861	Vasodilator Agents		
+DB04863	Antianginal Agents		
+DB04864	Neuroprotective Agents		
+DB04864	Cholinesterase Inhibitors		
+DB04865	Antineoplastic Agents		
+DB04865	Angiogenesis Inhibitors		
+DB04865	Antineoplastic Agents, Phytogenic		
+DB04866	Antineoplastic Agents		
+DB04866	Angiogenesis Inhibitors		
+DB04866	Protein Synthesis Inhibitors		
+DB04866	Coccidiostats		
+DB04867	Antineoplastic Agents		
+DB04867	Anti-Obesity Agents		
+DB04868	Antineoplastic Agents		
+DB04869	Anti-migraine Agents		
+DB04870	Anti-Obesity Agents		
+DB04874	Antineoplastic Agents		
+DB04876	Dipeptidyl-Peptidase IV Inhibitors		
+DB04876	Antidiabetic Agents		
+DB04877	Antimalarials		
+DB04879	Antineoplastic Agents		
+DB04879	Protein Kinase Inhibitors		
+DB04881	Antineoplastics, Adjuncts		
+DB04882	Antineoplastic Agents		
+DB04884	Serotonin Uptake Inhibitors		
+DB04886	Anti-HIV Agents		
+DB04886	Reverse Transcriptase Inhibitors		
+DB04890	Mast Cell Stabilizers		
+DB04891	Antipsoriatic Agents		
+DB04893	Antineoplastic Agents		
+DB04894	Antineoplastic Agents		
+DB04894	Analgesics		
+DB04896	Serotonin Uptake Inhibitors		
+DB04896	Adrenergic Uptake Inhibitors		
+DB04896	Antidepressive Agents		
+DB04897	Pulmonary Surfactants		
+DB04898	Antithrombins		
+DB04899	Cardiovascular Agents		
+DB04899	Natriuretic Agents		
+DB04900	Antineoplastic Agents		
+DB04900	Adjuvants, Immunologic		
+DB04900	Immunosuppressive Agents		
+DB04901	Antipsoriatic Agents		
+DB04903	Hypnotics and Sedatives		
+DB04904	Immunosuppressive Agents		
+DB04904	Vaccines		
+DB04905	Antineoplastic Agents		
+DB04905	Platelet Aggregation Inhibitors		
+DB04905	Histamine Antagonists		
+DB04906	Antipsoriatic Agents		
+DB04907	Antineoplastic Agents		
+DB04909	Antimalarials		
+DB04910	Anthelmintics		
+DB04911	Anti-Bacterial Agents		
+DB04914	Antineoplastic Agents		
+DB04914	Vaccines		
+DB04915	Antineoplastic Agents		
+DB04917	Serotonin Receptor Agonists		
+DB04918	Anti-Bacterial Agents		
+DB04918	Cephalosporins		
+DB04919	Antithrombins		
+DB04925	Fibrinolytic Agents		
+DB04931	Affinity Labels		
+DB04932	Antithrombins		
+DB04934	Anti-Bacterial Agents		
+DB04934	Leprostatic Agents		
+DB04934	Antibiotics, Antitubercular		
+DB04936	Iron Chelating Agents		
+DB04937	Antineoplastic Agents		
+DB04937	Vaccines		
+DB04938	Estrogen Antagonists		
+DB04940	Antineoplastic Agents		
+DB04942	Antineoplastic Agents		
+DB04943	Immunosuppressive Agents		
+DB04944	Cardiovascular Agents		
+DB04947	Diagnostic Agents		
+DB04948	Antihypertensive Agents		
+DB04948	Adrenergic alpha-2 Receptor Agonists		
+DB04948	Narcotic Antagonists		
+DB04950	Antineoplastic Agents		
+DB04952	Anti-Bacterial Agents		
+DB04953	Anticonvulsants		
+DB04954	Anti-Arrhythmia Agents		
+DB04957	Anti-Arrhythmia Agents		
+DB04959	Antineoplastic Agents		
+DB04960	Antineoplastic Agents		
+DB04961	Antineoplastic Agents		
+DB04961	Anti-HIV Agents		
+DB04962	Diagnostic Agents		
+DB04963	Vaccines		
+DB04964	Antineoplastic Agents		
+DB04967	Antineoplastic Agents		
+DB04967	Schistosomicides		
+DB04969	Antineoplastic Agents		
+DB04972	Antineoplastic Agents		
+DB04973	Antineoplastic Agents		
+DB04975	Antineoplastic Agents		
+DB04977	Antineoplastic Agents		
+DB04978	Antineoplastic Agents		
+DB04979	Antineoplastic Agents		
+DB04982	Antineoplastic Agents		
+DB04982	Anticonvulsants		
+DB04985	Antineoplastic Agents		
+DB04986	Vaccines		
+DB04987	Anti-Bacterial Agents		
+DB04988	Antineoplastic Agents		
+DB04989	Vaccines		
+DB04996	Antineoplastic Agents		
+DB05013	Antineoplastic Agents		
+DB05014	Antineoplastic Agents		
+DB05015	Antineoplastic Agents		
+DB05015	Histone Deacetylase Inhibitors		
+DB05076	Antineoplastic Agents		
+DB05076	Anticarcinogenic Agents		
+DB05088	Enzyme Inhibitors		
+DB05088	Angiogenesis Inhibitors		
+DB05088	Chelating Agents		
+DB05100	Matrix Metalloproteinase Inhibitors		
+DB05109	Antineoplastic Agents, Alkylating		
+DB05121	Antineoplastic Agents		
+DB05210	Antineoplastic Agents		
+DB05213	Antineoplastic Agents		
+DB05216	Antineoplastic Agents		
+DB05217	Antineoplastic Agents		
+DB05218	Immunosuppressive Agents		
+DB05219	Antipsoriatic Agents		
+DB05220	Antineoplastic Agents		
+DB05222	Anti-Bacterial Agents		
+DB05223	Antineoplastic Agents		
+DB05224	Anti-Bacterial Agents		
+DB05227	Antithrombins		
+DB05228	Reverse Transcriptase Inhibitors		
+DB05232	Poisons		
+DB05232	Sodium Channel Blockers		
+DB05233	Contraceptive Agents		
+DB05235	Hormone Replacement Agents		
+DB05237	Immunosuppressive Agents		
+DB05238	Antineoplastic Agents		
+DB05239	Antineoplastic Agents		
+DB05240	Antineoplastic Agents		
+DB05241	Antineoplastic Agents		
+DB05243	Antineoplastic Agents		
+DB05245	Anti-Bacterial Agents		
+DB05245	Anti-Infective Agents, Local		
+DB05245	Sulfonamides		
+DB05245	Antibiotics, Topical		
+DB05246	Anticonvulsants		
+DB05246	Succinimides		
+DB05258	Antineoplastic Agents		
+DB05259	Adjuvants, Immunologic		
+DB05259	Immunosuppressive Agents		
+DB05262	Enzyme Inhibitors		
+DB05266	Platelet Aggregation Inhibitors		
+DB05266	Phosphodiesterase Inhibitors		
+DB05266	Bronchodilator Agents		
+DB05266	Vasodilator Agents		
+DB05271	Antidyskinetics		
+DB05305	Antineoplastic Agents		
+DB05306	Antianginal Agents		
+DB05318	Sensory System Agents		
+DB05332	Colony-Stimulating Factors		
+DB05332	Thrombopoietic Agents		
+DB05351	Enzyme Inhibitors		
+DB05351	Anti-Ulcer Agents		
+DB05351	Anti-Infective Agents		
+DB05382	Trace Elements		
+DB05384	Tissue Adhesives		
+DB05395	Adrenergic beta-Agonists		
+DB05528	Anticholesteremic Agents		
+DB05528	Hypolipidemic Agents		
+DB05528	Oligodeoxyribonucleotides, Antisense		
+DB05630	Antineoplastic Agents		
+DB05651	Antineoplastic Agents		
+DB05651	Histone Deacetylase Inhibitors		
+DB05659	Anti-Bacterial Agents		
+DB05675	Contrast Media		
+DB05675	Diagnostic Agents		
+DB05692	Platelet Aggregation Inhibitors		
+DB05708	Nicotinic Agonists		
+DB05712	Antithrombins		
+DB05713	Antithrombins		
+DB05719	Antineoplastic Agents		
+DB05722	Antineoplastic Agents		
+DB05773	Antineoplastic Agents		
+DB05773	Tubulin Modulators		
+DB05773	Monoclonal antibodies		
+DB05830	Contraceptives, Postcoital, Hormonal		
+DB06144	Antipsychotic Agents		
+DB06147	Anti-Infective Agents		
+DB06148	Antidepressive Agents, Second-Generation		
+DB06148	Serotonin Antagonists		
+DB06148	Histamine H1 Antagonists		
+DB06148	Adrenergic alpha-Antagonists		
+DB06149	Anti-Bacterial Agents		
+DB06150	Anti-Infective Agents		
+DB06151	Antiviral Agents		
+DB06151	Free Radical Scavengers		
+DB06151	Expectorants		
+DB06168	Anti-Inflammatory Agents		
+DB06168	Monoclonal antibodies		
+DB06186	Antineoplastic Agents		
+DB06186	Monoclonal antibodies		
+DB06193	Antineoplastic Agents		
+DB06193	Topoisomerase II Inhibitors		
+DB06196	Anti-Inflammatory Agents, Non-Steroidal		
+DB06196	Adrenergic beta-Antagonists		
+DB06203	Dipeptidyl-Peptidase IV Inhibitors		
+DB06203	Antidiabetic Agents		
+DB06207	Adrenergic alpha-1 Receptor Antagonists		
+DB06209	Platelet Aggregation Inhibitors		
+DB06210	Thrombopoietic Agents		
+DB06212	Vasopressin receptor antagonists		
+DB06213	Diagnostic Agents		
+DB06218	Anticonvulsants		
+DB06255	Bone Density Conservation Agents		
+DB06262	Antiparkinson Agents		
+DB06271	Antithrombins		
+DB06271	Fibrinolytic Agents		
+DB06271	Hypoglycemic Agents		
+DB06271	Anticoagulants		
+DB06271	Hypolipidemic Agents		
+DB06285	Bone Density Conservation Agents		
+DB06288	Antipsychotic Agents		
+DB06288	Dopamine Antagonists		
+DB06290	Protease Inhibitors		
+DB06292	sodium-glucose cotransporter 2 inhibitor 		
+DB06335	Dipeptidyl-Peptidase IV Inhibitors		
+DB06335	Antidiabetic Agents		
+DB06366	Monoclonal antibodies		
+DB06372	Immunosuppressive Agents		
+DB06402	Anti-Bacterial Agents		
+DB06414	Reverse Transcriptase Inhibitors		
+DB06439	Surface-Active Agents		
+DB06439	Detergents		
+DB06590	Cephalosporins		
+DB06590	Antibiotics		
+DB06594	Antidepressive Agents		
+DB06637	Potassium Channel Blockers		
+DB06643	Bone Density Conservation Agents		
+DB06643	Monoclonal antibodies		
+DB06674	Antipsoriatic Agents		
+DB06674	Monoclonal antibodies		
+DB06674	TNF inhibitor		
+DB06681	Antirheumatic Agents		
+DB06681	Immunosuppressive Agents		
+DB06684	Serotonin Uptake Inhibitors		
+DB06684	Serotonin Receptor Agonists		
+DB06684	Antidepressive Agents		
+DB06689	Sclerosing Solutions		
+DB06691	Anti-Allergic Agents		
+DB06691	Histamine H1 Antagonists		
+DB06691	Histamine Antagonists		
+DB06692	Hemostatics		
+DB06692	Serine Proteinase Inhibitors		
+DB06692	Trypsin Inhibitors		
+DB06693	Antifungal Agents		
+DB06693	Anti-Bacterial Agents		
+DB06693	Anticholesteremic Agents		
+DB06693	Hydroxymethylglutaryl-CoA Reductase Inhibitors		
+DB06694	Nasal Decongestants		
+DB06695	Antithrombins		
+DB06696	Anti-Infective Agents		
+DB06696	Aminoglycosides		
+DB06696	Antibiotics		
+DB06697	Antifungal Agents		
+DB06697	Antimalarials		
+DB06697	Antiprotozoal Agents		
+DB06697	Coccidiostats		
+DB06697	Schistosomicides		
+DB06698	Antiemetics		
+DB06699	Gonadotropin-releasing hormone antagonist		
+DB06700	Serotonin Uptake Inhibitors		
+DB06700	Neurotransmitter Uptake Inhibitors		
+DB06700	Antidepressive Agents		
+DB06702	Muscarinic Antagonists		
+DB06702	Anti-Incontinence Agents		
+DB06702	Antispasmodics		
+DB06702	Muscle Relaxants, Genitourinary		
+DB06703	Contrast Media		
+DB06704	Diagnostic Agents		
+DB06705	Contrast Media		
+DB06705	Diagnostic Agents		
+DB06708	Antimalarials		
+DB06710	Antineoplastic Agents, Hormonal		
+DB06710	Anabolic Agents		
+DB06710	Hormone Replacement Agents		
+DB06711	Sympathomimetics		
+DB06713	Contraceptive Agents		
+DB06713	Contraceptives, Oral, Combined		
+DB06716	Hypnotics and Sedatives		
+DB06718	Steroids		
+DB06720	Enzymes		
+DB06723	Antacids		
+DB06724	Antacids		
+DB06725	Anti-Inflammatory Agents, Non-Steroidal		
+DB06726	Adrenergic beta-Antagonists		
+DB06727	Oxytocics		
+DB06727	Anti-Arrhythmia Agents		
+DB06728	Carcinogens		
+DB06729	Anti-Bacterial Agents		
+DB06729	Anti-Infective Agents		
+DB06729	Sulfonamides		
+DB06730	Contraceptives, Oral, Synthetic		
+DB06730	Progestins		
+DB06732	Enzyme Inhibitors		
+DB06738	Analgesics, Opioid		
+DB06738	Excitatory Amino Acid Antagonists		
+DB06742	Expectorants		
+DB06750	Central Nervous System Agents		
+DB06751	Analgesics		
+DB06751	Vasodilator Agents		
+DB06751	Parasympatholytics		
+DB06766	Anti-Inflammatory Agents		
+DB06766	Histamine H1 Antagonists		
+DB06768	Antipruritics		
+DB06770	Anesthetics, Local		
+DB06770	Pediculicides		
+DB06771	Quinolones		
+DB06771	Antibiotics		
+DB06772	Antineoplastic Agents		
+DB06777	Gastrointestinal Agents		
+DB06777	Cathartics		
+DB06779	Antithrombins		
+DB06779	Fibrinolytic Agents		
+DB06779	Anticoagulants		
+DB06779	Heparins		
+DB06781	Anti-Inflammatory Agents		
+DB06781	Glucocorticoids		
+DB06781	Corticosteroids		
+DB06782	Chelating Agents		
+DB06800	Narcotic Antagonists		
+DB06802	Anti-Inflammatory Agents		
+DB06802	Anti-Inflammatory Agents, Non-Steroidal		
+DB06802	Prodrugs		
+DB06804	Contraceptive Agents		
+DB06809	Anti-HIV Agents		
+DB06809	Hematopoietic Agents		
+DB06810	Protein Synthesis Inhibitors		
+DB06810	Nucleic Acid Synthesis Inhibitors		
+DB06810	Antibiotics, Antineoplastic		
+DB06810	Fluorescent Dyes		
+DB06811	Sclerosing Solutions		
+DB06811	Detergents		
+DB06817	Anti-HIV Agents		
+DB06822	Antithrombins		
+DB06822	Heparins		
+DB08792	Amebicides		
+DB08794	Anticoagulants		
+DB08795	Anti-Bacterial Agents		
+DB08795	Penicillins		
+DB08796	Antitussive Agents		
+DB08797	Anti-Inflammatory Agents, Non-Steroidal		
+DB08798	Anti-Bacterial Agents		
+DB08798	Anti-Infective Agents		
+DB08799	Anti-Allergic Agents		
+DB08799	Histamine H1 Antagonists		
+DB08799	Histamine Antagonists		
+DB08800	Histamine H1 Antagonists		
+DB08800	Histamine Antagonists		
+DB08801	Anti-Allergic Agents		
+DB08801	Antipruritics		
+DB08801	Histamine H1 Antagonists		
+DB08801	Cholinergic Antagonists		
+DB08801	Histamine Antagonists		
+DB08802	Antipruritics		
+DB08802	Histamine Antagonists		
+DB08804	Anabolic Agents		
+DB08805	Anti-Ulcer Agents		
+DB08805	Histamine H2 Antagonists		
+DB08806	Anti-Ulcer Agents		
+DB08806	Histamine H2 Antagonists		
+DB08808	Antihypertensive Agents		
+DB08808	Anti-Arrhythmia Agents		
+DB08808	Adrenergic beta-Antagonists		
+DB08811	Antidepressive Agents		
+DB08811	Benzodiazepines		
+DB08813	Antithrombins		
+DB08814	Antithrombins		
+DB08814	Platelet Aggregation Inhibitors		
+DB08816	Platelet Aggregation Inhibitors		
+DB08818	Adjuvants, Immunologic		
+DB08818	Viscosupplements		
+DB08819	Prostaglandins, Synthetic		
+DB08819	Ophthalmics		
+DB08822	Angiotensin Receptor Antagonists		
+DB08823	Insecticides		
+DB08823	Antiscabies Agents		
+DB08824	Diagnostic Agents		
+DB08826	Chelating Agents		
+DB08826	Iron Chelating Agents		
+DB08827	Hypolipidemic Agents		
+DB08830	Vitamins		
+DB08831	Antineoplastic Agents		
+DB08831	Antiviral Agents		
+DB08831	Antimetabolites		
+DB08831	Diagnostic Agents		
+DB08834	Antiviral Agents		
+DB08834	Cholagogues and Choleretics		
+DB08834	Cholesterol Absorption Inhibitors		
+DB08835	Mast Cell Stabilizers		
+DB08836	Angiotensin-Converting Enzyme Inhibitors		
+DB08836	Antihypertensive Agents		
+DB08837	Potassium Channel Blockers		
+DB08842	Vitamin B Complex		
+DB08842	Nootropic Agents		
+DB08844	Antioxidants		
+DB08846	Antineoplastic Agents		
+DB08860	Hypolipidemic Agents		
+DB08865	Protein Kinase Inhibitors		
+DB08871	Microtubule Inhibitors		
+DB08874	Antibiotics		
+DB08876	Enzymes		
+DB08878	Folic Acid Antagonists		
+DB08879	Monoclonal antibodies		
+DB08882	Dipeptidyl-Peptidase IV Inhibitors		
+DB08882	Antidiabetic Agents		
+DB08884	Contrast Media		
+DB08884	Diagnostic Agents		
+DB08885	Antineoplastic Agents		
+DB08885	Ophthalmics		
+DB08886	Enzymes		
+DB08887	Hypolipidemic Agents		
+DB08888	Ophthalmics		
+DB08889	Antineoplastic Agents		
+DB08893	Muscle Relaxants, Genitourinary		
+DB08894	Colony-Stimulating Factors		
+DB08894	Hematopoietic Agents		
+DB08896	Antineoplastic Agents		
+DB08897	Muscarinic Antagonists		
+DB08897	Antispasmodics		
+DB08898	Enzymes		
+DB08899	Antineoplastic Agents		
+DB08902	Anti-Infective Agents		
+DB08902	Monoclonal antibodies		
+DB08903	Antitubercular Agents		
+DB08904	TNF inhibitor		
+DB08905	Antineoplastic Agents		
+DB08905	Aromatase Inhibitors		
+DB08905	Steroids		
+DB08906	Corticosteroids		
+DB08907	Antidiabetic Agents		
+DB08908	Dermatologic Agents		
+DB08908	Immunosuppressive Agents		
+DB08908	Radiation-Sensitizing Agents		
+DB08909	Ammonia Detoxicants		
+DB08910	Immunosuppressive Agents		
+DB08913	Diagnostic Agents		
+DB08914	Hypoglycemic Agents		
+DB08914	Antidiabetic Agents		
+DB08917	Iron Preparations		
+DB08918	Serotonin Uptake Inhibitors		
+DB08932	Vasodilator Agents		
+DB08933	Antifungal Agents		
+DB08934	Antiviral Agents		
+DB08935	Antineoplastic Agents		
+DB08936	Anti-Allergic Agents		
+DB08936	Histamine H1 Antagonists		
+DB08936	Histamine Antagonists		
