@@ -1,8 +1,10 @@
 exports.setting = {
     // web app
-    app_name: 'leapbase',
+    app_name: 'drugbase',
     http_mode: true,
-    http_port: 8080,
+    http_port: 8200,
     // database
-    database: null
+    db_type: 'mongo',
+    db_host: 'localhost',
+    db_name: 'drugbase'
 };
