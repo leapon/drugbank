@@ -1,2 +1,3 @@
-# drugbank
-drugbank web interface
+# drugbase
+
+drug information web portal
