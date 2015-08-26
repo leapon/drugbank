@@ -6,3 +6,4 @@ npm-debug.log
 **/dist/*.css
 !**/dist/.gitkeep
 !site/node_modules
+site/setting.js
